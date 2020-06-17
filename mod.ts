@@ -1,10 +1,10 @@
-import { join } from "https://deno.land/std@0.52.0/path/mod.ts";
+import { join } from "https://deno.land/std@0.3.0/path/mod.ts";
 import { timeAgo } from "https://deno.land/x/time_ago/mod.ts";
 import {
   readFileStr,
   writeFileStr,
   writeJson,
-} from "https://deno.land/std@0.52.0/fs/mod.ts";
+} from "https://deno.land/std@0.3.0/fs/mod.ts";
 
 const GH_PAT = Deno.env.get("GH_PAT");
 
