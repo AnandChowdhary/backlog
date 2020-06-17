@@ -1,4 +1,5 @@
 import { join } from "https://deno.land/std/path/mod.ts";
+import { timeAgo } from "https://deno.land/x/time_ago/mod.ts";
 import {
   readFileStr,
   writeFileStr,
@@ -44,7 +45,7 @@ const updateBacklog = async () => {
   const data = notifications
     .filter((i) => !i.repository.private)
     .map((i) => {
-      const repo = i.repository;
+      const repo = { ...i.repository };
       delete i.repository;
       delete i.id;
       delete i.unread;
@@ -64,6 +65,22 @@ const updateBacklog = async () => {
 
   // Write README.md
   const readmeText = await readFileStr(join(".", "template.md"));
+  await writeFileStr(
+    join(".", "README.md"),
+    readmeText.replace(
+      "<!--list-->",
+      data
+        .map(
+          (i) =>
+            `- **[${i.subject.title}](${i.subject.url})**  \n[${
+              i.repository
+            }](https://github.com/${i.repository}) · ${
+              i.description
+            }  \nLast updated ${timeAgo(new Date(i.updated_at))}  \n`
+        )
+        .join("\n")
+    )
+  );
 };
 
 updateBacklog();
