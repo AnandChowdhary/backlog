@@ -53,6 +53,14 @@ const updateBacklog = async () => {
       delete i.last_read_at;
       delete i.url;
       delete i.subscription_url;
+      i.subject.url = i.subject.url.replace(
+        "https://api.github.com/repos/",
+        "https://github.com/"
+      );
+      i.subject.latest_comment_url = i.subject.latest_comment_url.replace(
+        "https://api.github.com/repos/",
+        "https://github.com/"
+      );
       return {
         ...i,
         repository: repo.full_name,
