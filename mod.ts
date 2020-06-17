@@ -9,6 +9,8 @@ const updateBacklog = async () => {
   // Fetch all notifications
   const notifications: {
     id: string;
+    url: string;
+    subscription_url: string;
     repository: {
       id: number;
       full_name: string;
@@ -33,7 +35,29 @@ const updateBacklog = async () => {
       },
     })
   ).json();
-  await writeJson(join(".", "data.json"), notifications, { spaces: 2 });
+
+  // Write JSON file
+  await writeJson(
+    join(".", "data.json"),
+    notifications
+      .filter((i) => !i.repository.private)
+      .map((i) => {
+        const repo = i.repository;
+        delete i.repository;
+        delete i.id;
+        delete i.unread;
+        delete i.reason;
+        delete i.last_read_at;
+        delete i.url;
+        delete i.subscription_url;
+        return {
+          ...i,
+          repository: repo.full_name,
+          description: repo.description,
+        };
+      }),
+    { spaces: 2 }
+  );
 };
 
 updateBacklog();
