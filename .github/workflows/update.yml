@@ -1,0 +1,32 @@
+name: Karuna 2020 Open Data
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "6 6 1-31/2 * *"
+  repository_dispatch:
+    types: [update]
+jobs:
+  release:
+    name: Update
+    runs-on: ubuntu-18.04
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Setup Deno
+        uses: denolib/setup-deno@master
+        with:
+          deno-version: 1.x
+      - name: Update backlog data
+        run: deno run --allow-net --allow-write --allow-read --allow-env --unstable mod.ts
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+      - name: Commit new data
+        uses: stefanzweifel/git-auto-commit-action@v4.1.1
+        with:
+          commit_message: ":card_file_box: Update open data [skip ci]"
+          commit_user_name: GitHub Actions
+          commit_user_email: actions@github.com
+          commit_author: GitHub Actions <actions@github.com>
