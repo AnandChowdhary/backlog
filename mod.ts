@@ -1,5 +1,9 @@
 import { join } from "https://deno.land/std/path/mod.ts";
-import { writeJson } from "https://deno.land/std/fs/mod.ts";
+import {
+  readFileStr,
+  writeFileStr,
+  writeJson,
+} from "https://deno.land/std/fs/mod.ts";
 
 const GH_PAT = Deno.env.get("GH_PAT");
 
@@ -36,28 +40,30 @@ const updateBacklog = async () => {
     })
   ).json();
 
+  // Edit file structure
+  const data = notifications
+    .filter((i) => !i.repository.private)
+    .map((i) => {
+      const repo = i.repository;
+      delete i.repository;
+      delete i.id;
+      delete i.unread;
+      delete i.reason;
+      delete i.last_read_at;
+      delete i.url;
+      delete i.subscription_url;
+      return {
+        ...i,
+        repository: repo.full_name,
+        description: repo.description,
+      };
+    });
+
   // Write JSON file
-  await writeJson(
-    join(".", "data.json"),
-    notifications
-      .filter((i) => !i.repository.private)
-      .map((i) => {
-        const repo = i.repository;
-        delete i.repository;
-        delete i.id;
-        delete i.unread;
-        delete i.reason;
-        delete i.last_read_at;
-        delete i.url;
-        delete i.subscription_url;
-        return {
-          ...i,
-          repository: repo.full_name,
-          description: repo.description,
-        };
-      }),
-    { spaces: 2 }
-  );
+  await writeJson(join(".", "data.json"), data, { spaces: 2 });
+
+  // Write README.md
+  const readmeText = await readFileStr(join(".", "template.md"));
 };
 
 updateBacklog();
