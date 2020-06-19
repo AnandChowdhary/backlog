@@ -44,6 +44,7 @@ const updateBacklog = async () => {
   // Edit file structure
   const data = notifications
     .filter((i) => !i.repository.private)
+    .filter((i) => new Date().getTime() - new Date(i.updated_at).getTime() > 172800000)
     .map((i) => {
       const repo = { ...i.repository };
       delete i.repository;
