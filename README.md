@@ -4,42 +4,6 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 [![Backlog Updater](https://github.com/AnandChowdhary/backlog/workflows/Backlog%20Updater/badge.svg)](https://github.com/AnandChowdhary/backlog/actions)
 
-- **[⬆️ Bump rollup from 2.17.0 to 2.17.1](https://github.com/elninotech/uppload/pulls/242)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated an hour ago  
-
-- **[Bump @fortawesome/free-brands-svg-icons from 5.13.0 to 5.13.1](https://github.com/AnandChowdhary/sharer.link/pulls/223)**  
-[AnandChowdhary/sharer.link](https://github.com/AnandChowdhary/sharer.link) · 🔗 Share links for songs, places, podcasts, and more  
-Last updated 2 hours ago  
-
-- **[build(deps): Bump snyk from 1.342.2 to 1.345.1](https://github.com/staart/api/pulls/1226)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ Backend, API, and payments starter for SaaS startups  
-Last updated 2 hours ago  
-
-- **[build(deps-dev): Bump @types/mysql from 2.15.13 to 2.15.14](https://github.com/staart/api/pulls/1225)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ Backend, API, and payments starter for SaaS startups  
-Last updated 2 hours ago  
-
-- **[⬆️ Bump nuxt from 2.12.2 to 2.13.0](https://github.com/staart/ui/pulls/907)**  
-[staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
-Last updated 2 hours ago  
-
-- **[Bump @fortawesome/free-solid-svg-icons from 5.13.0 to 5.13.1](https://github.com/AnandChowdhary/sharer.link/pulls/225)**  
-[AnandChowdhary/sharer.link](https://github.com/AnandChowdhary/sharer.link) · 🔗 Share links for songs, places, podcasts, and more  
-Last updated 2 hours ago  
-
-- **[Bump vue-property-decorator from 8.5.0 to 9.0.0](https://github.com/AnandChowdhary/gitwriter/pulls/232)**  
-[AnandChowdhary/gitwriter](https://github.com/AnandChowdhary/gitwriter) · 📝 Version control your thoughts  
-Last updated 2 hours ago  
-
-- **[Bump @fortawesome/fontawesome-svg-core from 1.2.28 to 1.2.29](https://github.com/AnandChowdhary/sharer.link/pulls/222)**  
-[AnandChowdhary/sharer.link](https://github.com/AnandChowdhary/sharer.link) · 🔗 Share links for songs, places, podcasts, and more  
-Last updated 2 hours ago  
-
-- **[Bump vue-property-decorator from 8.5.0 to 9.0.0](https://github.com/AnandChowdhary/sharer.link/pulls/224)**  
-[AnandChowdhary/sharer.link](https://github.com/AnandChowdhary/sharer.link) · 🔗 Share links for songs, places, podcasts, and more  
-Last updated 2 hours ago  
-
 - **[Missing dependencies from package.json](https://github.com/AnandChowdhary/auto-i18n/issues/299)**  
 [AnandChowdhary/auto-i18n](https://github.com/AnandChowdhary/auto-i18n) · 🌐 Automatically translate your JSON I18N files  
 Last updated last week  
@@ -90,7 +54,7 @@ Last updated 6 days ago
 
 - **[404 on README](https://github.com/denorg/x/issues/1)**  
 [denorg/x](https://github.com/denorg/x) · 🧺 Mirror of deno.land/x for third-party Deno modules  
-Last updated 4 weeks ago  
+Last updated last month  
 
 - **[outlook live calendar showing different dates](https://github.com/AnandChowdhary/calendar-link/issues/154)**  
 [AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
