@@ -42,7 +42,7 @@ Last updated 4 weeks ago
 
 - **[Add support for `commitTemplate` configuration](https://github.com/all-contributors/all-contributors/issues/374)**  
 [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) · ✨ Recognize all contributors, not just the ones who push code ✨  
-Last updated 4 weeks ago  
+Last updated last month  
 
 - **[The date is wrong on `amount-received` endpoint](https://github.com/Karuna2020/open-data/issues/11)**  
 [Karuna2020/open-data](https://github.com/Karuna2020/open-data) · 📈 Open data API about our contributors, donors, and beneficiaries  
