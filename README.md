@@ -61,11 +61,11 @@ Last updated last month
 Last updated 2 weeks ago  
 
 - **[Default .env.example inline comments causing malformed links and values.](https://github.com/staart/api/issues/1126)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ Backend, API, and payments starter for SaaS startups  
+[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
 Last updated last month  
 
 - **[install docs: schema.sql](https://github.com/staart/api/issues/1143)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ Backend, API, and payments starter for SaaS startups  
+[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
 Last updated last month  
 
 - **[Question...not an issue report](https://github.com/staart/api-nest/issues/2)**  
@@ -77,15 +77,15 @@ Last updated last month
 Last updated last month  
 
 - **[AWS SES and ES config](https://github.com/staart/api/issues/1121)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ Backend, API, and payments starter for SaaS startups  
+[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
 Last updated 2 months ago  
 
 - **[Use Casbin to manage user permissions ](https://github.com/staart/api/issues/337)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ Backend, API, and payments starter for SaaS startups  
+[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
 Last updated 2 months ago  
 
 - **[Leaking email to Gravatar. ](https://github.com/staart/api/issues/1114)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ Backend, API, and payments starter for SaaS startups  
+[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
 Last updated 2 months ago  
 
 - **[Call camera.close() when not using Camera service](https://github.com/elninotech/uppload/issues/165)**  
@@ -109,7 +109,7 @@ Last updated 2 months ago
 Last updated last week  
 
 - **[Confirm password before performing security tasks](https://github.com/staart/api/issues/1023)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ Backend, API, and payments starter for SaaS startups  
+[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
 Last updated 2 months ago  
 
 - **[When source code will be released?](https://github.com/staart/exprext/issues/1)**  
