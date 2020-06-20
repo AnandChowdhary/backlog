@@ -46,7 +46,7 @@ Last updated 4 weeks ago
 
 - **[The date is wrong on `amount-received` endpoint](https://github.com/Karuna2020/open-data/issues/11)**  
 [Karuna2020/open-data](https://github.com/Karuna2020/open-data) · 📈 Open data API about our contributors, donors, and beneficiaries  
-Last updated 4 weeks ago  
+Last updated last month  
 
 - **[Exif data is getting lost](https://github.com/elninotech/uppload/issues/210)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
