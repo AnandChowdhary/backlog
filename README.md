@@ -38,7 +38,7 @@ Last updated 4 weeks ago
 
 - **[There is a little scroll bar on the footer](https://github.com/staart/site/issues/177)**  
 [staart/site](https://github.com/staart/site) · 🏁📑 Static site generator for landing pages, docs, and more  
-Last updated 4 weeks ago  
+Last updated last month  
 
 - **[Add support for `commitTemplate` configuration](https://github.com/all-contributors/all-contributors/issues/374)**  
 [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) · ✨ Recognize all contributors, not just the ones who push code ✨  
