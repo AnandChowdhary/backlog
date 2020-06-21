@@ -10,7 +10,7 @@ Last updated 2 days ago
 
 - **[Missing dependencies from package.json](https://github.com/AnandChowdhary/auto-i18n/issues/299)**  
 [AnandChowdhary/auto-i18n](https://github.com/AnandChowdhary/auto-i18n) · 🌐 Automatically translate your JSON I18N files  
-Last updated last week  
+Last updated 2 weeks ago  
 
 - **[Using camera feature in mobile  responsive way is not working](https://github.com/elninotech/uppload/issues/232)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
