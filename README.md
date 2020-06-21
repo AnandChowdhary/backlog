@@ -34,7 +34,7 @@ Last updated 3 weeks ago
 
 - **[ETXTBSY error when an instance of prisma2 is already running ](https://github.com/prisma/prisma/issues/1209)**  
 [prisma/prisma](https://github.com/prisma/prisma) · Modern DB toolkit to query, migrate and model your database  
-Last updated 3 weeks ago  
+Last updated 4 weeks ago  
 
 - **[There is a little scroll bar on the footer](https://github.com/staart/site/issues/177)**  
 [staart/site](https://github.com/staart/site) · 🏁📑 Static site generator for landing pages, docs, and more  
