@@ -1,6 +1,7 @@
 import { join } from "path";
 import { format } from "timeago.js";
 import { readFile, writeFile, writeJson } from "fs-extra";
+import fetch from "node-fetch";
 
 const GH_PAT = process.env.GH_PAT;
 
@@ -8,7 +9,13 @@ const updateBacklog = async () => {
   if (!GH_PAT) throw new Error("GitHub Personal Access Token not found");
 
   // Fetch all notifications
-  const notifications: {
+  const notifications = (await (
+    await fetch("https://api.github.com/notifications", {
+      headers: {
+        Authorization: `Bearer ${GH_PAT}`,
+      },
+    })
+  ).json()) as {
     id: string;
     url: string;
     subscription_url: string;
@@ -29,13 +36,7 @@ const updateBacklog = async () => {
     unread: boolean;
     updated_at: string;
     last_read_at: string;
-  }[] = await (
-    await fetch("https://api.github.com/notifications", {
-      headers: {
-        Authorization: `Bearer ${GH_PAT}`,
-      },
-    })
-  ).json();
+  }[];
 
   // Edit file structure
   const data = notifications
