@@ -1,10 +1,6 @@
-import { join } from "https://deno.land/std@0.51.0/path/mod.ts";
-import { timeAgo } from "https://deno.land/x/time_ago/mod.ts";
-import {
-  readFileStr,
-  writeFileStr,
-  writeJson,
-} from "https://deno.land/std@0.51.0/fs/mod.ts";
+import { join } from "path";
+import { format } from "timeago.js";
+import { readFile, writeFile, writeJson } from "fs-extra";
 
 const GH_PAT = process.env.GH_PAT;
 
@@ -75,8 +71,8 @@ const updateBacklog = async () => {
   await writeJson(join(".", "data.json"), data, { spaces: 2 });
 
   // Write README.md
-  const readmeText = await readFileStr(join(".", "template.md"));
-  await writeFileStr(
+  const readmeText = await readFile(join(".", "template.md"), "utf8");
+  await writeFile(
     join(".", "README.md"),
     readmeText.replace(
       "<!--list-->",
@@ -87,7 +83,7 @@ const updateBacklog = async () => {
               i.repository
             }](https://github.com/${i.repository}) · ${
               i.description
-            }  \nLast updated ${timeAgo(new Date(i.updated_at))}  \n`
+            }  \nLast updated ${format(new Date(i.updated_at))}  \n`
         )
         .join("\n")
     )
