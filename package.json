@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "This is a list of things I (still) have to do from my GitHub open-source projects — a backlog of issues.",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "update-backlog": "npx ts-node index.ts"
@@ -20,6 +21,7 @@
   "homepage": "https://github.com/AnandChowdhary/backlog#readme",
   "dependencies": {
     "fs-extra": "^9.0.1",
+    "node-fetch": "^3.0.0-beta.7",
     "timeago.js": "^4.0.2"
   },
   "devDependencies": {
