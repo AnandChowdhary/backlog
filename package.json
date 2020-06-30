@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/AnandChowdhary/backlog/issues"
   },
-  "homepage": "https://github.com/AnandChowdhary/backlog#readme"
+  "homepage": "https://github.com/AnandChowdhary/backlog#readme",
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "timeago.js": "^4.0.2"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^9.0.1",
+    "typescript": "^3.9.5"
+  }
 }
