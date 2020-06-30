@@ -1,0 +1,20 @@
+{
+  "name": "backlog",
+  "version": "1.0.0",
+  "description": "This is a list of things I (still) have to do from my GitHub open-source projects — a backlog of issues.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnandChowdhary/backlog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnandChowdhary/backlog/issues"
+  },
+  "homepage": "https://github.com/AnandChowdhary/backlog#readme"
+}
