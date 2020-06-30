@@ -6,7 +6,7 @@ import {
   writeJson,
 } from "https://deno.land/std@0.51.0/fs/mod.ts";
 
-const GH_PAT = Deno.env.get("GH_PAT");
+const GH_PAT = process.env.GH_PAT;
 
 const updateBacklog = async () => {
   if (!GH_PAT) throw new Error("GitHub Personal Access Token not found");
@@ -44,7 +44,9 @@ const updateBacklog = async () => {
   // Edit file structure
   const data = notifications
     .filter((i) => !i.repository.private)
-    .filter((i) => new Date().getTime() - new Date(i.updated_at).getTime() > 172800000)
+    .filter(
+      (i) => new Date().getTime() - new Date(i.updated_at).getTime() > 172800000
+    )
     .map((i) => {
       const repo = { ...i.repository };
       delete i.repository;
