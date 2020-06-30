@@ -1,18 +1,19 @@
 {
   "name": "backlog",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "This is a list of things I (still) have to do from my GitHub open-source projects — a backlog of issues.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update-backlog": "npx ts-node index.ts"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AnandChowdhary/backlog.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Anand Chowdhary <mail@anandchowdhary.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/AnandChowdhary/backlog/issues"
   },
