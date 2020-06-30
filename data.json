@@ -1,5 +1,16 @@
 [
   {
+    "updated_at": "2020-06-26T07:50:22Z",
+    "subject": {
+      "title": "Cannot click on other upload options after one is selected",
+      "url": "https://github.com/elninotech/uppload/issues/249",
+      "latest_comment_url": "https://github.com/elninotech/uppload/issues/249",
+      "type": "Issue"
+    },
+    "repository": "elninotech/uppload",
+    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
+  },
+  {
     "updated_at": "2020-06-19T12:11:48Z",
     "subject": {
       "title": "Possibility to use with Ruby on Rails together with Cloudinary",
