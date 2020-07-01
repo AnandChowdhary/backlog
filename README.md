@@ -62,7 +62,7 @@ Last updated 1 month ago
 
 - **[outlook live calendar showing different dates](https://github.com/AnandChowdhary/calendar-link/issues/154)**  
 [AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
-Last updated 3 weeks ago  
+Last updated 4 weeks ago  
 
 - **[Default .env.example inline comments causing malformed links and values.](https://github.com/staart/api/issues/1126)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
