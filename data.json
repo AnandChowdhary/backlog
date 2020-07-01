@@ -121,6 +121,17 @@
     "description": "✨ Recognize all contributors, not just the ones who push code ✨"
   },
   {
+    "updated_at": "2020-05-23T14:31:43Z",
+    "subject": {
+      "title": "The date is wrong on `amount-received` endpoint",
+      "url": "https://github.com/Karuna2020/open-data/issues/11",
+      "latest_comment_url": "https://github.com/Karuna2020/open-data/issues/comments/633065286",
+      "type": "Issue"
+    },
+    "repository": "Karuna2020/open-data",
+    "description": "📈 Open data API about our contributors, donors, and beneficiaries"
+  },
+  {
     "updated_at": "2020-06-13T16:21:15Z",
     "subject": {
       "title": "Exif data is getting lost",
