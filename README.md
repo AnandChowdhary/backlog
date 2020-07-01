@@ -78,7 +78,7 @@ Last updated 1 month ago
 
 - **[AWS SES and ES config](https://github.com/staart/api/issues/1121)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 1 month ago  
+Last updated 2 months ago  
 
 - **[Use Casbin to manage user permissions ](https://github.com/staart/api/issues/337)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
