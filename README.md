@@ -96,18 +96,6 @@ Last updated 2 months ago
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
 Last updated 2 weeks ago  
 
-- **[outlook online event is not generated in mobile devices](https://github.com/AnandChowdhary/calendar-link/issues/162)**  
-[AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
-Last updated 2 months ago  
-
-- **[unable to generate event if the user is not loggedin to outlook account  before selecting outlook online](https://github.com/AnandChowdhary/calendar-link/issues/161)**  
-[AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
-Last updated 2 months ago  
-
-- **[Progress Bar Suggestions](https://github.com/Karuna2020/karuna2020.org/issues/8)**  
-[Karuna2020/karuna2020.org](https://github.com/Karuna2020/karuna2020.org) · 🙌 Website for the Karuna 2020 project  
-Last updated 2 months ago  
-
 
 ## 👩‍💻 Development
 
