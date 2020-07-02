@@ -251,5 +251,16 @@
     },
     "repository": "elninotech/uppload",
     "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
+  },
+  {
+    "updated_at": "2020-04-29T17:37:00Z",
+    "subject": {
+      "title": "outlook online event is not generated in mobile devices",
+      "url": "https://github.com/AnandChowdhary/calendar-link/issues/162",
+      "latest_comment_url": "https://github.com/AnandChowdhary/calendar-link/issues/comments/621358377",
+      "type": "Issue"
+    },
+    "repository": "AnandChowdhary/calendar-link",
+    "description": "📅 Calendar link generator for popular services"
   }
 ]
