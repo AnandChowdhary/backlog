@@ -88,10 +88,6 @@ Last updated 1 month ago
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
 Last updated 2 months ago  
 
-- **[Use Casbin to manage user permissions ](https://github.com/staart/api/issues/337)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 2 months ago  
-
 - **[Leaking email to Gravatar. ](https://github.com/staart/api/issues/1114)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
 Last updated 2 months ago  
