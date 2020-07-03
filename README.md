@@ -10,7 +10,7 @@ Last updated 2 days ago
 
 - **[Cannot click on other upload options after one is selected](https://github.com/elninotech/uppload/issues/249)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 6 days ago  
+Last updated 1 week ago  
 
 - **[Possibility to use with Ruby on Rails together with Cloudinary](https://github.com/elninotech/uppload/issues/239)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
@@ -130,6 +130,10 @@ Last updated 2 months ago
 
 - **[how to connect custom web app to this front end templete ](https://github.com/staart/ui/issues/803)**  
 [staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
+Last updated 2 months ago  
+
+- **[How do I recreate this?](https://github.com/AnandChowdhary/life-data/issues/9)**  
+[AnandChowdhary/life-data](https://github.com/AnandChowdhary/life-data) · 📈 Data from my life, committed by a bot  
 Last updated 2 months ago  
 
 
