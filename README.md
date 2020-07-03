@@ -14,7 +14,7 @@ Last updated 1 week ago
 
 - **[Possibility to use with Ruby on Rails together with Cloudinary](https://github.com/elninotech/uppload/issues/239)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 1 week ago  
+Last updated 2 weeks ago  
 
 - **[Missing dependencies from package.json](https://github.com/AnandChowdhary/auto-i18n/issues/299)**  
 [AnandChowdhary/auto-i18n](https://github.com/AnandChowdhary/auto-i18n) · 🌐 Automatically translate your JSON I18N files  
