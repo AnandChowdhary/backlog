@@ -80,10 +80,6 @@ Last updated 4 weeks ago
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
 Last updated 1 month ago  
 
-- **[install docs: schema.sql](https://github.com/staart/api/issues/1143)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 1 month ago  
-
 
 ## 👩‍💻 Development
 
