@@ -328,5 +328,38 @@
     },
     "repository": "staart/exprext",
     "description": "⛳ Exprext is a Next/Nuxt-like framework for Express + TypeScript"
+  },
+  {
+    "updated_at": "2020-04-08T14:14:13Z",
+    "subject": {
+      "title": "installation errors",
+      "url": "https://github.com/AnandChowdhary/hovercard/issues/467",
+      "latest_comment_url": "https://github.com/AnandChowdhary/hovercard/issues/comments/610984602",
+      "type": "Issue"
+    },
+    "repository": "AnandChowdhary/hovercard",
+    "description": "🖱️ Wikipedia summary cards for the web"
+  },
+  {
+    "updated_at": "2020-04-07T11:03:59Z",
+    "subject": {
+      "title": "how to connect custom web app to this front end templete ",
+      "url": "https://github.com/staart/ui/issues/803",
+      "latest_comment_url": "https://github.com/staart/ui/issues/comments/610322636",
+      "type": "Issue"
+    },
+    "repository": "staart/ui",
+    "description": "🏁🌐 Frontend Vue PWA starter for SaaS startups"
+  },
+  {
+    "updated_at": "2020-04-06T17:27:37Z",
+    "subject": {
+      "title": "How do I recreate this?",
+      "url": "https://github.com/AnandChowdhary/life-data/issues/9",
+      "latest_comment_url": "https://github.com/AnandChowdhary/life-data/issues/comments/609930338",
+      "type": "Issue"
+    },
+    "repository": "AnandChowdhary/life-data",
+    "description": "📈 Data from my life, committed by a bot"
   }
 ]
