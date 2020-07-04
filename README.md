@@ -30,7 +30,7 @@ Last updated 2 days ago
 
 - **[Ampersand in Subject for Outlook Web renders as &amp;](https://github.com/InteractionDesignFoundation/add-event-to-calendar-docs/issues/17)**  
 [InteractionDesignFoundation/add-event-to-calendar-docs](https://github.com/InteractionDesignFoundation/add-event-to-calendar-docs) · 📅 Docs how to generate links to add events to online calendar services  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[Update colors.json](https://github.com/AnandChowdhary/language-icons/pulls/3)**  
 [AnandChowdhary/language-icons](https://github.com/AnandChowdhary/language-icons) · 🈹 Better icons for languages, because flags just don't cut it  
@@ -142,10 +142,6 @@ Last updated 3 weeks ago
 
 - **[Confirm password before performing security tasks](https://github.com/staart/api/issues/1023)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 2 months ago  
-
-- **[When source code will be released?](https://github.com/staart/exprext/issues/1)**  
-[staart/exprext](https://github.com/staart/exprext) · ⛳ Exprext is a Next/Nuxt-like framework for Express + TypeScript  
 Last updated 2 months ago  
 
 
