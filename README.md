@@ -96,6 +96,62 @@ Last updated 1 month ago
 [AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
 Last updated 1 month ago  
 
+- **[Default .env.example inline comments causing malformed links and values.](https://github.com/staart/api/issues/1126)**  
+[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
+Last updated 1 month ago  
+
+- **[install docs: schema.sql](https://github.com/staart/api/issues/1143)**  
+[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
+Last updated 1 month ago  
+
+- **[Question...not an issue report](https://github.com/staart/api-nest/issues/2)**  
+[staart/api-nest](https://github.com/staart/api-nest) · 🏁⚠️ DEPRECATED: Working repo for NestJS Staart API  
+Last updated 1 month ago  
+
+- **[dotENV File Secret Keys question for clarification](https://github.com/staart/ui/issues/874)**  
+[staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
+Last updated 1 month ago  
+
+- **[AWS SES and ES config](https://github.com/staart/api/issues/1121)**  
+[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
+Last updated 2 months ago  
+
+- **[Leaking email to Gravatar. ](https://github.com/staart/api/issues/1114)**  
+[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
+Last updated 2 months ago  
+
+- **[Call camera.close() when not using Camera service](https://github.com/elninotech/uppload/issues/165)**  
+[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
+Last updated 2 weeks ago  
+
+- **[outlook online event is not generated in mobile devices](https://github.com/AnandChowdhary/calendar-link/issues/162)**  
+[AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
+Last updated 2 months ago  
+
+- **[unable to generate event if the user is not loggedin to outlook account  before selecting outlook online](https://github.com/AnandChowdhary/calendar-link/issues/161)**  
+[AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
+Last updated 2 months ago  
+
+- **[Progress Bar Suggestions](https://github.com/Karuna2020/karuna2020.org/issues/8)**  
+[Karuna2020/karuna2020.org](https://github.com/Karuna2020/karuna2020.org) · 🙌 Website for the Karuna 2020 project  
+Last updated 2 months ago  
+
+- **[Compression settings ignored when using Crop](https://github.com/elninotech/uppload/issues/113)**  
+[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
+Last updated 2 weeks ago  
+
+- **[Confirm password before performing security tasks](https://github.com/staart/api/issues/1023)**  
+[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
+Last updated 2 months ago  
+
+- **[When source code will be released?](https://github.com/staart/exprext/issues/1)**  
+[staart/exprext](https://github.com/staart/exprext) · ⛳ Exprext is a Next/Nuxt-like framework for Express + TypeScript  
+Last updated 2 months ago  
+
+- **[installation errors](https://github.com/AnandChowdhary/hovercard/issues/467)**  
+[AnandChowdhary/hovercard](https://github.com/AnandChowdhary/hovercard) · 🖱️ Wikipedia summary cards for the web  
+Last updated 2 months ago  
+
 
 ## 👩‍💻 Development
 
