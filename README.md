@@ -74,7 +74,7 @@ Last updated 3 days ago
 
 - **[Bump node-cache from 4.2.1 to 5.1.2](https://github.com/AnandChowdhary/fraud/pulls/256)**  
 [AnandChowdhary/fraud](https://github.com/AnandChowdhary/fraud) · 🗄 File-based key-JSON database with nodecache  
-Last updated 3 days ago  
+Last updated 4 days ago  
 
 - **[Ampersand in Subject for Outlook Web renders as &amp;](https://github.com/InteractionDesignFoundation/add-event-to-calendar-docs/issues/17)**  
 [InteractionDesignFoundation/add-event-to-calendar-docs](https://github.com/InteractionDesignFoundation/add-event-to-calendar-docs) · 📅 Docs how to generate links to add events to online calendar services  
@@ -190,6 +190,10 @@ Last updated 2 months ago
 
 - **[When source code will be released?](https://github.com/staart/exprext/issues/1)**  
 [staart/exprext](https://github.com/staart/exprext) · ⛳ Exprext is a Next/Nuxt-like framework for Express + TypeScript  
+Last updated 2 months ago  
+
+- **[installation errors](https://github.com/AnandChowdhary/hovercard/issues/467)**  
+[AnandChowdhary/hovercard](https://github.com/AnandChowdhary/hovercard) · 🖱️ Wikipedia summary cards for the web  
 Last updated 2 months ago  
 
 
