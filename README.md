@@ -52,10 +52,6 @@ Last updated 3 days ago
 [AnandChowdhary/language-icons](https://github.com/AnandChowdhary/language-icons) · 🈹 Better icons for languages, because flags just don't cut it  
 Last updated 4 days ago  
 
-- **[Cannot click on other upload options after one is selected](https://github.com/elninotech/uppload/issues/249)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 1 week ago  
-
 - **[Possibility to use with Ruby on Rails together with Cloudinary](https://github.com/elninotech/uppload/issues/239)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
 Last updated 2 weeks ago  
