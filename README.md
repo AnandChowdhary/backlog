@@ -4,6 +4,34 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 [![Backlog Updater](https://github.com/AnandChowdhary/backlog/workflows/Backlog%20Updater/badge.svg)](https://github.com/AnandChowdhary/backlog/actions)
 
+- **[Bump sass-loader from 8.0.2 to 9.0.1](https://github.com/AnandChowdhary/sharer.link/pulls/237)**  
+[AnandChowdhary/sharer.link](https://github.com/AnandChowdhary/sharer.link) · 🔗 Share links for songs, places, podcasts, and more  
+Last updated 2 days ago  
+
+- **[⬆️ Bump sass-loader from 8.0.2 to 9.0.1](https://github.com/AnandChowdhary/gitwriter/pulls/247)**  
+[AnandChowdhary/gitwriter](https://github.com/AnandChowdhary/gitwriter) · 📝 Version control your thoughts  
+Last updated 2 days ago  
+
+- **[Bump sass-loader from 8.0.2 to 9.0.1](https://github.com/AnandChowdhary/hovercard/pulls/547)**  
+[AnandChowdhary/hovercard](https://github.com/AnandChowdhary/hovercard) · 🖱️ Wikipedia summary cards for the web  
+Last updated 2 days ago  
+
+- **[Bump sass-loader from 8.0.2 to 9.0.1](https://github.com/AnandChowdhary/typestart/pulls/397)**  
+[AnandChowdhary/typestart](https://github.com/AnandChowdhary/typestart) · 📦 Typescript DOM library starter template  
+Last updated 2 days ago  
+
+- **[Bump sass-loader from 8.0.2 to 9.0.1](https://github.com/OswaldLabsOpenSource/agastya/pulls/534)**  
+[OswaldLabsOpenSource/agastya](https://github.com/OswaldLabsOpenSource/agastya) · ♿ Oswald Labs' web accessibility plugin  
+Last updated 2 days ago  
+
+- **[Bump sass-loader from 8.0.2 to 9.0.1](https://github.com/AnandChowdhary/scrub/pulls/375)**  
+[AnandChowdhary/scrub](https://github.com/AnandChowdhary/scrub) · 🧹 Track JS errors and send them to your backend  
+Last updated 2 days ago  
+
+- **[Bump sass-loader from 8.0.2 to 9.0.1](https://github.com/AnandChowdhary/hello-bar/pulls/563)**  
+[AnandChowdhary/hello-bar](https://github.com/AnandChowdhary/hello-bar) · 👋 Greet your visitors with a hello bar  
+Last updated 2 days ago  
+
 - **[⬆️ Bump typeset from 0.2.9 to 0.3.0](https://github.com/AnandChowdhary/anandchowdhary.com/pulls/218)**  
 [AnandChowdhary/anandchowdhary.com](https://github.com/AnandChowdhary/anandchowdhary.com) · 🌐 Anand Chowdhary's personal website, blog, and portfolio  
 Last updated 2 days ago  
@@ -50,7 +78,7 @@ Last updated 3 days ago
 
 - **[Ampersand in Subject for Outlook Web renders as &amp;](https://github.com/InteractionDesignFoundation/add-event-to-calendar-docs/issues/17)**  
 [InteractionDesignFoundation/add-event-to-calendar-docs](https://github.com/InteractionDesignFoundation/add-event-to-calendar-docs) · 📅 Docs how to generate links to add events to online calendar services  
-Last updated 3 days ago  
+Last updated 4 days ago  
 
 - **[Update colors.json](https://github.com/AnandChowdhary/language-icons/pulls/3)**  
 [AnandChowdhary/language-icons](https://github.com/AnandChowdhary/language-icons) · 🈹 Better icons for languages, because flags just don't cut it  
@@ -162,14 +190,6 @@ Last updated 2 months ago
 
 - **[When source code will be released?](https://github.com/staart/exprext/issues/1)**  
 [staart/exprext](https://github.com/staart/exprext) · ⛳ Exprext is a Next/Nuxt-like framework for Express + TypeScript  
-Last updated 2 months ago  
-
-- **[installation errors](https://github.com/AnandChowdhary/hovercard/issues/467)**  
-[AnandChowdhary/hovercard](https://github.com/AnandChowdhary/hovercard) · 🖱️ Wikipedia summary cards for the web  
-Last updated 2 months ago  
-
-- **[how to connect custom web app to this front end templete ](https://github.com/staart/ui/issues/803)**  
-[staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
 Last updated 2 months ago  
 
 
