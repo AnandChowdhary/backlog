@@ -1,5 +1,16 @@
 [
   {
+    "updated_at": "2020-07-03T07:04:36Z",
+    "subject": {
+      "title": "Resource diagram",
+      "url": "https://github.com/AnandChowdhary/bsc-thesis/issues/3",
+      "latest_comment_url": "https://github.com/AnandChowdhary/bsc-thesis/issues/comments/653388781",
+      "type": "Issue"
+    },
+    "repository": "AnandChowdhary/bsc-thesis",
+    "description": "📋 BSc thesis on Email-based Intelligent Virtual Assistants for Scheduling"
+  },
+  {
     "updated_at": "2020-07-03T04:27:10Z",
     "subject": {
       "title": "⬆️ Bump sass-loader from 8.0.2 to 9.0.0",

@@ -4,6 +4,10 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 [![Backlog Updater](https://github.com/AnandChowdhary/backlog/workflows/Backlog%20Updater/badge.svg)](https://github.com/AnandChowdhary/backlog/actions)
 
+- **[Resource diagram](https://github.com/AnandChowdhary/bsc-thesis/issues/3)**  
+[AnandChowdhary/bsc-thesis](https://github.com/AnandChowdhary/bsc-thesis) · 📋 BSc thesis on Email-based Intelligent Virtual Assistants for Scheduling  
+Last updated 2 days ago  
+
 - **[⬆️ Bump sass-loader from 8.0.2 to 9.0.0](https://github.com/staart/ui/pulls/918)**  
 [staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
 Last updated 2 days ago  
