@@ -184,18 +184,6 @@ Last updated 2 months ago
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
 Last updated 3 weeks ago  
 
-- **[Confirm password before performing security tasks](https://github.com/staart/api/issues/1023)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 2 months ago  
-
-- **[When source code will be released?](https://github.com/staart/exprext/issues/1)**  
-[staart/exprext](https://github.com/staart/exprext) · ⛳ Exprext is a Next/Nuxt-like framework for Express + TypeScript  
-Last updated 2 months ago  
-
-- **[installation errors](https://github.com/AnandChowdhary/hovercard/issues/467)**  
-[AnandChowdhary/hovercard](https://github.com/AnandChowdhary/hovercard) · 🖱️ Wikipedia summary cards for the web  
-Last updated 2 months ago  
-
 
 ## 👩‍💻 Development
 
