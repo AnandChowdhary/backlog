@@ -4,6 +4,10 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 [![Backlog Updater](https://github.com/AnandChowdhary/backlog/workflows/Backlog%20Updater/badge.svg)](https://github.com/AnandChowdhary/backlog/actions)
 
+- **[⬆️ Bump typeset from 0.2.9 to 0.3.0](https://github.com/AnandChowdhary/anandchowdhary.com/pulls/218)**  
+[AnandChowdhary/anandchowdhary.com](https://github.com/AnandChowdhary/anandchowdhary.com) · 🌐 Anand Chowdhary's personal website, blog, and portfolio  
+Last updated 2 days ago  
+
 - **[Use Casbin to manage user permissions ](https://github.com/staart/api/issues/337)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
 Last updated 2 days ago  
@@ -151,6 +155,22 @@ Last updated 2 months ago
 - **[Compression settings ignored when using Crop](https://github.com/elninotech/uppload/issues/113)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
 Last updated 3 weeks ago  
+
+- **[Confirm password before performing security tasks](https://github.com/staart/api/issues/1023)**  
+[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
+Last updated 2 months ago  
+
+- **[When source code will be released?](https://github.com/staart/exprext/issues/1)**  
+[staart/exprext](https://github.com/staart/exprext) · ⛳ Exprext is a Next/Nuxt-like framework for Express + TypeScript  
+Last updated 2 months ago  
+
+- **[installation errors](https://github.com/AnandChowdhary/hovercard/issues/467)**  
+[AnandChowdhary/hovercard](https://github.com/AnandChowdhary/hovercard) · 🖱️ Wikipedia summary cards for the web  
+Last updated 2 months ago  
+
+- **[how to connect custom web app to this front end templete ](https://github.com/staart/ui/issues/803)**  
+[staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
+Last updated 2 months ago  
 
 
 ## 👩‍💻 Development
