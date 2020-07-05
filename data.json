@@ -1,5 +1,27 @@
 [
   {
+    "updated_at": "2020-07-03T04:27:10Z",
+    "subject": {
+      "title": "⬆️ Bump sass-loader from 8.0.2 to 9.0.0",
+      "url": "https://github.com/staart/ui/pulls/918",
+      "latest_comment_url": "https://github.com/staart/ui/pulls/918",
+      "type": "PullRequest"
+    },
+    "repository": "staart/ui",
+    "description": "🏁🌐 Frontend Vue PWA starter for SaaS startups"
+  },
+  {
+    "updated_at": "2020-07-03T04:24:56Z",
+    "subject": {
+      "title": "⬆️ Bump vue-jest from 4.0.0-beta.3 to 5.0.0-alpha.1",
+      "url": "https://github.com/staart/ui/pulls/916",
+      "latest_comment_url": "https://github.com/staart/ui/pulls/916",
+      "type": "PullRequest"
+    },
+    "repository": "staart/ui",
+    "description": "🏁🌐 Frontend Vue PWA starter for SaaS startups"
+  },
+  {
     "updated_at": "2020-07-02T05:11:15Z",
     "subject": {
       "title": "⬆️ Bump rollup from 2.18.1 to 2.18.2",

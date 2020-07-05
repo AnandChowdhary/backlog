@@ -4,25 +4,33 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 [![Backlog Updater](https://github.com/AnandChowdhary/backlog/workflows/Backlog%20Updater/badge.svg)](https://github.com/AnandChowdhary/backlog/actions)
 
+- **[⬆️ Bump sass-loader from 8.0.2 to 9.0.0](https://github.com/staart/ui/pulls/918)**  
+[staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
+Last updated 2 days ago  
+
+- **[⬆️ Bump vue-jest from 4.0.0-beta.3 to 5.0.0-alpha.1](https://github.com/staart/ui/pulls/916)**  
+[staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
+Last updated 2 days ago  
+
 - **[⬆️ Bump rollup from 2.18.1 to 2.18.2](https://github.com/elninotech/uppload/pulls/256)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[⬆️ Bump typescript from 3.9.5 to 3.9.6](https://github.com/elninotech/uppload/pulls/255)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[⬆️ Bump node-cache from 5.1.1 to 5.1.2](https://github.com/staart/site/pulls/205)**  
 [staart/site](https://github.com/staart/site) · 🏁📑 Static site generator for landing pages, docs, and more  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[⬆️ Bump typescript from 3.9.5 to 3.9.6](https://github.com/staart/site/pulls/204)**  
 [staart/site](https://github.com/staart/site) · 🏁📑 Static site generator for landing pages, docs, and more  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[⬆️ Bump sitemap from 6.1.5 to 6.1.7](https://github.com/staart/site/pulls/203)**  
 [staart/site](https://github.com/staart/site) · 🏁📑 Static site generator for landing pages, docs, and more  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[Bump node-cache from 4.2.1 to 5.1.2](https://github.com/AnandChowdhary/fraud/pulls/256)**  
 [AnandChowdhary/fraud](https://github.com/AnandChowdhary/fraud) · 🗄 File-based key-JSON database with nodecache  
