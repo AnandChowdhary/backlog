@@ -180,10 +180,6 @@ Last updated 2 months ago
 [Karuna2020/karuna2020.org](https://github.com/Karuna2020/karuna2020.org) · 🙌 Website for the Karuna 2020 project  
 Last updated 2 months ago  
 
-- **[Compression settings ignored when using Crop](https://github.com/elninotech/uppload/issues/113)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 3 weeks ago  
-
 
 ## 👩‍💻 Development
 
