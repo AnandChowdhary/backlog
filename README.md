@@ -4,69 +4,9 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 [![Backlog Updater](https://github.com/AnandChowdhary/backlog/workflows/Backlog%20Updater/badge.svg)](https://github.com/AnandChowdhary/backlog/actions)
 
-- **[⬆️ Bump node-html-to-image from 2.1.1 to 3.0.0](https://github.com/Karuna2020/karuna2020.org/pulls/19)**  
-[Karuna2020/karuna2020.org](https://github.com/Karuna2020/karuna2020.org) · 🙌 Website for the Karuna 2020 project  
-Last updated 2 days ago  
-
-- **[Bump sass-loader from 8.0.2 to 9.0.1](https://github.com/AnandChowdhary/sharer.link/pulls/237)**  
-[AnandChowdhary/sharer.link](https://github.com/AnandChowdhary/sharer.link) · 🔗 Share links for songs, places, podcasts, and more  
-Last updated 2 days ago  
-
-- **[⬆️ Bump sass-loader from 8.0.2 to 9.0.1](https://github.com/AnandChowdhary/gitwriter/pulls/247)**  
-[AnandChowdhary/gitwriter](https://github.com/AnandChowdhary/gitwriter) · 📝 Version control your thoughts  
-Last updated 2 days ago  
-
-- **[Bump sass-loader from 8.0.2 to 9.0.1](https://github.com/AnandChowdhary/hovercard/pulls/547)**  
-[AnandChowdhary/hovercard](https://github.com/AnandChowdhary/hovercard) · 🖱️ Wikipedia summary cards for the web  
-Last updated 2 days ago  
-
-- **[Bump sass-loader from 8.0.2 to 9.0.1](https://github.com/AnandChowdhary/typestart/pulls/397)**  
-[AnandChowdhary/typestart](https://github.com/AnandChowdhary/typestart) · 📦 Typescript DOM library starter template  
-Last updated 2 days ago  
-
-- **[Bump sass-loader from 8.0.2 to 9.0.1](https://github.com/OswaldLabsOpenSource/agastya/pulls/534)**  
-[OswaldLabsOpenSource/agastya](https://github.com/OswaldLabsOpenSource/agastya) · ♿ Oswald Labs' web accessibility plugin  
-Last updated 2 days ago  
-
-- **[Bump sass-loader from 8.0.2 to 9.0.1](https://github.com/AnandChowdhary/scrub/pulls/375)**  
-[AnandChowdhary/scrub](https://github.com/AnandChowdhary/scrub) · 🧹 Track JS errors and send them to your backend  
-Last updated 2 days ago  
-
-- **[Bump sass-loader from 8.0.2 to 9.0.1](https://github.com/AnandChowdhary/hello-bar/pulls/563)**  
-[AnandChowdhary/hello-bar](https://github.com/AnandChowdhary/hello-bar) · 👋 Greet your visitors with a hello bar  
-Last updated 2 days ago  
-
-- **[⬆️ Bump typeset from 0.2.9 to 0.3.0](https://github.com/AnandChowdhary/anandchowdhary.com/pulls/218)**  
-[AnandChowdhary/anandchowdhary.com](https://github.com/AnandChowdhary/anandchowdhary.com) · 🌐 Anand Chowdhary's personal website, blog, and portfolio  
-Last updated 2 days ago  
-
 - **[Use Casbin to manage user permissions ](https://github.com/staart/api/issues/337)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
 Last updated 3 days ago  
-
-- **[Resource diagram](https://github.com/AnandChowdhary/bsc-thesis/issues/3)**  
-[AnandChowdhary/bsc-thesis](https://github.com/AnandChowdhary/bsc-thesis) · 📋 BSc thesis on Email-based Intelligent Virtual Assistants for Scheduling  
-Last updated 3 days ago  
-
-- **[⬆️ Bump vue-jest from 4.0.0-beta.3 to 5.0.0-alpha.1](https://github.com/staart/ui/pulls/916)**  
-[staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
-Last updated 3 days ago  
-
-- **[⬆️ Bump node-cache from 5.1.1 to 5.1.2](https://github.com/staart/site/pulls/205)**  
-[staart/site](https://github.com/staart/site) · 🏁📑 Static site generator for landing pages, docs, and more  
-Last updated 4 days ago  
-
-- **[⬆️ Bump typescript from 3.9.5 to 3.9.6](https://github.com/staart/site/pulls/204)**  
-[staart/site](https://github.com/staart/site) · 🏁📑 Static site generator for landing pages, docs, and more  
-Last updated 4 days ago  
-
-- **[⬆️ Bump sitemap from 6.1.5 to 6.1.7](https://github.com/staart/site/pulls/203)**  
-[staart/site](https://github.com/staart/site) · 🏁📑 Static site generator for landing pages, docs, and more  
-Last updated 4 days ago  
-
-- **[Bump node-cache from 4.2.1 to 5.1.2](https://github.com/AnandChowdhary/fraud/pulls/256)**  
-[AnandChowdhary/fraud](https://github.com/AnandChowdhary/fraud) · 🗄 File-based key-JSON database with nodecache  
-Last updated 4 days ago  
 
 - **[Ampersand in Subject for Outlook Web renders as &amp;](https://github.com/InteractionDesignFoundation/add-event-to-calendar-docs/issues/17)**  
 [InteractionDesignFoundation/add-event-to-calendar-docs](https://github.com/InteractionDesignFoundation/add-event-to-calendar-docs) · 📅 Docs how to generate links to add events to online calendar services  
