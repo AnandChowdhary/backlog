@@ -1,5 +1,16 @@
 [
   {
+    "updated_at": "2020-07-03T23:18:02Z",
+    "subject": {
+      "title": "⬆️ Bump node-html-to-image from 2.1.1 to 3.0.0",
+      "url": "https://github.com/Karuna2020/karuna2020.org/pulls/19",
+      "latest_comment_url": "https://github.com/Karuna2020/karuna2020.org/pulls/19",
+      "type": "PullRequest"
+    },
+    "repository": "Karuna2020/karuna2020.org",
+    "description": "🙌 Website for the Karuna 2020 project"
+  },
+  {
     "updated_at": "2020-07-03T18:06:40Z",
     "subject": {
       "title": "Bump sass-loader from 8.0.2 to 9.0.1",

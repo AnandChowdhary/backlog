@@ -4,6 +4,10 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 [![Backlog Updater](https://github.com/AnandChowdhary/backlog/workflows/Backlog%20Updater/badge.svg)](https://github.com/AnandChowdhary/backlog/actions)
 
+- **[⬆️ Bump node-html-to-image from 2.1.1 to 3.0.0](https://github.com/Karuna2020/karuna2020.org/pulls/19)**  
+[Karuna2020/karuna2020.org](https://github.com/Karuna2020/karuna2020.org) · 🙌 Website for the Karuna 2020 project  
+Last updated 2 days ago  
+
 - **[Bump sass-loader from 8.0.2 to 9.0.1](https://github.com/AnandChowdhary/sharer.link/pulls/237)**  
 [AnandChowdhary/sharer.link](https://github.com/AnandChowdhary/sharer.link) · 🔗 Share links for songs, places, podcasts, and more  
 Last updated 2 days ago  
