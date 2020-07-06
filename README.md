@@ -42,7 +42,7 @@ Last updated 2 days ago
 
 - **[Use Casbin to manage user permissions ](https://github.com/staart/api/issues/337)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[Resource diagram](https://github.com/AnandChowdhary/bsc-thesis/issues/3)**  
 [AnandChowdhary/bsc-thesis](https://github.com/AnandChowdhary/bsc-thesis) · 📋 BSc thesis on Email-based Intelligent Virtual Assistants for Scheduling  
@@ -175,6 +175,26 @@ Last updated 2 months ago
 - **[Compression settings ignored when using Crop](https://github.com/elninotech/uppload/issues/113)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
 Last updated 3 weeks ago  
+
+- **[Confirm password before performing security tasks](https://github.com/staart/api/issues/1023)**  
+[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
+Last updated 2 months ago  
+
+- **[When source code will be released?](https://github.com/staart/exprext/issues/1)**  
+[staart/exprext](https://github.com/staart/exprext) · ⛳ Exprext is a Next/Nuxt-like framework for Express + TypeScript  
+Last updated 2 months ago  
+
+- **[installation errors](https://github.com/AnandChowdhary/hovercard/issues/467)**  
+[AnandChowdhary/hovercard](https://github.com/AnandChowdhary/hovercard) · 🖱️ Wikipedia summary cards for the web  
+Last updated 2 months ago  
+
+- **[how to connect custom web app to this front end templete ](https://github.com/staart/ui/issues/803)**  
+[staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
+Last updated 2 months ago  
+
+- **[How do I recreate this?](https://github.com/AnandChowdhary/life-data/issues/9)**  
+[AnandChowdhary/life-data](https://github.com/AnandChowdhary/life-data) · 📈 Data from my life, committed by a bot  
+Last updated 2 months ago  
 
 
 ## 👩‍💻 Development
