@@ -132,17 +132,6 @@
     "description": "🏁🌐 Frontend Vue PWA starter for SaaS startups"
   },
   {
-    "updated_at": "2020-07-02T05:08:47Z",
-    "subject": {
-      "title": "⬆️ Bump typescript from 3.9.5 to 3.9.6",
-      "url": "https://github.com/elninotech/uppload/pulls/255",
-      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/652785008",
-      "type": "PullRequest"
-    },
-    "repository": "elninotech/uppload",
-    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
-  },
-  {
     "updated_at": "2020-07-02T04:43:28Z",
     "subject": {
       "title": "⬆️ Bump node-cache from 5.1.1 to 5.1.2",
@@ -504,16 +493,5 @@
     },
     "repository": "staart/exprext",
     "description": "⛳ Exprext is a Next/Nuxt-like framework for Express + TypeScript"
-  },
-  {
-    "updated_at": "2020-04-08T14:14:13Z",
-    "subject": {
-      "title": "installation errors",
-      "url": "https://github.com/AnandChowdhary/hovercard/issues/467",
-      "latest_comment_url": "https://github.com/AnandChowdhary/hovercard/issues/comments/610984602",
-      "type": "Issue"
-    },
-    "repository": "AnandChowdhary/hovercard",
-    "description": "🖱️ Wikipedia summary cards for the web"
   }
 ]

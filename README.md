@@ -46,15 +46,11 @@ Last updated 2 days ago
 
 - **[Resource diagram](https://github.com/AnandChowdhary/bsc-thesis/issues/3)**  
 [AnandChowdhary/bsc-thesis](https://github.com/AnandChowdhary/bsc-thesis) · 📋 BSc thesis on Email-based Intelligent Virtual Assistants for Scheduling  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[⬆️ Bump vue-jest from 4.0.0-beta.3 to 5.0.0-alpha.1](https://github.com/staart/ui/pulls/916)**  
 [staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
 Last updated 3 days ago  
-
-- **[⬆️ Bump typescript from 3.9.5 to 3.9.6](https://github.com/elninotech/uppload/pulls/255)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 4 days ago  
 
 - **[⬆️ Bump node-cache from 5.1.1 to 5.1.2](https://github.com/staart/site/pulls/205)**  
 [staart/site](https://github.com/staart/site) · 🏁📑 Static site generator for landing pages, docs, and more  
@@ -186,10 +182,6 @@ Last updated 2 months ago
 
 - **[When source code will be released?](https://github.com/staart/exprext/issues/1)**  
 [staart/exprext](https://github.com/staart/exprext) · ⛳ Exprext is a Next/Nuxt-like framework for Express + TypeScript  
-Last updated 2 months ago  
-
-- **[installation errors](https://github.com/AnandChowdhary/hovercard/issues/467)**  
-[AnandChowdhary/hovercard](https://github.com/AnandChowdhary/hovercard) · 🖱️ Wikipedia summary cards for the web  
 Last updated 2 months ago  
 
 
