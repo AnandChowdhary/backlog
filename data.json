@@ -121,17 +121,6 @@
     "description": "📋 BSc thesis on Email-based Intelligent Virtual Assistants for Scheduling"
   },
   {
-    "updated_at": "2020-07-03T04:27:10Z",
-    "subject": {
-      "title": "⬆️ Bump sass-loader from 8.0.2 to 9.0.0",
-      "url": "https://github.com/staart/ui/pulls/918",
-      "latest_comment_url": "https://github.com/staart/ui/pulls/918",
-      "type": "PullRequest"
-    },
-    "repository": "staart/ui",
-    "description": "🏁🌐 Frontend Vue PWA starter for SaaS startups"
-  },
-  {
     "updated_at": "2020-07-03T04:24:56Z",
     "subject": {
       "title": "⬆️ Bump vue-jest from 4.0.0-beta.3 to 5.0.0-alpha.1",
@@ -141,17 +130,6 @@
     },
     "repository": "staart/ui",
     "description": "🏁🌐 Frontend Vue PWA starter for SaaS startups"
-  },
-  {
-    "updated_at": "2020-07-02T05:11:15Z",
-    "subject": {
-      "title": "⬆️ Bump rollup from 2.18.1 to 2.18.2",
-      "url": "https://github.com/elninotech/uppload/pulls/256",
-      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/652785857",
-      "type": "PullRequest"
-    },
-    "repository": "elninotech/uppload",
-    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
   },
   {
     "updated_at": "2020-07-02T05:08:47Z",
@@ -460,38 +438,5 @@
     },
     "repository": "elninotech/uppload",
     "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
-  },
-  {
-    "updated_at": "2020-04-29T17:37:00Z",
-    "subject": {
-      "title": "outlook online event is not generated in mobile devices",
-      "url": "https://github.com/AnandChowdhary/calendar-link/issues/162",
-      "latest_comment_url": "https://github.com/AnandChowdhary/calendar-link/issues/comments/621358377",
-      "type": "Issue"
-    },
-    "repository": "AnandChowdhary/calendar-link",
-    "description": "📅 Calendar link generator for popular services"
-  },
-  {
-    "updated_at": "2020-04-28T15:38:18Z",
-    "subject": {
-      "title": "unable to generate event if the user is not loggedin to outlook account  before selecting outlook online",
-      "url": "https://github.com/AnandChowdhary/calendar-link/issues/161",
-      "latest_comment_url": "https://github.com/AnandChowdhary/calendar-link/issues/comments/620683670",
-      "type": "Issue"
-    },
-    "repository": "AnandChowdhary/calendar-link",
-    "description": "📅 Calendar link generator for popular services"
-  },
-  {
-    "updated_at": "2020-04-23T06:49:41Z",
-    "subject": {
-      "title": "Progress Bar Suggestions",
-      "url": "https://github.com/Karuna2020/karuna2020.org/issues/8",
-      "latest_comment_url": "https://github.com/Karuna2020/karuna2020.org/issues/8",
-      "type": "Issue"
-    },
-    "repository": "Karuna2020/karuna2020.org",
-    "description": "🙌 Website for the Karuna 2020 project"
   }
 ]
