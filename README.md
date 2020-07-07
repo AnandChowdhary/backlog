@@ -134,7 +134,7 @@ Last updated 2 months ago
 
 - **[How do I recreate this?](https://github.com/AnandChowdhary/life-data/issues/9)**  
 [AnandChowdhary/life-data](https://github.com/AnandChowdhary/life-data) · 📈 Data from my life, committed by a bot  
-Last updated 2 months ago  
+Last updated 3 months ago  
 
 
 ## 👩‍💻 Development
