@@ -1,5 +1,16 @@
 [
   {
+    "updated_at": "2020-07-05T10:48:57Z",
+    "subject": {
+      "title": "Cannot click on other upload options after one is selected",
+      "url": "https://github.com/elninotech/uppload/issues/249",
+      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/653872736",
+      "type": "Issue"
+    },
+    "repository": "elninotech/uppload",
+    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
+  },
+  {
     "updated_at": "2020-07-03T09:02:53Z",
     "subject": {
       "title": "Use Casbin to manage user permissions ",
