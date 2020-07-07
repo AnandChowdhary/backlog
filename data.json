@@ -119,38 +119,5 @@
     },
     "repository": "prisma/prisma",
     "description": "Modern DB toolkit to query, migrate and model your database"
-  },
-  {
-    "updated_at": "2020-05-24T07:46:30Z",
-    "subject": {
-      "title": "There is a little scroll bar on the footer",
-      "url": "https://github.com/staart/site/issues/177",
-      "latest_comment_url": "https://github.com/staart/site/issues/177",
-      "type": "Issue"
-    },
-    "repository": "staart/site",
-    "description": "🏁📑 Static site generator for landing pages, docs, and more"
-  },
-  {
-    "updated_at": "2020-05-23T19:06:07Z",
-    "subject": {
-      "title": "Add support for `commitTemplate` configuration",
-      "url": "https://github.com/all-contributors/all-contributors/issues/374",
-      "latest_comment_url": "https://github.com/all-contributors/all-contributors/issues/comments/633119271",
-      "type": "Issue"
-    },
-    "repository": "all-contributors/all-contributors",
-    "description": "✨ Recognize all contributors, not just the ones who push code ✨"
-  },
-  {
-    "updated_at": "2020-05-23T14:31:43Z",
-    "subject": {
-      "title": "The date is wrong on `amount-received` endpoint",
-      "url": "https://github.com/Karuna2020/open-data/issues/11",
-      "latest_comment_url": "https://github.com/Karuna2020/open-data/issues/comments/633065286",
-      "type": "Issue"
-    },
-    "repository": "Karuna2020/open-data",
-    "description": "📈 Open data API about our contributors, donors, and beneficiaries"
   }
 ]

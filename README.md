@@ -48,18 +48,6 @@ Last updated 1 month ago
 [prisma/prisma](https://github.com/prisma/prisma) · Modern DB toolkit to query, migrate and model your database  
 Last updated 1 month ago  
 
-- **[There is a little scroll bar on the footer](https://github.com/staart/site/issues/177)**  
-[staart/site](https://github.com/staart/site) · 🏁📑 Static site generator for landing pages, docs, and more  
-Last updated 1 month ago  
-
-- **[Add support for `commitTemplate` configuration](https://github.com/all-contributors/all-contributors/issues/374)**  
-[all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) · ✨ Recognize all contributors, not just the ones who push code ✨  
-Last updated 1 month ago  
-
-- **[The date is wrong on `amount-received` endpoint](https://github.com/Karuna2020/open-data/issues/11)**  
-[Karuna2020/open-data](https://github.com/Karuna2020/open-data) · 📈 Open data API about our contributors, donors, and beneficiaries  
-Last updated 1 month ago  
-
 
 ## 👩‍💻 Development
 
