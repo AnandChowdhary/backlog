@@ -88,22 +88,6 @@ Last updated 1 month ago
 [staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
 Last updated 1 month ago  
 
-- **[AWS SES and ES config](https://github.com/staart/api/issues/1121)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 2 months ago  
-
-- **[Leaking email to Gravatar. ](https://github.com/staart/api/issues/1114)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 2 months ago  
-
-- **[Call camera.close() when not using Camera service](https://github.com/elninotech/uppload/issues/165)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 3 weeks ago  
-
-- **[outlook online event is not generated in mobile devices](https://github.com/AnandChowdhary/calendar-link/issues/162)**  
-[AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
-Last updated 2 months ago  
-
 
 ## 👩‍💻 Development
 
