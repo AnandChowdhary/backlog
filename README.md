@@ -60,30 +60,6 @@ Last updated 1 month ago
 [Karuna2020/open-data](https://github.com/Karuna2020/open-data) · 📈 Open data API about our contributors, donors, and beneficiaries  
 Last updated 1 month ago  
 
-- **[Exif data is getting lost](https://github.com/elninotech/uppload/issues/210)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 3 weeks ago  
-
-- **[404 on README](https://github.com/denorg/x/issues/1)**  
-[denorg/x](https://github.com/denorg/x) · 🧺 Mirror of deno.land/x for third-party Deno modules  
-Last updated 1 month ago  
-
-- **[outlook live calendar showing different dates](https://github.com/AnandChowdhary/calendar-link/issues/154)**  
-[AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
-Last updated 1 month ago  
-
-- **[Default .env.example inline comments causing malformed links and values.](https://github.com/staart/api/issues/1126)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 1 month ago  
-
-- **[install docs: schema.sql](https://github.com/staart/api/issues/1143)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 1 month ago  
-
-- **[Question...not an issue report](https://github.com/staart/api-nest/issues/2)**  
-[staart/api-nest](https://github.com/staart/api-nest) · 🏁⚠️ DEPRECATED: Working repo for NestJS Staart API  
-Last updated 1 month ago  
-
 
 ## 👩‍💻 Development
 
