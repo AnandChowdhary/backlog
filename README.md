@@ -14,7 +14,7 @@ Last updated 5 days ago
 
 - **[Update colors.json](https://github.com/AnandChowdhary/language-icons/pulls/3)**  
 [AnandChowdhary/language-icons](https://github.com/AnandChowdhary/language-icons) · 🈹 Better icons for languages, because flags just don't cut it  
-Last updated 5 days ago  
+Last updated 6 days ago  
 
 - **[Possibility to use with Ruby on Rails together with Cloudinary](https://github.com/elninotech/uppload/issues/239)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
@@ -82,10 +82,6 @@ Last updated 1 month ago
 
 - **[Question...not an issue report](https://github.com/staart/api-nest/issues/2)**  
 [staart/api-nest](https://github.com/staart/api-nest) · 🏁⚠️ DEPRECATED: Working repo for NestJS Staart API  
-Last updated 1 month ago  
-
-- **[dotENV File Secret Keys question for clarification](https://github.com/staart/ui/issues/874)**  
-[staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
 Last updated 1 month ago  
 
 
