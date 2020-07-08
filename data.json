@@ -207,16 +207,5 @@
     },
     "repository": "staart/api",
     "description": "🏁🛠️ SaaS backend framework with users, payments, APIs, and more"
-  },
-  {
-    "updated_at": "2020-05-12T11:03:52Z",
-    "subject": {
-      "title": "install docs: schema.sql",
-      "url": "https://github.com/staart/api/issues/1143",
-      "latest_comment_url": "https://github.com/staart/api/issues/comments/627267801",
-      "type": "Issue"
-    },
-    "repository": "staart/api",
-    "description": "🏁🛠️ SaaS backend framework with users, payments, APIs, and more"
   }
 ]
