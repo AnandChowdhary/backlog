@@ -52,32 +52,16 @@ Last updated 1 month ago
 [prisma/prisma](https://github.com/prisma/prisma) · Modern DB toolkit to query, migrate and model your database  
 Last updated 1 month ago  
 
-- **[There is a little scroll bar on the footer](https://github.com/staart/site/issues/177)**  
-[staart/site](https://github.com/staart/site) · 🏁📑 Static site generator for landing pages, docs, and more  
-Last updated 1 month ago  
-
 - **[Add support for `commitTemplate` configuration](https://github.com/all-contributors/all-contributors/issues/374)**  
 [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) · ✨ Recognize all contributors, not just the ones who push code ✨  
-Last updated 1 month ago  
-
-- **[The date is wrong on `amount-received` endpoint](https://github.com/Karuna2020/open-data/issues/11)**  
-[Karuna2020/open-data](https://github.com/Karuna2020/open-data) · 📈 Open data API about our contributors, donors, and beneficiaries  
 Last updated 1 month ago  
 
 - **[Exif data is getting lost](https://github.com/elninotech/uppload/issues/210)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
 Last updated 3 weeks ago  
 
-- **[404 on README](https://github.com/denorg/x/issues/1)**  
-[denorg/x](https://github.com/denorg/x) · 🧺 Mirror of deno.land/x for third-party Deno modules  
-Last updated 1 month ago  
-
 - **[outlook live calendar showing different dates](https://github.com/AnandChowdhary/calendar-link/issues/154)**  
 [AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
-Last updated 1 month ago  
-
-- **[Default .env.example inline comments causing malformed links and values.](https://github.com/staart/api/issues/1126)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
 Last updated 1 month ago  
 
 
