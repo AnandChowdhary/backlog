@@ -4,6 +4,10 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 [![Backlog Updater](https://github.com/AnandChowdhary/backlog/workflows/Backlog%20Updater/badge.svg)](https://github.com/AnandChowdhary/backlog/actions)
 
+- **[Bump fastify from 2.15.1 to 3.0.0](https://github.com/OswaldLabsOpenSource/loader/pulls/294)**  
+[OswaldLabsOpenSource/loader](https://github.com/OswaldLabsOpenSource/loader) · 🏋 Asynchronously load Agastya on your webpage  
+Last updated 2 days ago  
+
 - **[⬆️🔒 Bump npm from 6.14.5 to 6.14.6](https://github.com/elninotech/uppload/pulls/262)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
 Last updated 2 days ago  
