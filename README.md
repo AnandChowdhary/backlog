@@ -140,10 +140,6 @@ Last updated 3 months ago
 [staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
 Last updated 3 months ago  
 
-- **[How do I recreate this?](https://github.com/AnandChowdhary/life-data/issues/9)**  
-[AnandChowdhary/life-data](https://github.com/AnandChowdhary/life-data) · 📈 Data from my life, committed by a bot  
-Last updated 3 months ago  
-
 
 ## 👩‍💻 Development
 
