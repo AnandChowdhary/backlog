@@ -4,42 +4,6 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 [![Backlog Updater](https://github.com/AnandChowdhary/backlog/workflows/Backlog%20Updater/badge.svg)](https://github.com/AnandChowdhary/backlog/actions)
 
-- **[⬆️ Bump @types/webpack from 4.41.18 to 4.41.21](https://github.com/elninotech/uppload/pulls/264)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 days ago  
-
-- **[⬆️ Bump rollup from 2.19.0 to 2.21.0](https://github.com/elninotech/uppload/pulls/263)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 days ago  
-
-- **[Bump fastify from 2.15.1 to 3.0.0](https://github.com/OswaldLabsOpenSource/loader/pulls/294)**  
-[OswaldLabsOpenSource/loader](https://github.com/OswaldLabsOpenSource/loader) · 🏋 Asynchronously load Agastya on your webpage  
-Last updated 2 days ago  
-
-- **[⬆️🔒 Bump npm from 6.14.5 to 6.14.6](https://github.com/elninotech/uppload/pulls/262)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 days ago  
-
-- **[⬆️🔒 Bump npm from 6.14.5 to 6.14.6](https://github.com/staart/site/pulls/209)**  
-[staart/site](https://github.com/staart/site) · 🏁📑 Static site generator for landing pages, docs, and more  
-Last updated 2 days ago  
-
-- **[⬆️ Bump @types/jest from 26.0.3 to 26.0.4](https://github.com/elninotech/uppload/pulls/261)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 3 days ago  
-
-- **[⬆️ Bump sass from 1.26.9 to 1.26.10](https://github.com/elninotech/uppload/pulls/260)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 3 days ago  
-
-- **[⬆️ Bump sitemap from 6.1.5 to 6.2.0](https://github.com/staart/site/pulls/208)**  
-[staart/site](https://github.com/staart/site) · 🏁📑 Static site generator for landing pages, docs, and more  
-Last updated 3 days ago  
-
-- **[⬆️ Bump sass from 1.26.8 to 1.26.10](https://github.com/staart/site/pulls/207)**  
-[staart/site](https://github.com/staart/site) · 🏁📑 Static site generator for landing pages, docs, and more  
-Last updated 3 days ago  
-
 - **[Cannot click on other upload options after one is selected](https://github.com/elninotech/uppload/issues/249)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
 Last updated 4 days ago  
