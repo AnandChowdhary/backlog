@@ -1,5 +1,27 @@
 [
   {
+    "updated_at": "2020-07-08T05:12:45Z",
+    "subject": {
+      "title": "⬆️ Bump @types/webpack from 4.41.18 to 4.41.21",
+      "url": "https://github.com/elninotech/uppload/pulls/264",
+      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/655289469",
+      "type": "PullRequest"
+    },
+    "repository": "elninotech/uppload",
+    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
+  },
+  {
+    "updated_at": "2020-07-08T05:11:39Z",
+    "subject": {
+      "title": "⬆️ Bump rollup from 2.19.0 to 2.21.0",
+      "url": "https://github.com/elninotech/uppload/pulls/263",
+      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/655289068",
+      "type": "PullRequest"
+    },
+    "repository": "elninotech/uppload",
+    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
+  },
+  {
     "updated_at": "2020-07-07T21:39:22Z",
     "subject": {
       "title": "Bump fastify from 2.15.1 to 3.0.0",
