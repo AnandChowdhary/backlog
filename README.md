@@ -26,11 +26,11 @@ Last updated 2 days ago
 
 - **[⬆️ Bump @types/jest from 26.0.3 to 26.0.4](https://github.com/elninotech/uppload/pulls/261)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[⬆️ Bump sass from 1.26.9 to 1.26.10](https://github.com/elninotech/uppload/pulls/260)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[⬆️ Bump sitemap from 6.1.5 to 6.2.0](https://github.com/staart/site/pulls/208)**  
 [staart/site](https://github.com/staart/site) · 🏁📑 Static site generator for landing pages, docs, and more  
