@@ -44,17 +44,6 @@
     "description": "🈹 Better icons for languages, because flags just don't cut it"
   },
   {
-    "updated_at": "2020-06-19T12:11:48Z",
-    "subject": {
-      "title": "Possibility to use with Ruby on Rails together with Cloudinary",
-      "url": "https://github.com/elninotech/uppload/issues/239",
-      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/646601904",
-      "type": "Issue"
-    },
-    "repository": "elninotech/uppload",
-    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
-  },
-  {
     "updated_at": "2020-06-11T09:33:14Z",
     "subject": {
       "title": "Missing dependencies from package.json",

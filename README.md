@@ -20,10 +20,6 @@ Last updated 1 week ago
 [AnandChowdhary/language-icons](https://github.com/AnandChowdhary/language-icons) · 🈹 Better icons for languages, because flags just don't cut it  
 Last updated 1 week ago  
 
-- **[Possibility to use with Ruby on Rails together with Cloudinary](https://github.com/elninotech/uppload/issues/239)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 3 weeks ago  
-
 - **[Missing dependencies from package.json](https://github.com/AnandChowdhary/auto-i18n/issues/299)**  
 [AnandChowdhary/auto-i18n](https://github.com/AnandChowdhary/auto-i18n) · 🌐 Automatically translate your JSON I18N files  
 Last updated 4 weeks ago  
