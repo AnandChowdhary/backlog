@@ -70,7 +70,7 @@ Last updated 1 month ago
 
 - **[Question...not an issue report](https://github.com/staart/api-nest/issues/2)**  
 [staart/api-nest](https://github.com/staart/api-nest) · 🏁⚠️ DEPRECATED: Working repo for NestJS Staart API  
-Last updated 1 month ago  
+Last updated 2 months ago  
 
 - **[dotENV File Secret Keys question for clarification](https://github.com/staart/ui/issues/874)**  
 [staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
