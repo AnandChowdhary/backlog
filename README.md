@@ -88,10 +88,6 @@ Last updated 2 months ago
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
 Last updated 2 months ago  
 
-- **[Call camera.close() when not using Camera service](https://github.com/elninotech/uppload/issues/165)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 1 month ago  
-
 
 ## 👩‍💻 Development
 
