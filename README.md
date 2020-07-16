@@ -6,7 +6,7 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 - **[Record Audio and Video](https://github.com/elninotech/uppload/issues/266)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 4 days ago  
+Last updated 5 days ago  
 
 - **[Cannot click on other upload options after one is selected](https://github.com/elninotech/uppload/issues/249)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
