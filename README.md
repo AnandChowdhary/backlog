@@ -104,14 +104,6 @@ Last updated 2 months ago
 [Karuna2020/karuna2020.org](https://github.com/Karuna2020/karuna2020.org) · 🙌 Website for the Karuna 2020 project  
 Last updated 2 months ago  
 
-- **[Compression settings ignored when using Crop](https://github.com/elninotech/uppload/issues/113)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 1 month ago  
-
-- **[Confirm password before performing security tasks](https://github.com/staart/api/issues/1023)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 2 months ago  
-
 
 ## 👩‍💻 Development
 
