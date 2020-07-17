@@ -1,5 +1,27 @@
 [
   {
+    "updated_at": "2020-07-15T18:49:24Z",
+    "subject": {
+      "title": "Bump mitt from 1.1.3 to 2.1.0",
+      "url": "https://github.com/AnandChowdhary/hovercard/pulls/560",
+      "latest_comment_url": "https://github.com/AnandChowdhary/hovercard/pulls/560",
+      "type": "PullRequest"
+    },
+    "repository": "AnandChowdhary/hovercard",
+    "description": "🖱️ Wikipedia summary cards for the web"
+  },
+  {
+    "updated_at": "2020-07-15T18:49:16Z",
+    "subject": {
+      "title": "Bump mitt from 1.2.0 to 2.1.0",
+      "url": "https://github.com/AnandChowdhary/typestart/pulls/411",
+      "latest_comment_url": "https://github.com/AnandChowdhary/typestart/pulls/411",
+      "type": "PullRequest"
+    },
+    "repository": "AnandChowdhary/typestart",
+    "description": "📦 Typescript DOM library starter template"
+  },
+  {
     "updated_at": "2020-07-11T10:13:10Z",
     "subject": {
       "title": "Record Audio and Video",
@@ -295,38 +317,5 @@
     },
     "repository": "staart/api",
     "description": "🏁🛠️ SaaS backend framework with users, payments, APIs, and more"
-  },
-  {
-    "updated_at": "2020-04-14T11:42:46Z",
-    "subject": {
-      "title": "When source code will be released?",
-      "url": "https://github.com/staart/exprext/issues/1",
-      "latest_comment_url": "https://github.com/staart/exprext/issues/comments/613392211",
-      "type": "Issue"
-    },
-    "repository": "staart/exprext",
-    "description": "⛳ Exprext is a Next/Nuxt-like framework for Express + TypeScript"
-  },
-  {
-    "updated_at": "2020-04-08T14:14:13Z",
-    "subject": {
-      "title": "installation errors",
-      "url": "https://github.com/AnandChowdhary/hovercard/issues/467",
-      "latest_comment_url": "https://github.com/AnandChowdhary/hovercard/issues/comments/610984602",
-      "type": "Issue"
-    },
-    "repository": "AnandChowdhary/hovercard",
-    "description": "🖱️ Wikipedia summary cards for the web"
-  },
-  {
-    "updated_at": "2020-04-07T11:03:59Z",
-    "subject": {
-      "title": "how to connect custom web app to this front end templete ",
-      "url": "https://github.com/staart/ui/issues/803",
-      "latest_comment_url": "https://github.com/staart/ui/issues/comments/610322636",
-      "type": "Issue"
-    },
-    "repository": "staart/ui",
-    "description": "🏁🌐 Frontend Vue PWA starter for SaaS startups"
   }
 ]

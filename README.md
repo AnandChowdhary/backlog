@@ -4,6 +4,14 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 [![Backlog Updater](https://github.com/AnandChowdhary/backlog/workflows/Backlog%20Updater/badge.svg)](https://github.com/AnandChowdhary/backlog/actions)
 
+- **[Bump mitt from 1.1.3 to 2.1.0](https://github.com/AnandChowdhary/hovercard/pulls/560)**  
+[AnandChowdhary/hovercard](https://github.com/AnandChowdhary/hovercard) · 🖱️ Wikipedia summary cards for the web  
+Last updated 2 days ago  
+
+- **[Bump mitt from 1.2.0 to 2.1.0](https://github.com/AnandChowdhary/typestart/pulls/411)**  
+[AnandChowdhary/typestart](https://github.com/AnandChowdhary/typestart) · 📦 Typescript DOM library starter template  
+Last updated 2 days ago  
+
 - **[Record Audio and Video](https://github.com/elninotech/uppload/issues/266)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
 Last updated 6 days ago  
@@ -111,18 +119,6 @@ Last updated 1 month ago
 - **[Confirm password before performing security tasks](https://github.com/staart/api/issues/1023)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
 Last updated 2 months ago  
-
-- **[When source code will be released?](https://github.com/staart/exprext/issues/1)**  
-[staart/exprext](https://github.com/staart/exprext) · ⛳ Exprext is a Next/Nuxt-like framework for Express + TypeScript  
-Last updated 3 months ago  
-
-- **[installation errors](https://github.com/AnandChowdhary/hovercard/issues/467)**  
-[AnandChowdhary/hovercard](https://github.com/AnandChowdhary/hovercard) · 🖱️ Wikipedia summary cards for the web  
-Last updated 3 months ago  
-
-- **[how to connect custom web app to this front end templete ](https://github.com/staart/ui/issues/803)**  
-[staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
-Last updated 3 months ago  
 
 
 ## 👩‍💻 Development
