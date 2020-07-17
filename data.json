@@ -64,5 +64,258 @@
     },
     "repository": "AnandChowdhary/auto-i18n",
     "description": "🌐 Automatically translate your JSON I18N files"
+  },
+  {
+    "updated_at": "2020-06-13T16:21:16Z",
+    "subject": {
+      "title": "Using camera feature in mobile  responsive way is not working",
+      "url": "https://github.com/elninotech/uppload/issues/232",
+      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/641795095",
+      "type": "Issue"
+    },
+    "repository": "elninotech/uppload",
+    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
+  },
+  {
+    "updated_at": "2020-06-13T16:21:16Z",
+    "subject": {
+      "title": "Support for image metadata",
+      "url": "https://github.com/elninotech/uppload/issues/233",
+      "latest_comment_url": "https://github.com/elninotech/uppload/issues/233",
+      "type": "Issue"
+    },
+    "repository": "elninotech/uppload",
+    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
+  },
+  {
+    "updated_at": "2020-06-03T22:39:47Z",
+    "subject": {
+      "title": "Fido2",
+      "url": "https://github.com/denorg/denorg/issues/5",
+      "latest_comment_url": "https://github.com/denorg/denorg/issues/5",
+      "type": "Issue"
+    },
+    "repository": "denorg/denorg",
+    "description": "🦕  Deno-focused community organization and consultancy company"
+  },
+  {
+    "updated_at": "2020-06-13T16:21:13Z",
+    "subject": {
+      "title": "Custom media library/plugin similar to those extended from SearchBaseClass",
+      "url": "https://github.com/elninotech/uppload/issues/91",
+      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/635954000",
+      "type": "Issue"
+    },
+    "repository": "elninotech/uppload",
+    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
+  },
+  {
+    "updated_at": "2020-05-28T10:33:49Z",
+    "subject": {
+      "title": "small version",
+      "url": "https://github.com/AnandChowdhary/hackerbadge/issues/2",
+      "latest_comment_url": "https://github.com/AnandChowdhary/hackerbadge/issues/2",
+      "type": "Issue"
+    },
+    "repository": "AnandChowdhary/hackerbadge",
+    "description": "📛 Embeddable badges for Hacker News posts/launches"
+  },
+  {
+    "updated_at": "2020-05-27T16:06:52Z",
+    "subject": {
+      "title": "ETXTBSY error when an instance of prisma2 is already running ",
+      "url": "https://github.com/prisma/prisma/issues/1209",
+      "latest_comment_url": "https://github.com/prisma/prisma/issues/comments/634767850",
+      "type": "Issue"
+    },
+    "repository": "prisma/prisma",
+    "description": "Modern DB toolkit to query, migrate and model your database"
+  },
+  {
+    "updated_at": "2020-05-23T19:06:07Z",
+    "subject": {
+      "title": "Add support for `commitTemplate` configuration",
+      "url": "https://github.com/all-contributors/all-contributors/issues/374",
+      "latest_comment_url": "https://github.com/all-contributors/all-contributors/issues/comments/633119271",
+      "type": "Issue"
+    },
+    "repository": "all-contributors/all-contributors",
+    "description": "✨ Recognize all contributors, not just the ones who push code ✨"
+  },
+  {
+    "updated_at": "2020-06-13T16:21:15Z",
+    "subject": {
+      "title": "Exif data is getting lost",
+      "url": "https://github.com/elninotech/uppload/issues/210",
+      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/632789576",
+      "type": "Issue"
+    },
+    "repository": "elninotech/uppload",
+    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
+  },
+  {
+    "updated_at": "2020-06-03T16:23:59Z",
+    "subject": {
+      "title": "outlook live calendar showing different dates",
+      "url": "https://github.com/AnandChowdhary/calendar-link/issues/154",
+      "latest_comment_url": "https://github.com/AnandChowdhary/calendar-link/issues/comments/638306197",
+      "type": "Issue"
+    },
+    "repository": "AnandChowdhary/calendar-link",
+    "description": "📅 Calendar link generator for popular services"
+  },
+  {
+    "updated_at": "2020-05-14T08:52:46Z",
+    "subject": {
+      "title": "Default .env.example inline comments causing malformed links and values.",
+      "url": "https://github.com/staart/api/issues/1126",
+      "latest_comment_url": "https://github.com/staart/api/issues/comments/627175702",
+      "type": "Issue"
+    },
+    "repository": "staart/api",
+    "description": "🏁🛠️ SaaS backend framework with users, payments, APIs, and more"
+  },
+  {
+    "updated_at": "2020-05-12T11:03:52Z",
+    "subject": {
+      "title": "install docs: schema.sql",
+      "url": "https://github.com/staart/api/issues/1143",
+      "latest_comment_url": "https://github.com/staart/api/issues/comments/627267801",
+      "type": "Issue"
+    },
+    "repository": "staart/api",
+    "description": "🏁🛠️ SaaS backend framework with users, payments, APIs, and more"
+  },
+  {
+    "updated_at": "2020-05-12T07:33:02Z",
+    "subject": {
+      "title": "Question...not an issue report",
+      "url": "https://github.com/staart/api-nest/issues/2",
+      "latest_comment_url": "https://github.com/staart/api-nest/issues/comments/627167243",
+      "type": "Issue"
+    },
+    "repository": "staart/api-nest",
+    "description": "🏁⚠️ DEPRECATED: Working repo for NestJS Staart API"
+  },
+  {
+    "updated_at": "2020-05-11T09:51:02Z",
+    "subject": {
+      "title": "dotENV File Secret Keys question for clarification",
+      "url": "https://github.com/staart/ui/issues/874",
+      "latest_comment_url": "https://github.com/staart/ui/issues/comments/626597893",
+      "type": "Issue"
+    },
+    "repository": "staart/ui",
+    "description": "🏁🌐 Frontend Vue PWA starter for SaaS startups"
+  },
+  {
+    "updated_at": "2020-05-01T10:40:25Z",
+    "subject": {
+      "title": "AWS SES and ES config",
+      "url": "https://github.com/staart/api/issues/1121",
+      "latest_comment_url": "https://github.com/staart/api/issues/comments/622331975",
+      "type": "Issue"
+    },
+    "repository": "staart/api",
+    "description": "🏁🛠️ SaaS backend framework with users, payments, APIs, and more"
+  },
+  {
+    "updated_at": "2020-04-29T17:31:53Z",
+    "subject": {
+      "title": "Leaking email to Gravatar. ",
+      "url": "https://github.com/staart/api/issues/1114",
+      "latest_comment_url": "https://github.com/staart/api/issues/comments/621355642",
+      "type": "Issue"
+    },
+    "repository": "staart/api",
+    "description": "🏁🛠️ SaaS backend framework with users, payments, APIs, and more"
+  },
+  {
+    "updated_at": "2020-06-13T16:21:14Z",
+    "subject": {
+      "title": "Call camera.close() when not using Camera service",
+      "url": "https://github.com/elninotech/uppload/issues/165",
+      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/621356767",
+      "type": "Issue"
+    },
+    "repository": "elninotech/uppload",
+    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
+  },
+  {
+    "updated_at": "2020-04-29T17:37:00Z",
+    "subject": {
+      "title": "outlook online event is not generated in mobile devices",
+      "url": "https://github.com/AnandChowdhary/calendar-link/issues/162",
+      "latest_comment_url": "https://github.com/AnandChowdhary/calendar-link/issues/comments/621358377",
+      "type": "Issue"
+    },
+    "repository": "AnandChowdhary/calendar-link",
+    "description": "📅 Calendar link generator for popular services"
+  },
+  {
+    "updated_at": "2020-04-28T15:38:18Z",
+    "subject": {
+      "title": "unable to generate event if the user is not loggedin to outlook account  before selecting outlook online",
+      "url": "https://github.com/AnandChowdhary/calendar-link/issues/161",
+      "latest_comment_url": "https://github.com/AnandChowdhary/calendar-link/issues/comments/620683670",
+      "type": "Issue"
+    },
+    "repository": "AnandChowdhary/calendar-link",
+    "description": "📅 Calendar link generator for popular services"
+  },
+  {
+    "updated_at": "2020-04-23T06:49:41Z",
+    "subject": {
+      "title": "Progress Bar Suggestions",
+      "url": "https://github.com/Karuna2020/karuna2020.org/issues/8",
+      "latest_comment_url": "https://github.com/Karuna2020/karuna2020.org/issues/8",
+      "type": "Issue"
+    },
+    "repository": "Karuna2020/karuna2020.org",
+    "description": "🙌 Website for the Karuna 2020 project"
+  },
+  {
+    "updated_at": "2020-06-13T16:21:14Z",
+    "subject": {
+      "title": "Compression settings ignored when using Crop",
+      "url": "https://github.com/elninotech/uppload/issues/113",
+      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/616512786",
+      "type": "Issue"
+    },
+    "repository": "elninotech/uppload",
+    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
+  },
+  {
+    "updated_at": "2020-04-20T12:05:23Z",
+    "subject": {
+      "title": "Confirm password before performing security tasks",
+      "url": "https://github.com/staart/api/issues/1023",
+      "latest_comment_url": "https://github.com/staart/api/issues/comments/616509185",
+      "type": "Issue"
+    },
+    "repository": "staart/api",
+    "description": "🏁🛠️ SaaS backend framework with users, payments, APIs, and more"
+  },
+  {
+    "updated_at": "2020-04-14T11:42:46Z",
+    "subject": {
+      "title": "When source code will be released?",
+      "url": "https://github.com/staart/exprext/issues/1",
+      "latest_comment_url": "https://github.com/staart/exprext/issues/comments/613392211",
+      "type": "Issue"
+    },
+    "repository": "staart/exprext",
+    "description": "⛳ Exprext is a Next/Nuxt-like framework for Express + TypeScript"
+  },
+  {
+    "updated_at": "2020-04-08T14:14:13Z",
+    "subject": {
+      "title": "installation errors",
+      "url": "https://github.com/AnandChowdhary/hovercard/issues/467",
+      "latest_comment_url": "https://github.com/AnandChowdhary/hovercard/issues/comments/610984602",
+      "type": "Issue"
+    },
+    "repository": "AnandChowdhary/hovercard",
+    "description": "🖱️ Wikipedia summary cards for the web"
   }
 ]
