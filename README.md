@@ -28,34 +28,6 @@ Last updated 2 weeks ago
 [AnandChowdhary/auto-i18n](https://github.com/AnandChowdhary/auto-i18n) · 🌐 Automatically translate your JSON I18N files  
 Last updated 1 month ago  
 
-- **[Using camera feature in mobile  responsive way is not working](https://github.com/elninotech/uppload/issues/232)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 1 month ago  
-
-- **[Support for image metadata](https://github.com/elninotech/uppload/issues/233)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 1 month ago  
-
-- **[Fido2](https://github.com/denorg/denorg/issues/5)**  
-[denorg/denorg](https://github.com/denorg/denorg) · 🦕  Deno-focused community organization and consultancy company  
-Last updated 1 month ago  
-
-- **[Custom media library/plugin similar to those extended from SearchBaseClass](https://github.com/elninotech/uppload/issues/91)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 1 month ago  
-
-- **[small version](https://github.com/AnandChowdhary/hackerbadge/issues/2)**  
-[AnandChowdhary/hackerbadge](https://github.com/AnandChowdhary/hackerbadge) · 📛 Embeddable badges for Hacker News posts/launches  
-Last updated 1 month ago  
-
-- **[ETXTBSY error when an instance of prisma2 is already running ](https://github.com/prisma/prisma/issues/1209)**  
-[prisma/prisma](https://github.com/prisma/prisma) · Modern DB toolkit to query, migrate and model your database  
-Last updated 1 month ago  
-
-- **[Add support for `commitTemplate` configuration](https://github.com/all-contributors/all-contributors/issues/374)**  
-[all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) · ✨ Recognize all contributors, not just the ones who push code ✨  
-Last updated 1 month ago  
-
 
 ## 👩‍💻 Development
 
