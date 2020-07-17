@@ -262,16 +262,5 @@
     },
     "repository": "AnandChowdhary/calendar-link",
     "description": "📅 Calendar link generator for popular services"
-  },
-  {
-    "updated_at": "2020-04-23T06:49:41Z",
-    "subject": {
-      "title": "Progress Bar Suggestions",
-      "url": "https://github.com/Karuna2020/karuna2020.org/issues/8",
-      "latest_comment_url": "https://github.com/Karuna2020/karuna2020.org/issues/8",
-      "type": "Issue"
-    },
-    "repository": "Karuna2020/karuna2020.org",
-    "description": "🙌 Website for the Karuna 2020 project"
   }
 ]
