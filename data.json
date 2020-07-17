@@ -284,5 +284,16 @@
     },
     "repository": "elninotech/uppload",
     "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
+  },
+  {
+    "updated_at": "2020-04-20T12:05:23Z",
+    "subject": {
+      "title": "Confirm password before performing security tasks",
+      "url": "https://github.com/staart/api/issues/1023",
+      "latest_comment_url": "https://github.com/staart/api/issues/comments/616509185",
+      "type": "Issue"
+    },
+    "repository": "staart/api",
+    "description": "🏁🛠️ SaaS backend framework with users, payments, APIs, and more"
   }
 ]
