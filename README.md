@@ -4,6 +4,10 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 [![Backlog Updater](https://github.com/AnandChowdhary/backlog/workflows/Backlog%20Updater/badge.svg)](https://github.com/AnandChowdhary/backlog/actions)
 
+- **[⬆️ Bump lodash from 4.17.11 to 4.17.19](https://github.com/OswaldLabsOpenSource/react-native-tracker-demo/pulls/4)**  
+[OswaldLabsOpenSource/react-native-tracker-demo](https://github.com/OswaldLabsOpenSource/react-native-tracker-demo) · Example app for using Agastya's tracking with React Native  
+Last updated 2 days ago  
+
 - **[⬆️ Bump lodash from 4.17.15 to 4.17.19](https://github.com/OswaldLabsOpenSource/help/pulls/8)**  
 [OswaldLabsOpenSource/help](https://github.com/OswaldLabsOpenSource/help) · ❓ Oswald Labs' Helpdesk  
 Last updated 2 days ago  
@@ -30,11 +34,11 @@ Last updated 2 days ago
 
 - **[Bump lodash from 4.17.15 to 4.17.19](https://github.com/AnandChowdhary/sharer.link/pulls/241)**  
 [AnandChowdhary/sharer.link](https://github.com/AnandChowdhary/sharer.link) · 🔗 Share links for songs, places, podcasts, and more  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[Bump @google-cloud/translate from 4.1.3 to 6.0.2](https://github.com/AnandChowdhary/auto-i18n/pulls/311)**  
 [AnandChowdhary/auto-i18n](https://github.com/AnandChowdhary/auto-i18n) · 🌐 Automatically translate your JSON I18N files  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[Bump mitt from 1.1.3 to 2.1.0](https://github.com/AnandChowdhary/hovercard/pulls/560)**  
 [AnandChowdhary/hovercard](https://github.com/AnandChowdhary/hovercard) · 🖱️ Wikipedia summary cards for the web  

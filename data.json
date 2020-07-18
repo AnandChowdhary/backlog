@@ -1,5 +1,16 @@
 [
   {
+    "updated_at": "2020-07-16T19:17:00Z",
+    "subject": {
+      "title": "⬆️ Bump lodash from 4.17.11 to 4.17.19",
+      "url": "https://github.com/OswaldLabsOpenSource/react-native-tracker-demo/pulls/4",
+      "latest_comment_url": "https://github.com/OswaldLabsOpenSource/react-native-tracker-demo/pulls/4",
+      "type": "PullRequest"
+    },
+    "repository": "OswaldLabsOpenSource/react-native-tracker-demo",
+    "description": "Example app for using Agastya's tracking with React Native"
+  },
+  {
     "updated_at": "2020-07-16T19:07:12Z",
     "subject": {
       "title": "⬆️ Bump lodash from 4.17.15 to 4.17.19",
