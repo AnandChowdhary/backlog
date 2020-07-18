@@ -80,10 +80,6 @@ Last updated 1 month ago
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
 Last updated 1 month ago  
 
-- **[small version](https://github.com/AnandChowdhary/hackerbadge/issues/2)**  
-[AnandChowdhary/hackerbadge](https://github.com/AnandChowdhary/hackerbadge) · 📛 Embeddable badges for Hacker News posts/launches  
-Last updated 1 month ago  
-
 
 ## 👩‍💻 Development
 

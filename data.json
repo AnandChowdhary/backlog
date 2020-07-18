@@ -207,16 +207,5 @@
     },
     "repository": "elninotech/uppload",
     "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
-  },
-  {
-    "updated_at": "2020-05-28T10:33:49Z",
-    "subject": {
-      "title": "small version",
-      "url": "https://github.com/AnandChowdhary/hackerbadge/issues/2",
-      "latest_comment_url": "https://github.com/AnandChowdhary/hackerbadge/issues/2",
-      "type": "Issue"
-    },
-    "repository": "AnandChowdhary/hackerbadge",
-    "description": "📛 Embeddable badges for Hacker News posts/launches"
   }
 ]
