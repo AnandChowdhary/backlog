@@ -4,6 +4,10 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 [![Backlog Updater](https://github.com/AnandChowdhary/backlog/workflows/Backlog%20Updater/badge.svg)](https://github.com/AnandChowdhary/backlog/actions)
 
+- **[Multiple Uppload instances have problems](https://github.com/elninotech/uppload/issues/180)**  
+[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
+Last updated 2 days ago  
+
 - **[⬆️ Bump ts-loader from 8.0.0 to 8.0.1](https://github.com/elninotech/uppload/pulls/271)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
 Last updated 2 days ago  
@@ -130,18 +134,6 @@ Last updated 2 months ago
 
 - **[unable to generate event if the user is not loggedin to outlook account  before selecting outlook online](https://github.com/AnandChowdhary/calendar-link/issues/161)**  
 [AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
-Last updated 2 months ago  
-
-- **[Progress Bar Suggestions](https://github.com/Karuna2020/karuna2020.org/issues/8)**  
-[Karuna2020/karuna2020.org](https://github.com/Karuna2020/karuna2020.org) · 🙌 Website for the Karuna 2020 project  
-Last updated 2 months ago  
-
-- **[Compression settings ignored when using Crop](https://github.com/elninotech/uppload/issues/113)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 1 month ago  
-
-- **[Confirm password before performing security tasks](https://github.com/staart/api/issues/1023)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
 Last updated 2 months ago  
 
 
