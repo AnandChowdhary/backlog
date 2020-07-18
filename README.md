@@ -4,6 +4,22 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 [![Backlog Updater](https://github.com/AnandChowdhary/backlog/workflows/Backlog%20Updater/badge.svg)](https://github.com/AnandChowdhary/backlog/actions)
 
+- **[⬆️ Bump ts-loader from 8.0.0 to 8.0.1](https://github.com/elninotech/uppload/pulls/271)**  
+[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
+Last updated 2 days ago  
+
+- **[⬆️ Bump mitt from 1.2.0 to 2.1.0](https://github.com/elninotech/uppload/pulls/272)**  
+[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
+Last updated 2 days ago  
+
+- **[⬆️🔒 Bump lodash from 4.17.15 to 4.17.19](https://github.com/elninotech/uppload/pulls/270)**  
+[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
+Last updated 2 days ago  
+
+- **[⬆️🔒 Bump lodash from 4.17.15 to 4.17.19](https://github.com/staart/site/pulls/215)**  
+[staart/site](https://github.com/staart/site) · 🏁📑 Static site generator for landing pages, docs, and more  
+Last updated 2 days ago  
+
 - **[Bump lodash from 4.17.15 to 4.17.19](https://github.com/AnandChowdhary/sharer.link/pulls/241)**  
 [AnandChowdhary/sharer.link](https://github.com/AnandChowdhary/sharer.link) · 🔗 Share links for songs, places, podcasts, and more  
 Last updated 2 days ago  
