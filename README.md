@@ -4,6 +4,10 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 [![Backlog Updater](https://github.com/AnandChowdhary/backlog/workflows/Backlog%20Updater/badge.svg)](https://github.com/AnandChowdhary/backlog/actions)
 
+- **[⬆️ Bump lodash from 4.17.15 to 4.17.19](https://github.com/OswaldLabsOpenSource/help/pulls/8)**  
+[OswaldLabsOpenSource/help](https://github.com/OswaldLabsOpenSource/help) · ❓ Oswald Labs' Helpdesk  
+Last updated 2 days ago  
+
 - **[Multiple Uppload instances have problems](https://github.com/elninotech/uppload/issues/180)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
 Last updated 2 days ago  
@@ -34,11 +38,11 @@ Last updated 2 days ago
 
 - **[Bump mitt from 1.1.3 to 2.1.0](https://github.com/AnandChowdhary/hovercard/pulls/560)**  
 [AnandChowdhary/hovercard](https://github.com/AnandChowdhary/hovercard) · 🖱️ Wikipedia summary cards for the web  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[Bump mitt from 1.2.0 to 2.1.0](https://github.com/AnandChowdhary/typestart/pulls/411)**  
 [AnandChowdhary/typestart](https://github.com/AnandChowdhary/typestart) · 📦 Typescript DOM library starter template  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[Record Audio and Video](https://github.com/elninotech/uppload/issues/266)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  

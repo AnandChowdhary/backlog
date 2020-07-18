@@ -1,5 +1,16 @@
 [
   {
+    "updated_at": "2020-07-16T19:07:12Z",
+    "subject": {
+      "title": "⬆️ Bump lodash from 4.17.15 to 4.17.19",
+      "url": "https://github.com/OswaldLabsOpenSource/help/pulls/8",
+      "latest_comment_url": "https://github.com/OswaldLabsOpenSource/help/pulls/8",
+      "type": "PullRequest"
+    },
+    "repository": "OswaldLabsOpenSource/help",
+    "description": "❓ Oswald Labs' Helpdesk"
+  },
+  {
     "updated_at": "2020-07-16T07:46:00Z",
     "subject": {
       "title": "Multiple Uppload instances have problems",
