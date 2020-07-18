@@ -42,7 +42,7 @@ Last updated 2 days ago
 
 - **[Record Audio and Video](https://github.com/elninotech/uppload/issues/266)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 6 days ago  
+Last updated 1 week ago  
 
 - **[Cannot click on other upload options after one is selected](https://github.com/elninotech/uppload/issues/249)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
