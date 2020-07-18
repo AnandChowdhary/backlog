@@ -218,27 +218,5 @@
     },
     "repository": "AnandChowdhary/hackerbadge",
     "description": "📛 Embeddable badges for Hacker News posts/launches"
-  },
-  {
-    "updated_at": "2020-05-27T16:06:52Z",
-    "subject": {
-      "title": "ETXTBSY error when an instance of prisma2 is already running ",
-      "url": "https://github.com/prisma/prisma/issues/1209",
-      "latest_comment_url": "https://github.com/prisma/prisma/issues/comments/634767850",
-      "type": "Issue"
-    },
-    "repository": "prisma/prisma",
-    "description": "Modern DB toolkit to query, migrate and model your database"
-  },
-  {
-    "updated_at": "2020-05-23T19:06:07Z",
-    "subject": {
-      "title": "Add support for `commitTemplate` configuration",
-      "url": "https://github.com/all-contributors/all-contributors/issues/374",
-      "latest_comment_url": "https://github.com/all-contributors/all-contributors/issues/comments/633119271",
-      "type": "Issue"
-    },
-    "repository": "all-contributors/all-contributors",
-    "description": "✨ Recognize all contributors, not just the ones who push code ✨"
   }
 ]
