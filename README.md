@@ -4,64 +4,8 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 [![Backlog Updater](https://github.com/AnandChowdhary/backlog/workflows/Backlog%20Updater/badge.svg)](https://github.com/AnandChowdhary/backlog/actions)
 
-- **[⬆️ Bump ts-jest from 26.1.2 to 26.1.3](https://github.com/elninotech/uppload/pulls/274)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 days ago  
-
-- **[⬆️ Bump typescript from 3.9.6 to 3.9.7](https://github.com/elninotech/uppload/pulls/273)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 days ago  
-
-- **[⬆️ Bump typescript from 3.9.5 to 3.9.7](https://github.com/staart/site/pulls/216)**  
-[staart/site](https://github.com/staart/site) · 🏁📑 Static site generator for landing pages, docs, and more  
-Last updated 2 days ago  
-
-- **[⬆️ Bump lodash from 4.17.15 to 4.17.19](https://github.com/o15y/araassistant.com/pulls/6)**  
-[o15y/araassistant.com](https://github.com/o15y/araassistant.com) · 💁 AI-powered email assistant (frontend app UI)  
-Last updated 2 days ago  
-
-- **[⬆️ Bump lodash from 4.17.11 to 4.17.19](https://github.com/OswaldLabsOpenSource/react-native-tracker-demo/pulls/4)**  
-[OswaldLabsOpenSource/react-native-tracker-demo](https://github.com/OswaldLabsOpenSource/react-native-tracker-demo) · Example app for using Agastya's tracking with React Native  
-Last updated 2 days ago  
-
-- **[⬆️ Bump lodash from 4.17.15 to 4.17.19](https://github.com/OswaldLabsOpenSource/help/pulls/8)**  
-[OswaldLabsOpenSource/help](https://github.com/OswaldLabsOpenSource/help) · ❓ Oswald Labs' Helpdesk  
-Last updated 2 days ago  
-
 - **[Multiple Uppload instances have problems](https://github.com/elninotech/uppload/issues/180)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 3 days ago  
-
-- **[⬆️ Bump ts-loader from 8.0.0 to 8.0.1](https://github.com/elninotech/uppload/pulls/271)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 3 days ago  
-
-- **[⬆️ Bump mitt from 1.2.0 to 2.1.0](https://github.com/elninotech/uppload/pulls/272)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 3 days ago  
-
-- **[⬆️🔒 Bump lodash from 4.17.15 to 4.17.19](https://github.com/elninotech/uppload/pulls/270)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 3 days ago  
-
-- **[⬆️🔒 Bump lodash from 4.17.15 to 4.17.19](https://github.com/staart/site/pulls/215)**  
-[staart/site](https://github.com/staart/site) · 🏁📑 Static site generator for landing pages, docs, and more  
-Last updated 3 days ago  
-
-- **[Bump lodash from 4.17.15 to 4.17.19](https://github.com/AnandChowdhary/sharer.link/pulls/241)**  
-[AnandChowdhary/sharer.link](https://github.com/AnandChowdhary/sharer.link) · 🔗 Share links for songs, places, podcasts, and more  
-Last updated 3 days ago  
-
-- **[Bump @google-cloud/translate from 4.1.3 to 6.0.2](https://github.com/AnandChowdhary/auto-i18n/pulls/311)**  
-[AnandChowdhary/auto-i18n](https://github.com/AnandChowdhary/auto-i18n) · 🌐 Automatically translate your JSON I18N files  
-Last updated 3 days ago  
-
-- **[Bump mitt from 1.1.3 to 2.1.0](https://github.com/AnandChowdhary/hovercard/pulls/560)**  
-[AnandChowdhary/hovercard](https://github.com/AnandChowdhary/hovercard) · 🖱️ Wikipedia summary cards for the web  
-Last updated 3 days ago  
-
-- **[Bump mitt from 1.2.0 to 2.1.0](https://github.com/AnandChowdhary/typestart/pulls/411)**  
-[AnandChowdhary/typestart](https://github.com/AnandChowdhary/typestart) · 📦 Typescript DOM library starter template  
 Last updated 3 days ago  
 
 - **[Record Audio and Video](https://github.com/elninotech/uppload/issues/266)**  
@@ -151,6 +95,42 @@ Last updated 2 months ago
 - **[Call camera.close() when not using Camera service](https://github.com/elninotech/uppload/issues/165)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
 Last updated 1 month ago  
+
+- **[outlook online event is not generated in mobile devices](https://github.com/AnandChowdhary/calendar-link/issues/162)**  
+[AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
+Last updated 2 months ago  
+
+- **[unable to generate event if the user is not loggedin to outlook account  before selecting outlook online](https://github.com/AnandChowdhary/calendar-link/issues/161)**  
+[AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
+Last updated 2 months ago  
+
+- **[Progress Bar Suggestions](https://github.com/Karuna2020/karuna2020.org/issues/8)**  
+[Karuna2020/karuna2020.org](https://github.com/Karuna2020/karuna2020.org) · 🙌 Website for the Karuna 2020 project  
+Last updated 2 months ago  
+
+- **[Compression settings ignored when using Crop](https://github.com/elninotech/uppload/issues/113)**  
+[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
+Last updated 1 month ago  
+
+- **[Confirm password before performing security tasks](https://github.com/staart/api/issues/1023)**  
+[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
+Last updated 2 months ago  
+
+- **[When source code will be released?](https://github.com/staart/exprext/issues/1)**  
+[staart/exprext](https://github.com/staart/exprext) · ⛳ Exprext is a Next/Nuxt-like framework for Express + TypeScript  
+Last updated 3 months ago  
+
+- **[installation errors](https://github.com/AnandChowdhary/hovercard/issues/467)**  
+[AnandChowdhary/hovercard](https://github.com/AnandChowdhary/hovercard) · 🖱️ Wikipedia summary cards for the web  
+Last updated 3 months ago  
+
+- **[how to connect custom web app to this front end templete ](https://github.com/staart/ui/issues/803)**  
+[staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
+Last updated 3 months ago  
+
+- **[How do I recreate this?](https://github.com/AnandChowdhary/life-data/issues/9)**  
+[AnandChowdhary/life-data](https://github.com/AnandChowdhary/life-data) · 📈 Data from my life, committed by a bot  
+Last updated 3 months ago  
 
 
 ## 👩‍💻 Development
