@@ -30,7 +30,7 @@ Last updated 2 days ago
 
 - **[Multiple Uppload instances have problems](https://github.com/elninotech/uppload/issues/180)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[⬆️ Bump ts-loader from 8.0.0 to 8.0.1](https://github.com/elninotech/uppload/pulls/271)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
