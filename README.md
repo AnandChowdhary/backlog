@@ -14,7 +14,7 @@ Last updated 1 week ago
 
 - **[Cannot click on other upload options after one is selected](https://github.com/elninotech/uppload/issues/249)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 1 week ago  
+Last updated 2 weeks ago  
 
 - **[Use Casbin to manage user permissions ](https://github.com/staart/api/issues/337)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
