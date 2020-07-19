@@ -4,6 +4,10 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 [![Backlog Updater](https://github.com/AnandChowdhary/backlog/workflows/Backlog%20Updater/badge.svg)](https://github.com/AnandChowdhary/backlog/actions)
 
+- **[⬆️ Bump lodash from 4.17.15 to 4.17.19](https://github.com/o15y/araassistant.com/pulls/6)**  
+[o15y/araassistant.com](https://github.com/o15y/araassistant.com) · 💁 AI-powered email assistant (frontend app UI)  
+Last updated 2 days ago  
+
 - **[⬆️ Bump lodash from 4.17.11 to 4.17.19](https://github.com/OswaldLabsOpenSource/react-native-tracker-demo/pulls/4)**  
 [OswaldLabsOpenSource/react-native-tracker-demo](https://github.com/OswaldLabsOpenSource/react-native-tracker-demo) · Example app for using Agastya's tracking with React Native  
 Last updated 2 days ago  

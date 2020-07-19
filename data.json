@@ -1,5 +1,16 @@
 [
   {
+    "updated_at": "2020-07-17T01:04:33Z",
+    "subject": {
+      "title": "⬆️ Bump lodash from 4.17.15 to 4.17.19",
+      "url": "https://github.com/o15y/araassistant.com/pulls/6",
+      "latest_comment_url": "https://github.com/o15y/araassistant.com/pulls/6",
+      "type": "PullRequest"
+    },
+    "repository": "o15y/araassistant.com",
+    "description": "💁 AI-powered email assistant (frontend app UI)"
+  },
+  {
     "updated_at": "2020-07-16T19:17:00Z",
     "subject": {
       "title": "⬆️ Bump lodash from 4.17.11 to 4.17.19",
