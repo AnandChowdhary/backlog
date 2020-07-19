@@ -4,6 +4,18 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 [![Backlog Updater](https://github.com/AnandChowdhary/backlog/workflows/Backlog%20Updater/badge.svg)](https://github.com/AnandChowdhary/backlog/actions)
 
+- **[⬆️ Bump ts-jest from 26.1.2 to 26.1.3](https://github.com/elninotech/uppload/pulls/274)**  
+[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
+Last updated 2 days ago  
+
+- **[⬆️ Bump typescript from 3.9.6 to 3.9.7](https://github.com/elninotech/uppload/pulls/273)**  
+[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
+Last updated 2 days ago  
+
+- **[⬆️ Bump typescript from 3.9.5 to 3.9.7](https://github.com/staart/site/pulls/216)**  
+[staart/site](https://github.com/staart/site) · 🏁📑 Static site generator for landing pages, docs, and more  
+Last updated 2 days ago  
+
 - **[⬆️ Bump lodash from 4.17.15 to 4.17.19](https://github.com/o15y/araassistant.com/pulls/6)**  
 [o15y/araassistant.com](https://github.com/o15y/araassistant.com) · 💁 AI-powered email assistant (frontend app UI)  
 Last updated 2 days ago  
@@ -22,19 +34,19 @@ Last updated 2 days ago
 
 - **[⬆️ Bump ts-loader from 8.0.0 to 8.0.1](https://github.com/elninotech/uppload/pulls/271)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[⬆️ Bump mitt from 1.2.0 to 2.1.0](https://github.com/elninotech/uppload/pulls/272)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[⬆️🔒 Bump lodash from 4.17.15 to 4.17.19](https://github.com/elninotech/uppload/pulls/270)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[⬆️🔒 Bump lodash from 4.17.15 to 4.17.19](https://github.com/staart/site/pulls/215)**  
 [staart/site](https://github.com/staart/site) · 🏁📑 Static site generator for landing pages, docs, and more  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[Bump lodash from 4.17.15 to 4.17.19](https://github.com/AnandChowdhary/sharer.link/pulls/241)**  
 [AnandChowdhary/sharer.link](https://github.com/AnandChowdhary/sharer.link) · 🔗 Share links for songs, places, podcasts, and more  
@@ -139,10 +151,6 @@ Last updated 2 months ago
 - **[Call camera.close() when not using Camera service](https://github.com/elninotech/uppload/issues/165)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
 Last updated 1 month ago  
-
-- **[outlook online event is not generated in mobile devices](https://github.com/AnandChowdhary/calendar-link/issues/162)**  
-[AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
-Last updated 2 months ago  
 
 
 ## 👩‍💻 Development
