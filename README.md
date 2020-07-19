@@ -140,10 +140,6 @@ Last updated 1 month ago
 [AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
 Last updated 2 months ago  
 
-- **[unable to generate event if the user is not loggedin to outlook account  before selecting outlook online](https://github.com/AnandChowdhary/calendar-link/issues/161)**  
-[AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
-Last updated 2 months ago  
-
 
 ## 👩‍💻 Development
 
