@@ -8,10 +8,6 @@ This is a list of things I (still) have to do from my GitHub open-source project
 [AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
 Last updated 3 days ago  
 
-- **[Multiple Uppload instances have problems](https://github.com/elninotech/uppload/issues/180)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 4 days ago  
-
 - **[Record Audio and Video](https://github.com/elninotech/uppload/issues/266)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
 Last updated 1 week ago  

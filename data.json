@@ -11,17 +11,6 @@
     "description": "📅 Calendar link generator for popular services"
   },
   {
-    "updated_at": "2020-07-16T07:46:00Z",
-    "subject": {
-      "title": "Multiple Uppload instances have problems",
-      "url": "https://github.com/elninotech/uppload/issues/180",
-      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/659223441",
-      "type": "Issue"
-    },
-    "repository": "elninotech/uppload",
-    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
-  },
-  {
     "updated_at": "2020-07-11T10:13:10Z",
     "subject": {
       "title": "Record Audio and Video",
