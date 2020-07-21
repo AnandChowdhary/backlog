@@ -116,14 +116,6 @@ Last updated 1 month ago
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
 Last updated 3 months ago  
 
-- **[When source code will be released?](https://github.com/staart/exprext/issues/1)**  
-[staart/exprext](https://github.com/staart/exprext) · ⛳ Exprext is a Next/Nuxt-like framework for Express + TypeScript  
-Last updated 3 months ago  
-
-- **[installation errors](https://github.com/AnandChowdhary/hovercard/issues/467)**  
-[AnandChowdhary/hovercard](https://github.com/AnandChowdhary/hovercard) · 🖱️ Wikipedia summary cards for the web  
-Last updated 3 months ago  
-
 
 ## 👩‍💻 Development
 
