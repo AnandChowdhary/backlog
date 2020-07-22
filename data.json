@@ -1,5 +1,16 @@
 [
   {
+    "updated_at": "2020-07-20T14:33:10Z",
+    "subject": {
+      "title": "Multiple Uppload instances have problems",
+      "url": "https://github.com/elninotech/uppload/issues/180",
+      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/661077506",
+      "type": "Issue"
+    },
+    "repository": "elninotech/uppload",
+    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
+  },
+  {
     "updated_at": "2020-07-17T12:00:51Z",
     "subject": {
       "title": "Incorrect Yahoo All Day Calendar URL",

@@ -4,6 +4,10 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 [![Backlog Updater](https://github.com/AnandChowdhary/backlog/workflows/Backlog%20Updater/badge.svg)](https://github.com/AnandChowdhary/backlog/actions)
 
+- **[Multiple Uppload instances have problems](https://github.com/elninotech/uppload/issues/180)**  
+[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
+Last updated 2 days ago  
+
 - **[Incorrect Yahoo All Day Calendar URL](https://github.com/AnandChowdhary/calendar-link/issues/190)**  
 [AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
 Last updated 5 days ago  
