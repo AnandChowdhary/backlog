@@ -10,7 +10,7 @@ Last updated 2 days ago
 
 - **[Incorrect Yahoo All Day Calendar URL](https://github.com/AnandChowdhary/calendar-link/issues/190)**  
 [AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
-Last updated 5 days ago  
+Last updated 6 days ago  
 
 - **[Record Audio and Video](https://github.com/elninotech/uppload/issues/266)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
