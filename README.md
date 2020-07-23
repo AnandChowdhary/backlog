@@ -6,7 +6,7 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 - **[Multiple Uppload instances have problems](https://github.com/elninotech/uppload/issues/180)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[Incorrect Yahoo All Day Calendar URL](https://github.com/AnandChowdhary/calendar-link/issues/190)**  
 [AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
@@ -62,7 +62,7 @@ Last updated 1 month ago
 
 - **[Add support for `commitTemplate` configuration](https://github.com/all-contributors/all-contributors/issues/374)**  
 [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) · ✨ Recognize all contributors, not just the ones who push code ✨  
-Last updated 1 month ago  
+Last updated 2 months ago  
 
 - **[Exif data is getting lost](https://github.com/elninotech/uppload/issues/210)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
