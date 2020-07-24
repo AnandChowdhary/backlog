@@ -12,54 +12,6 @@ Last updated 3 days ago
 [AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
 Last updated 6 days ago  
 
-- **[Record Audio and Video](https://github.com/elninotech/uppload/issues/266)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 1 week ago  
-
-- **[Cannot click on other upload options after one is selected](https://github.com/elninotech/uppload/issues/249)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 weeks ago  
-
-- **[Use Casbin to manage user permissions ](https://github.com/staart/api/issues/337)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 2 weeks ago  
-
-- **[Ampersand in Subject for Outlook Web renders as &amp;](https://github.com/InteractionDesignFoundation/add-event-to-calendar-docs/issues/17)**  
-[InteractionDesignFoundation/add-event-to-calendar-docs](https://github.com/InteractionDesignFoundation/add-event-to-calendar-docs) · 📅 Docs how to generate links to add events to online calendar services  
-Last updated 3 weeks ago  
-
-- **[Update colors.json](https://github.com/AnandChowdhary/language-icons/pulls/3)**  
-[AnandChowdhary/language-icons](https://github.com/AnandChowdhary/language-icons) · 🈹 Better icons for languages, because flags just don't cut it  
-Last updated 3 weeks ago  
-
-- **[Missing dependencies from package.json](https://github.com/AnandChowdhary/auto-i18n/issues/299)**  
-[AnandChowdhary/auto-i18n](https://github.com/AnandChowdhary/auto-i18n) · 🌐 Automatically translate your JSON I18N files  
-Last updated 1 month ago  
-
-- **[Using camera feature in mobile  responsive way is not working](https://github.com/elninotech/uppload/issues/232)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 1 month ago  
-
-- **[Support for image metadata](https://github.com/elninotech/uppload/issues/233)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 1 month ago  
-
-- **[Fido2](https://github.com/denorg/denorg/issues/5)**  
-[denorg/denorg](https://github.com/denorg/denorg) · 🦕  Deno-focused community organization and consultancy company  
-Last updated 1 month ago  
-
-- **[Custom media library/plugin similar to those extended from SearchBaseClass](https://github.com/elninotech/uppload/issues/91)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 1 month ago  
-
-- **[small version](https://github.com/AnandChowdhary/hackerbadge/issues/2)**  
-[AnandChowdhary/hackerbadge](https://github.com/AnandChowdhary/hackerbadge) · 📛 Embeddable badges for Hacker News posts/launches  
-Last updated 1 month ago  
-
-- **[ETXTBSY error when an instance of prisma2 is already running ](https://github.com/prisma/prisma/issues/1209)**  
-[prisma/prisma](https://github.com/prisma/prisma) · Modern DB toolkit to query, migrate and model your database  
-Last updated 1 month ago  
-
 
 ## 👩‍💻 Development
 
