@@ -76,30 +76,6 @@ Last updated 1 month ago
 [AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
 Last updated 1 month ago  
 
-- **[Default .env.example inline comments causing malformed links and values.](https://github.com/staart/api/issues/1126)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 2 months ago  
-
-- **[install docs: schema.sql](https://github.com/staart/api/issues/1143)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 2 months ago  
-
-- **[Question...not an issue report](https://github.com/staart/api-nest/issues/2)**  
-[staart/api-nest](https://github.com/staart/api-nest) · 🏁⚠️ DEPRECATED: Working repo for NestJS Staart API  
-Last updated 2 months ago  
-
-- **[dotENV File Secret Keys question for clarification](https://github.com/staart/ui/issues/874)**  
-[staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
-Last updated 2 months ago  
-
-- **[AWS SES and ES config](https://github.com/staart/api/issues/1121)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 2 months ago  
-
-- **[Leaking email to Gravatar. ](https://github.com/staart/api/issues/1114)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 2 months ago  
-
 
 ## 👩‍💻 Development
 
