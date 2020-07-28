@@ -58,7 +58,7 @@ Last updated 1 month ago
 
 - **[small version](https://github.com/AnandChowdhary/hackerbadge/issues/2)**  
 [AnandChowdhary/hackerbadge](https://github.com/AnandChowdhary/hackerbadge) · 📛 Embeddable badges for Hacker News posts/launches  
-Last updated 1 month ago  
+Last updated 2 months ago  
 
 - **[ETXTBSY error when an instance of prisma2 is already running ](https://github.com/prisma/prisma/issues/1209)**  
 [prisma/prisma](https://github.com/prisma/prisma) · Modern DB toolkit to query, migrate and model your database  
