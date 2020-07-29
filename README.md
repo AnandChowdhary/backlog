@@ -30,7 +30,7 @@ Last updated 3 weeks ago
 
 - **[Ampersand in Subject for Outlook Web renders as &amp;](https://github.com/InteractionDesignFoundation/add-event-to-calendar-docs/issues/17)**  
 [InteractionDesignFoundation/add-event-to-calendar-docs](https://github.com/InteractionDesignFoundation/add-event-to-calendar-docs) · 📅 Docs how to generate links to add events to online calendar services  
-Last updated 3 weeks ago  
+Last updated 4 weeks ago  
 
 - **[Update colors.json](https://github.com/AnandChowdhary/language-icons/pulls/3)**  
 [AnandChowdhary/language-icons](https://github.com/AnandChowdhary/language-icons) · 🈹 Better icons for languages, because flags just don't cut it  
