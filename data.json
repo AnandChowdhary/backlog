@@ -284,16 +284,5 @@
     },
     "repository": "AnandChowdhary/calendar-link",
     "description": "📅 Calendar link generator for popular services"
-  },
-  {
-    "updated_at": "2020-04-28T15:38:18Z",
-    "subject": {
-      "title": "unable to generate event if the user is not loggedin to outlook account  before selecting outlook online",
-      "url": "https://github.com/AnandChowdhary/calendar-link/issues/161",
-      "latest_comment_url": "https://github.com/AnandChowdhary/calendar-link/issues/comments/620683670",
-      "type": "Issue"
-    },
-    "repository": "AnandChowdhary/calendar-link",
-    "description": "📅 Calendar link generator for popular services"
   }
 ]
