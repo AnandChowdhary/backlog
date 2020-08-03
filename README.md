@@ -46,7 +46,7 @@ Last updated 1 month ago
 
 - **[Fido2](https://github.com/denorg/denorg/issues/5)**  
 [denorg/denorg](https://github.com/denorg/denorg) · 🦕  Deno-focused community organization and consultancy company  
-Last updated 1 month ago  
+Last updated 2 months ago  
 
 - **[Custom media library/plugin similar to those extended from SearchBaseClass](https://github.com/elninotech/uppload/issues/91)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
