@@ -162,7 +162,7 @@
       "type": "Issue"
     },
     "repository": "prisma/prisma",
-    "description": "Modern DB toolkit to query, migrate and model your database"
+    "description": "Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite"
   },
   {
     "updated_at": "2020-05-23T19:06:07Z",

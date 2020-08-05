@@ -61,7 +61,7 @@ Last updated 1 month ago
 Last updated 2 months ago  
 
 - **[ETXTBSY error when an instance of prisma2 is already running ](https://github.com/prisma/prisma/issues/1209)**  
-[prisma/prisma](https://github.com/prisma/prisma) · Modern DB toolkit to query, migrate and model your database  
+[prisma/prisma](https://github.com/prisma/prisma) · Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite  
 Last updated 2 months ago  
 
 - **[Add support for `commitTemplate` configuration](https://github.com/all-contributors/all-contributors/issues/374)**  
