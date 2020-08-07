@@ -138,7 +138,7 @@ Last updated 3 months ago
 
 - **[how to connect custom web app to this front end templete ](https://github.com/staart/ui/issues/803)**  
 [staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
-Last updated 3 months ago  
+Last updated 4 months ago  
 
 - **[How do I recreate this?](https://github.com/AnandChowdhary/life-data/issues/9)**  
 [AnandChowdhary/life-data](https://github.com/AnandChowdhary/life-data) · 📈 Data from my life, committed by a bot  
