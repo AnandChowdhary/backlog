@@ -10,7 +10,7 @@ Last updated 2 days ago
 
 - **[filesize problem](https://github.com/elninotech/uppload/issues/281)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 1 week ago  
+Last updated 2 weeks ago  
 
 - **[Multiple Uppload instances have problems](https://github.com/elninotech/uppload/issues/180)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
