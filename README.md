@@ -134,7 +134,7 @@ Last updated 3 months ago
 
 - **[installation errors](https://github.com/AnandChowdhary/hovercard/issues/467)**  
 [AnandChowdhary/hovercard](https://github.com/AnandChowdhary/hovercard) · 🖱️ Wikipedia summary cards for the web  
-Last updated 3 months ago  
+Last updated 4 months ago  
 
 - **[how to connect custom web app to this front end templete ](https://github.com/staart/ui/issues/803)**  
 [staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
