@@ -82,7 +82,7 @@ Last updated 2 months ago
 
 - **[Default .env.example inline comments causing malformed links and values.](https://github.com/staart/api/issues/1126)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 2 months ago  
+Last updated 3 months ago  
 
 - **[install docs: schema.sql](https://github.com/staart/api/issues/1143)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
