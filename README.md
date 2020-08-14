@@ -10,7 +10,7 @@ Last updated 1 week ago
 
 - **[filesize problem](https://github.com/elninotech/uppload/issues/281)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 weeks ago  
+Last updated 3 weeks ago  
 
 - **[Multiple Uppload instances have problems](https://github.com/elninotech/uppload/issues/180)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
@@ -141,7 +141,7 @@ Last updated 4 months ago
 Last updated 4 months ago  
 
 - **[How do I recreate this?](https://github.com/AnandChowdhary/life-data/issues/9)**  
-[AnandChowdhary/life-data](https://github.com/AnandChowdhary/life-data) · 📈 Data from my life, committed by a bot  
+[AnandChowdhary/life-data](https://github.com/AnandChowdhary/life-data) · 📈 All data from my life — location, health, work, play, and more — open sourced  
 Last updated 4 months ago  
 
 
