@@ -1,5 +1,16 @@
 [
   {
+    "updated_at": "2020-08-13T22:04:39Z",
+    "subject": {
+      "title": "Support for animation/transition",
+      "url": "https://github.com/rob-balfre/svelte-select/issues/163",
+      "latest_comment_url": "https://github.com/rob-balfre/svelte-select/issues/163",
+      "type": "Issue"
+    },
+    "repository": "rob-balfre/svelte-select",
+    "description": "A select component for Svelte apps"
+  },
+  {
     "updated_at": "2020-08-13T20:47:27Z",
     "subject": {
       "title": "Typescript Compilation Errors",

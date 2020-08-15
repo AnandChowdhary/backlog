@@ -4,6 +4,10 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 [![Backlog Updater](https://github.com/AnandChowdhary/backlog/workflows/Backlog%20Updater/badge.svg)](https://github.com/AnandChowdhary/backlog/actions)
 
+- **[Support for animation/transition](https://github.com/rob-balfre/svelte-select/issues/163)**  
+[rob-balfre/svelte-select](https://github.com/rob-balfre/svelte-select) · A select component for Svelte apps  
+Last updated 2 days ago  
+
 - **[Typescript Compilation Errors](https://github.com/staart/api/issues/1319)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
 Last updated 2 days ago  
