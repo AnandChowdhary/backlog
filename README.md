@@ -72,10 +72,6 @@ Last updated 2 months ago
 [prisma/prisma](https://github.com/prisma/prisma) · Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite  
 Last updated 2 months ago  
 
-- **[Add support for `commitTemplate` configuration](https://github.com/all-contributors/all-contributors/issues/374)**  
-[all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) · ✨ Recognize all contributors, not just the ones who push code ✨  
-Last updated 2 months ago  
-
 - **[Exif data is getting lost](https://github.com/elninotech/uppload/issues/210)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
 Last updated 2 months ago  
