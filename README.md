@@ -52,14 +52,6 @@ Last updated 2 months ago
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
 Last updated 2 months ago  
 
-- **[Support for image metadata](https://github.com/elninotech/uppload/issues/233)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 months ago  
-
-- **[Fido2](https://github.com/denorg/denorg/issues/5)**  
-[denorg/denorg](https://github.com/denorg/denorg) · 🦕  Deno-focused community organization and consultancy company  
-Last updated 2 months ago  
-
 
 ## 👩‍💻 Development
 
