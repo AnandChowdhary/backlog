@@ -60,26 +60,6 @@ Last updated 2 months ago
 [denorg/denorg](https://github.com/denorg/denorg) · 🦕  Deno-focused community organization and consultancy company  
 Last updated 2 months ago  
 
-- **[Custom media library/plugin similar to those extended from SearchBaseClass](https://github.com/elninotech/uppload/issues/91)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 months ago  
-
-- **[small version](https://github.com/AnandChowdhary/hackerbadge/issues/2)**  
-[AnandChowdhary/hackerbadge](https://github.com/AnandChowdhary/hackerbadge) · 📛 Embeddable badges for Hacker News posts/launches  
-Last updated 2 months ago  
-
-- **[ETXTBSY error when an instance of prisma2 is already running ](https://github.com/prisma/prisma/issues/1209)**  
-[prisma/prisma](https://github.com/prisma/prisma) · Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite  
-Last updated 2 months ago  
-
-- **[Exif data is getting lost](https://github.com/elninotech/uppload/issues/210)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 months ago  
-
-- **[outlook live calendar showing different dates](https://github.com/AnandChowdhary/calendar-link/issues/154)**  
-[AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
-Last updated 2 months ago  
-
 
 ## 👩‍💻 Development
 
