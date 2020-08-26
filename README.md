@@ -88,10 +88,6 @@ Last updated 3 months ago
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
 Last updated 3 months ago  
 
-- **[Question...not an issue report](https://github.com/staart/api-nest/issues/2)**  
-[staart/api-nest](https://github.com/staart/api-nest) · 🏁⚠️ DEPRECATED: Working repo for NestJS Staart API  
-Last updated 3 months ago  
-
 
 ## 👩‍💻 Development
 
