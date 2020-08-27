@@ -152,16 +152,5 @@
     },
     "repository": "elninotech/uppload",
     "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
-  },
-  {
-    "updated_at": "2020-06-03T22:39:47Z",
-    "subject": {
-      "title": "Fido2",
-      "url": "https://github.com/denorg/denorg/issues/5",
-      "latest_comment_url": "https://github.com/denorg/denorg/issues/5",
-      "type": "Issue"
-    },
-    "repository": "denorg/denorg",
-    "description": "🦕  Deno-focused community organization and consultancy company"
   }
 ]
