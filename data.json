@@ -251,27 +251,5 @@
     },
     "repository": "staart/api-nest",
     "description": "🏁⚠️ DEPRECATED: Working repo for NestJS Staart API"
-  },
-  {
-    "updated_at": "2020-05-11T09:51:02Z",
-    "subject": {
-      "title": "dotENV File Secret Keys question for clarification",
-      "url": "https://github.com/staart/ui/issues/874",
-      "latest_comment_url": "https://github.com/staart/ui/issues/comments/626597893",
-      "type": "Issue"
-    },
-    "repository": "staart/ui",
-    "description": "🏁🌐 Frontend Vue PWA starter for SaaS startups"
-  },
-  {
-    "updated_at": "2020-05-01T10:40:25Z",
-    "subject": {
-      "title": "AWS SES and ES config",
-      "url": "https://github.com/staart/api/issues/1121",
-      "latest_comment_url": "https://github.com/staart/api/issues/comments/622331975",
-      "type": "Issue"
-    },
-    "repository": "staart/api",
-    "description": "🏁🛠️ SaaS backend framework with users, payments, APIs, and more"
   }
 ]
