@@ -76,26 +76,6 @@ Last updated 2 months ago
 [prisma/prisma](https://github.com/prisma/prisma) · Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite  
 Last updated 3 months ago  
 
-- **[Exif data is getting lost](https://github.com/elninotech/uppload/issues/210)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 months ago  
-
-- **[outlook live calendar showing different dates](https://github.com/AnandChowdhary/calendar-link/issues/154)**  
-[AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
-Last updated 2 months ago  
-
-- **[Default .env.example inline comments causing malformed links and values.](https://github.com/staart/api/issues/1126)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 3 months ago  
-
-- **[install docs: schema.sql](https://github.com/staart/api/issues/1143)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 3 months ago  
-
-- **[Question...not an issue report](https://github.com/staart/api-nest/issues/2)**  
-[staart/api-nest](https://github.com/staart/api-nest) · 🏁⚠️ DEPRECATED: Working repo for NestJS Staart API  
-Last updated 3 months ago  
-
 
 ## 👩‍💻 Development
 
