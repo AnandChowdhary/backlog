@@ -4,10 +4,6 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 [![Backlog Updater](https://github.com/AnandChowdhary/backlog/workflows/Backlog%20Updater/badge.svg)](https://github.com/AnandChowdhary/backlog/actions)
 
-- **[Fraud is not a constructor error on Windows.](https://github.com/AnandChowdhary/fraud/issues/93)**  
-[AnandChowdhary/fraud](https://github.com/AnandChowdhary/fraud) · 🗄 File-based key-JSON database with nodecache  
-Last updated 3 days ago  
-
 - **[Typescript Compilation Errors](https://github.com/staart/api/issues/1319)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
 Last updated 6 days ago  
