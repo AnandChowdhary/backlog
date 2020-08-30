@@ -4,6 +4,10 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 [![Backlog Updater](https://github.com/AnandChowdhary/backlog/workflows/Backlog%20Updater/badge.svg)](https://github.com/AnandChowdhary/backlog/actions)
 
+- **[outlook live calendar showing different dates](https://github.com/AnandChowdhary/calendar-link/issues/154)**  
+[AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
+Last updated 2 days ago  
+
 - **[Question / Potential Feature Request: Does it make sense to have something like that for pm2 features?](https://github.com/denorg/dpx/issues/7)**  
 [denorg/dpx](https://github.com/denorg/dpx) · 📦 CLI to run a Deno package without installing it (like npx for Deno)  
 Last updated 3 days ago  
