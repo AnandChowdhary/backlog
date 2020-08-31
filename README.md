@@ -102,7 +102,7 @@ Last updated 3 months ago
 
 - **[AWS SES and ES config](https://github.com/staart/api/issues/1121)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 3 months ago  
+Last updated 4 months ago  
 
 - **[Leaking email to Gravatar. ](https://github.com/staart/api/issues/1114)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
