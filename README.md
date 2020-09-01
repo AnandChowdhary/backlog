@@ -6,7 +6,7 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 - **[Add account deactivate feature](https://github.com/staart/api/issues/1350)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[outlook live calendar showing different dates](https://github.com/AnandChowdhary/calendar-link/issues/154)**  
 [AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
