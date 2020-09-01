@@ -11,17 +11,6 @@
     "description": "🏁🛠️ SaaS backend framework with users, payments, APIs, and more"
   },
   {
-    "updated_at": "2020-08-28T17:40:28Z",
-    "subject": {
-      "title": "outlook live calendar showing different dates",
-      "url": "https://github.com/AnandChowdhary/calendar-link/issues/154",
-      "latest_comment_url": "https://github.com/AnandChowdhary/calendar-link/issues/comments/682977637",
-      "type": "Issue"
-    },
-    "repository": "AnandChowdhary/calendar-link",
-    "description": "📅 Calendar link generator for popular services"
-  },
-  {
     "updated_at": "2020-08-26T21:53:28Z",
     "subject": {
       "title": "Question / Potential Feature Request: Does it make sense to have something like that for pm2 features?",
@@ -75,17 +64,6 @@
     },
     "repository": "elninotech/uppload",
     "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
-  },
-  {
-    "updated_at": "2020-07-17T12:00:51Z",
-    "subject": {
-      "title": "Incorrect Yahoo All Day Calendar URL",
-      "url": "https://github.com/AnandChowdhary/calendar-link/issues/190",
-      "latest_comment_url": "https://github.com/AnandChowdhary/calendar-link/issues/comments/660069202",
-      "type": "Issue"
-    },
-    "repository": "AnandChowdhary/calendar-link",
-    "description": "📅 Calendar link generator for popular services"
   },
   {
     "updated_at": "2020-07-11T10:13:10Z",
@@ -306,28 +284,6 @@
     },
     "repository": "elninotech/uppload",
     "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
-  },
-  {
-    "updated_at": "2020-04-29T17:37:00Z",
-    "subject": {
-      "title": "outlook online event is not generated in mobile devices",
-      "url": "https://github.com/AnandChowdhary/calendar-link/issues/162",
-      "latest_comment_url": "https://github.com/AnandChowdhary/calendar-link/issues/comments/621358377",
-      "type": "Issue"
-    },
-    "repository": "AnandChowdhary/calendar-link",
-    "description": "📅 Calendar link generator for popular services"
-  },
-  {
-    "updated_at": "2020-04-28T15:38:18Z",
-    "subject": {
-      "title": "unable to generate event if the user is not loggedin to outlook account  before selecting outlook online",
-      "url": "https://github.com/AnandChowdhary/calendar-link/issues/161",
-      "latest_comment_url": "https://github.com/AnandChowdhary/calendar-link/issues/comments/620683670",
-      "type": "Issue"
-    },
-    "repository": "AnandChowdhary/calendar-link",
-    "description": "📅 Calendar link generator for popular services"
   },
   {
     "updated_at": "2020-04-23T06:49:41Z",
