@@ -99,17 +99,6 @@
     "description": "🏁🛠️ SaaS backend framework with users, payments, APIs, and more"
   },
   {
-    "updated_at": "2020-07-01T17:31:40Z",
-    "subject": {
-      "title": "Ampersand in Subject for Outlook Web renders as &amp;",
-      "url": "https://github.com/InteractionDesignFoundation/add-event-to-calendar-docs/issues/17",
-      "latest_comment_url": "https://github.com/InteractionDesignFoundation/add-event-to-calendar-docs/issues/17",
-      "type": "Issue"
-    },
-    "repository": "InteractionDesignFoundation/add-event-to-calendar-docs",
-    "description": "📅 Docs how to generate links to add events to online calendar services"
-  },
-  {
     "updated_at": "2020-07-01T03:31:03Z",
     "subject": {
       "title": "Update colors.json",
