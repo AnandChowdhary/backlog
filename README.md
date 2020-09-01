@@ -10,7 +10,7 @@ Last updated 3 days ago
 
 - **[Question / Potential Feature Request: Does it make sense to have something like that for pm2 features?](https://github.com/denorg/dpx/issues/7)**  
 [denorg/dpx](https://github.com/denorg/dpx) · 📦 CLI to run a Deno package without installing it (like npx for Deno)  
-Last updated 5 days ago  
+Last updated 6 days ago  
 
 - **[Typescript Compilation Errors](https://github.com/staart/api/issues/1319)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
@@ -118,18 +118,6 @@ Last updated 4 months ago
 
 - **[When source code will be released?](https://github.com/staart/exprext/issues/1)**  
 [staart/exprext](https://github.com/staart/exprext) · ⛳ Exprext is a Next/Nuxt-like framework for Express + TypeScript  
-Last updated 4 months ago  
-
-- **[installation errors](https://github.com/AnandChowdhary/hovercard/issues/467)**  
-[AnandChowdhary/hovercard](https://github.com/AnandChowdhary/hovercard) · 🖱️ Wikipedia summary cards for the web  
-Last updated 4 months ago  
-
-- **[how to connect custom web app to this front end templete ](https://github.com/staart/ui/issues/803)**  
-[staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
-Last updated 4 months ago  
-
-- **[How do I recreate this?](https://github.com/AnandChowdhary/life-data/issues/9)**  
-[AnandChowdhary/life-data](https://github.com/AnandChowdhary/life-data) · 📈 All data from my life — location, health, work, play, and more — open sourced  
 Last updated 4 months ago  
 
 
