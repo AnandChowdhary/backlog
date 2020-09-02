@@ -88,17 +88,6 @@
     "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
   },
   {
-    "updated_at": "2020-07-03T09:02:53Z",
-    "subject": {
-      "title": "Use Casbin to manage user permissions ",
-      "url": "https://github.com/staart/api/issues/337",
-      "latest_comment_url": "https://github.com/staart/api/issues/comments/653438165",
-      "type": "Issue"
-    },
-    "repository": "staart/api",
-    "description": "🏁🛠️ SaaS backend framework with users, payments, APIs, and more"
-  },
-  {
     "updated_at": "2020-07-01T03:31:03Z",
     "subject": {
       "title": "Update colors.json",
