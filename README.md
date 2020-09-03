@@ -16,6 +16,30 @@ Last updated 1 week ago
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
 Last updated 1 week ago  
 
+- **[Add a settings option to choose where to render the Uppload modal](https://github.com/elninotech/uppload/issues/288)**  
+[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
+Last updated 4 weeks ago  
+
+- **[filesize problem](https://github.com/elninotech/uppload/issues/281)**  
+[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
+Last updated 1 month ago  
+
+- **[Multiple Uppload instances have problems](https://github.com/elninotech/uppload/issues/180)**  
+[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
+Last updated 1 month ago  
+
+- **[Record Audio and Video](https://github.com/elninotech/uppload/issues/266)**  
+[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
+Last updated 1 month ago  
+
+- **[Cannot click on other upload options after one is selected](https://github.com/elninotech/uppload/issues/249)**  
+[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
+Last updated 1 month ago  
+
+- **[Update colors.json](https://github.com/AnandChowdhary/language-icons/pulls/3)**  
+[AnandChowdhary/language-icons](https://github.com/AnandChowdhary/language-icons) · 🈹 Better icons for languages, because flags just don't cut it  
+Last updated 2 months ago  
+
 
 ## 👩‍💻 Development
 
