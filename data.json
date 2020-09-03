@@ -42,38 +42,5 @@
     },
     "repository": "elninotech/uppload",
     "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
-  },
-  {
-    "updated_at": "2020-07-24T07:58:29Z",
-    "subject": {
-      "title": "filesize problem",
-      "url": "https://github.com/elninotech/uppload/issues/281",
-      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/663396753",
-      "type": "Issue"
-    },
-    "repository": "elninotech/uppload",
-    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
-  },
-  {
-    "updated_at": "2020-07-20T14:33:10Z",
-    "subject": {
-      "title": "Multiple Uppload instances have problems",
-      "url": "https://github.com/elninotech/uppload/issues/180",
-      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/661077506",
-      "type": "Issue"
-    },
-    "repository": "elninotech/uppload",
-    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
-  },
-  {
-    "updated_at": "2020-07-11T10:13:10Z",
-    "subject": {
-      "title": "Record Audio and Video",
-      "url": "https://github.com/elninotech/uppload/issues/266",
-      "latest_comment_url": "https://github.com/elninotech/uppload/issues/266",
-      "type": "Issue"
-    },
-    "repository": "elninotech/uppload",
-    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
   }
 ]
