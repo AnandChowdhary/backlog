@@ -31,16 +31,5 @@
     },
     "repository": "staart/api",
     "description": "🏁🛠️ SaaS backend framework with users, payments, APIs, and more"
-  },
-  {
-    "updated_at": "2020-08-04T18:31:10Z",
-    "subject": {
-      "title": "Add a settings option to choose where to render the Uppload modal",
-      "url": "https://github.com/elninotech/uppload/issues/288",
-      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/668756358",
-      "type": "Issue"
-    },
-    "repository": "elninotech/uppload",
-    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
   }
 ]
