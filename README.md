@@ -40,6 +40,94 @@ Last updated 1 month ago
 [AnandChowdhary/language-icons](https://github.com/AnandChowdhary/language-icons) · 🈹 Better icons for languages, because flags just don't cut it  
 Last updated 2 months ago  
 
+- **[Missing dependencies from package.json](https://github.com/AnandChowdhary/auto-i18n/issues/299)**  
+[AnandChowdhary/auto-i18n](https://github.com/AnandChowdhary/auto-i18n) · 🌐 Automatically translate your JSON I18N files  
+Last updated 2 months ago  
+
+- **[Using camera feature in mobile  responsive way is not working](https://github.com/elninotech/uppload/issues/232)**  
+[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
+Last updated 2 months ago  
+
+- **[Support for image metadata](https://github.com/elninotech/uppload/issues/233)**  
+[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
+Last updated 2 months ago  
+
+- **[Fido2](https://github.com/denorg/denorg/issues/5)**  
+[denorg/denorg](https://github.com/denorg/denorg) · 🦕  Deno-focused community organization and consultancy company  
+Last updated 3 months ago  
+
+- **[Custom media library/plugin similar to those extended from SearchBaseClass](https://github.com/elninotech/uppload/issues/91)**  
+[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
+Last updated 2 months ago  
+
+- **[small version](https://github.com/AnandChowdhary/hackerbadge/issues/2)**  
+[AnandChowdhary/hackerbadge](https://github.com/AnandChowdhary/hackerbadge) · 📛 Embeddable badges for Hacker News posts/launches  
+Last updated 3 months ago  
+
+- **[ETXTBSY error when an instance of prisma2 is already running ](https://github.com/prisma/prisma/issues/1209)**  
+[prisma/prisma](https://github.com/prisma/prisma) · Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite  
+Last updated 3 months ago  
+
+- **[Exif data is getting lost](https://github.com/elninotech/uppload/issues/210)**  
+[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
+Last updated 2 months ago  
+
+- **[Default .env.example inline comments causing malformed links and values.](https://github.com/staart/api/issues/1126)**  
+[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
+Last updated 3 months ago  
+
+- **[install docs: schema.sql](https://github.com/staart/api/issues/1143)**  
+[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
+Last updated 3 months ago  
+
+- **[Question...not an issue report](https://github.com/staart/api-nest/issues/2)**  
+[staart/api-nest](https://github.com/staart/api-nest) · 🏁⚠️ DEPRECATED: Working repo for NestJS Staart API  
+Last updated 3 months ago  
+
+- **[dotENV File Secret Keys question for clarification](https://github.com/staart/ui/issues/874)**  
+[staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
+Last updated 3 months ago  
+
+- **[AWS SES and ES config](https://github.com/staart/api/issues/1121)**  
+[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
+Last updated 4 months ago  
+
+- **[Leaking email to Gravatar. ](https://github.com/staart/api/issues/1114)**  
+[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
+Last updated 4 months ago  
+
+- **[Call camera.close() when not using Camera service](https://github.com/elninotech/uppload/issues/165)**  
+[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
+Last updated 2 months ago  
+
+- **[Progress Bar Suggestions](https://github.com/Karuna2020/karuna2020.org/issues/8)**  
+[Karuna2020/karuna2020.org](https://github.com/Karuna2020/karuna2020.org) · 🙌 Website for the Karuna 2020 project  
+Last updated 4 months ago  
+
+- **[Compression settings ignored when using Crop](https://github.com/elninotech/uppload/issues/113)**  
+[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
+Last updated 2 months ago  
+
+- **[Confirm password before performing security tasks](https://github.com/staart/api/issues/1023)**  
+[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
+Last updated 4 months ago  
+
+- **[When source code will be released?](https://github.com/staart/exprext/issues/1)**  
+[staart/exprext](https://github.com/staart/exprext) · ⛳ Exprext is a Next/Nuxt-like framework for Express + TypeScript  
+Last updated 4 months ago  
+
+- **[installation errors](https://github.com/AnandChowdhary/hovercard/issues/467)**  
+[AnandChowdhary/hovercard](https://github.com/AnandChowdhary/hovercard) · 🖱️ Wikipedia summary cards for the web  
+Last updated 4 months ago  
+
+- **[how to connect custom web app to this front end templete ](https://github.com/staart/ui/issues/803)**  
+[staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
+Last updated 4 months ago  
+
+- **[How do I recreate this?](https://github.com/AnandChowdhary/life-data/issues/9)**  
+[AnandChowdhary/life-data](https://github.com/AnandChowdhary/life-data) · 📈 All data from my life — location, health, work, play, and more — open sourced  
+Last updated 4 months ago  
+
 
 ## 👩‍💻 Development
 
