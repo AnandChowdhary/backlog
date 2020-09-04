@@ -18,7 +18,7 @@ Last updated 1 week ago
 
 - **[Add a settings option to choose where to render the Uppload modal](https://github.com/elninotech/uppload/issues/288)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 4 weeks ago  
+Last updated 1 month ago  
 
 - **[filesize problem](https://github.com/elninotech/uppload/issues/281)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
