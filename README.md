@@ -44,18 +44,6 @@ Last updated 2 months ago
 [AnandChowdhary/auto-i18n](https://github.com/AnandChowdhary/auto-i18n) · 🌐 Automatically translate your JSON I18N files  
 Last updated 2 months ago  
 
-- **[Using camera feature in mobile  responsive way is not working](https://github.com/elninotech/uppload/issues/232)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 months ago  
-
-- **[Support for image metadata](https://github.com/elninotech/uppload/issues/233)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 months ago  
-
-- **[Fido2](https://github.com/denorg/denorg/issues/5)**  
-[denorg/denorg](https://github.com/denorg/denorg) · 🦕  Deno-focused community organization and consultancy company  
-Last updated 3 months ago  
-
 
 ## 👩‍💻 Development
 

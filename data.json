@@ -108,38 +108,5 @@
     },
     "repository": "AnandChowdhary/auto-i18n",
     "description": "🌐 Automatically translate your JSON I18N files"
-  },
-  {
-    "updated_at": "2020-06-13T16:21:16Z",
-    "subject": {
-      "title": "Using camera feature in mobile  responsive way is not working",
-      "url": "https://github.com/elninotech/uppload/issues/232",
-      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/641795095",
-      "type": "Issue"
-    },
-    "repository": "elninotech/uppload",
-    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
-  },
-  {
-    "updated_at": "2020-06-13T16:21:16Z",
-    "subject": {
-      "title": "Support for image metadata",
-      "url": "https://github.com/elninotech/uppload/issues/233",
-      "latest_comment_url": "https://github.com/elninotech/uppload/issues/233",
-      "type": "Issue"
-    },
-    "repository": "elninotech/uppload",
-    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
-  },
-  {
-    "updated_at": "2020-06-03T22:39:47Z",
-    "subject": {
-      "title": "Fido2",
-      "url": "https://github.com/denorg/denorg/issues/5",
-      "latest_comment_url": "https://github.com/denorg/denorg/issues/5",
-      "type": "Issue"
-    },
-    "repository": "denorg/denorg",
-    "description": "🦕  Deno-focused community organization and consultancy company"
   }
 ]
