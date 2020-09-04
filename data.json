@@ -152,27 +152,5 @@
     },
     "repository": "elninotech/uppload",
     "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
-  },
-  {
-    "updated_at": "2020-05-28T10:33:49Z",
-    "subject": {
-      "title": "small version",
-      "url": "https://github.com/AnandChowdhary/hackerbadge/issues/2",
-      "latest_comment_url": "https://github.com/AnandChowdhary/hackerbadge/issues/2",
-      "type": "Issue"
-    },
-    "repository": "AnandChowdhary/hackerbadge",
-    "description": "📛 Embeddable badges for Hacker News posts/launches"
-  },
-  {
-    "updated_at": "2020-05-27T16:06:52Z",
-    "subject": {
-      "title": "ETXTBSY error when an instance of prisma2 is already running ",
-      "url": "https://github.com/prisma/prisma/issues/1209",
-      "latest_comment_url": "https://github.com/prisma/prisma/issues/comments/634767850",
-      "type": "Issue"
-    },
-    "repository": "prisma/prisma",
-    "description": "Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite"
   }
 ]
