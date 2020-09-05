@@ -96,18 +96,6 @@ Last updated 4 months ago
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
 Last updated 4 months ago  
 
-- **[Call camera.close() when not using Camera service](https://github.com/elninotech/uppload/issues/165)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 months ago  
-
-- **[Progress Bar Suggestions](https://github.com/Karuna2020/karuna2020.org/issues/8)**  
-[Karuna2020/karuna2020.org](https://github.com/Karuna2020/karuna2020.org) · 🙌 Website for the Karuna 2020 project  
-Last updated 4 months ago  
-
-- **[Compression settings ignored when using Crop](https://github.com/elninotech/uppload/issues/113)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 months ago  
-
 
 ## 👩‍💻 Development
 
