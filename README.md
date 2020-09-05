@@ -4,6 +4,10 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 [![Backlog Updater](https://github.com/AnandChowdhary/backlog/workflows/Backlog%20Updater/badge.svg)](https://github.com/AnandChowdhary/backlog/actions)
 
+- **[Typescript will not compile](https://github.com/staart/api/issues/1352)**  
+[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
+Last updated 2 days ago  
+
 - **[Add account deactivate feature](https://github.com/staart/api/issues/1350)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
 Last updated 1 week ago  
