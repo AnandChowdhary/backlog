@@ -6,7 +6,7 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 - **[Typescript will not compile](https://github.com/staart/api/issues/1352)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[Add account deactivate feature](https://github.com/staart/api/issues/1350)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
@@ -126,7 +126,7 @@ Last updated 4 months ago
 
 - **[how to connect custom web app to this front end templete ](https://github.com/staart/ui/issues/803)**  
 [staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
-Last updated 4 months ago  
+Last updated 5 months ago  
 
 
 ## 👩‍💻 Development
