@@ -36,10 +36,6 @@ Last updated 1 month ago
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
 Last updated 1 month ago  
 
-- **[Cannot click on other upload options after one is selected](https://github.com/elninotech/uppload/issues/249)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 months ago  
-
 - **[Update colors.json](https://github.com/AnandChowdhary/language-icons/pulls/3)**  
 [AnandChowdhary/language-icons](https://github.com/AnandChowdhary/language-icons) · 🈹 Better icons for languages, because flags just don't cut it  
 Last updated 2 months ago  
