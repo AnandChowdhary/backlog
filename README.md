@@ -6,7 +6,7 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 - **[Typescript will not compile](https://github.com/staart/api/issues/1352)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 4 days ago  
+Last updated 5 days ago  
 
 - **[Add account deactivate feature](https://github.com/staart/api/issues/1350)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
