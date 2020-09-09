@@ -1,5 +1,16 @@
 [
   {
+    "updated_at": "2020-09-07T07:42:51Z",
+    "subject": {
+      "title": "Cannot click on other upload options after one is selected",
+      "url": "https://github.com/elninotech/uppload/issues/249",
+      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/688112063",
+      "type": "Issue"
+    },
+    "repository": "elninotech/uppload",
+    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
+  },
+  {
     "updated_at": "2020-09-03T13:14:06Z",
     "subject": {
       "title": "Typescript will not compile",
