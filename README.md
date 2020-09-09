@@ -116,10 +116,6 @@ Last updated 4 months ago
 [staart/exprext](https://github.com/staart/exprext) · ⛳ Exprext is a Next/Nuxt-like framework for Express + TypeScript  
 Last updated 4 months ago  
 
-- **[installation errors](https://github.com/AnandChowdhary/hovercard/issues/467)**  
-[AnandChowdhary/hovercard](https://github.com/AnandChowdhary/hovercard) · 🖱️ Wikipedia summary cards for the web  
-Last updated 5 months ago  
-
 
 ## 👩‍💻 Development
 
