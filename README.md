@@ -90,7 +90,7 @@ Last updated 3 months ago
 
 - **[dotENV File Secret Keys question for clarification](https://github.com/staart/ui/issues/874)**  
 [staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
-Last updated 3 months ago  
+Last updated 4 months ago  
 
 - **[AWS SES and ES config](https://github.com/staart/api/issues/1121)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
