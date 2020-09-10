@@ -38,7 +38,7 @@ Last updated 1 month ago
 
 - **[Record Audio and Video](https://github.com/elninotech/uppload/issues/266)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 1 month ago  
+Last updated 2 months ago  
 
 - **[Update colors.json](https://github.com/AnandChowdhary/language-icons/pulls/3)**  
 [AnandChowdhary/language-icons](https://github.com/AnandChowdhary/language-icons) · 🈹 Better icons for languages, because flags just don't cut it  
