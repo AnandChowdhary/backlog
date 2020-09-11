@@ -1,5 +1,16 @@
 [
   {
+    "updated_at": "2020-09-09T15:00:19Z",
+    "subject": {
+      "title": "Failing action status when all looks good",
+      "url": "https://github.com/vsoch/pull-request-action/issues/41",
+      "latest_comment_url": "https://github.com/vsoch/pull-request-action/issues/comments/689620069",
+      "type": "Issue"
+    },
+    "repository": "vsoch/pull-request-action",
+    "description": "open a pull request when a branch is pushed or updated"
+  },
+  {
     "updated_at": "2020-09-09T06:41:33Z",
     "subject": {
       "title": "Please update and correct the documenation",
