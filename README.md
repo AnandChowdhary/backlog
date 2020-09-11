@@ -36,10 +36,6 @@ Last updated 1 month ago
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
 Last updated 1 month ago  
 
-- **[Record Audio and Video](https://github.com/elninotech/uppload/issues/266)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 months ago  
-
 
 ## 👩‍💻 Development
 
