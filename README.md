@@ -62,11 +62,11 @@ Last updated 3 months ago
 
 - **[Using camera feature in mobile  responsive way is not working](https://github.com/elninotech/uppload/issues/232)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 months ago  
+Last updated 3 months ago  
 
 - **[Support for image metadata](https://github.com/elninotech/uppload/issues/233)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 months ago  
+Last updated 3 months ago  
 
 - **[Fido2](https://github.com/denorg/denorg/issues/5)**  
 [denorg/denorg](https://github.com/denorg/denorg) · 🦕  Deno-focused community organization and consultancy company  
@@ -74,7 +74,7 @@ Last updated 3 months ago
 
 - **[Custom media library/plugin similar to those extended from SearchBaseClass](https://github.com/elninotech/uppload/issues/91)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 months ago  
+Last updated 3 months ago  
 
 - **[small version](https://github.com/AnandChowdhary/hackerbadge/issues/2)**  
 [AnandChowdhary/hackerbadge](https://github.com/AnandChowdhary/hackerbadge) · 📛 Embeddable badges for Hacker News posts/launches  
@@ -86,7 +86,7 @@ Last updated 3 months ago
 
 - **[Exif data is getting lost](https://github.com/elninotech/uppload/issues/210)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 months ago  
+Last updated 3 months ago  
 
 - **[Default .env.example inline comments causing malformed links and values.](https://github.com/staart/api/issues/1126)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
@@ -114,7 +114,7 @@ Last updated 4 months ago
 
 - **[Call camera.close() when not using Camera service](https://github.com/elninotech/uppload/issues/165)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 months ago  
+Last updated 3 months ago  
 
 - **[Progress Bar Suggestions](https://github.com/Karuna2020/karuna2020.org/issues/8)**  
 [Karuna2020/karuna2020.org](https://github.com/Karuna2020/karuna2020.org) · 🙌 Website for the Karuna 2020 project  
@@ -122,7 +122,7 @@ Last updated 4 months ago
 
 - **[Compression settings ignored when using Crop](https://github.com/elninotech/uppload/issues/113)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 months ago  
+Last updated 3 months ago  
 
 - **[Confirm password before performing security tasks](https://github.com/staart/api/issues/1023)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
