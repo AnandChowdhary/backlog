@@ -14,7 +14,7 @@ Last updated 2 days ago
 
 - **[Please update and correct the documenation](https://github.com/staart/api/issues/1382)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[For anyone having issues with Prisma](https://github.com/staart/api/issues/1380)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
