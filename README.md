@@ -130,7 +130,7 @@ Last updated 4 months ago
 
 - **[When source code will be released?](https://github.com/staart/exprext/issues/1)**  
 [staart/exprext](https://github.com/staart/exprext) · ⛳ Exprext is a Next/Nuxt-like framework for Express + TypeScript  
-Last updated 4 months ago  
+Last updated 5 months ago  
 
 
 ## 👩‍💻 Development
