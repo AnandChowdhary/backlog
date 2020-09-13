@@ -18,7 +18,7 @@ Last updated 4 days ago
 
 - **[Cannot click on other upload options after one is selected](https://github.com/elninotech/uppload/issues/249)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 5 days ago  
+Last updated 6 days ago  
 
 - **[Typescript will not compile](https://github.com/staart/api/issues/1352)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
