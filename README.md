@@ -14,7 +14,7 @@ Last updated 4 days ago
 
 - **[For anyone having issues with Prisma](https://github.com/staart/api/issues/1380)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 4 days ago  
+Last updated 5 days ago  
 
 - **[Cannot click on other upload options after one is selected](https://github.com/elninotech/uppload/issues/249)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
