@@ -6,15 +6,15 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 - **[outlook live calendar showing different dates](https://github.com/AnandChowdhary/calendar-link/issues/154)**  
 [AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
-Last updated 5 days ago  
+Last updated 6 days ago  
 
 - **[Please update and correct the documenation](https://github.com/staart/api/issues/1382)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 5 days ago  
+Last updated 6 days ago  
 
 - **[For anyone having issues with Prisma](https://github.com/staart/api/issues/1380)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 6 days ago  
+Last updated 1 week ago  
 
 - **[Cannot click on other upload options after one is selected](https://github.com/elninotech/uppload/issues/249)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
