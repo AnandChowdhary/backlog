@@ -22,7 +22,7 @@ Last updated 1 week ago
 
 - **[Typescript will not compile](https://github.com/staart/api/issues/1352)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 1 week ago  
+Last updated 2 weeks ago  
 
 - **[Add account deactivate feature](https://github.com/staart/api/issues/1350)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
@@ -102,6 +102,30 @@ Last updated 4 months ago
 
 - **[dotENV File Secret Keys question for clarification](https://github.com/staart/ui/issues/874)**  
 [staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
+Last updated 4 months ago  
+
+- **[AWS SES and ES config](https://github.com/staart/api/issues/1121)**  
+[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
+Last updated 4 months ago  
+
+- **[Leaking email to Gravatar. ](https://github.com/staart/api/issues/1114)**  
+[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
+Last updated 4 months ago  
+
+- **[Call camera.close() when not using Camera service](https://github.com/elninotech/uppload/issues/165)**  
+[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
+Last updated 3 months ago  
+
+- **[Progress Bar Suggestions](https://github.com/Karuna2020/karuna2020.org/issues/8)**  
+[Karuna2020/karuna2020.org](https://github.com/Karuna2020/karuna2020.org) · 🙌 Website for the Karuna 2020 project  
+Last updated 4 months ago  
+
+- **[Compression settings ignored when using Crop](https://github.com/elninotech/uppload/issues/113)**  
+[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
+Last updated 3 months ago  
+
+- **[Confirm password before performing security tasks](https://github.com/staart/api/issues/1023)**  
+[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
 Last updated 4 months ago  
 
 
