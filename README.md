@@ -6,7 +6,7 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 - **[Maximum call stack size exceeded when using uppload on a bootstrap 3.3 modal in vue](https://github.com/elninotech/uppload/issues/331)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[outlook live calendar showing different dates](https://github.com/AnandChowdhary/calendar-link/issues/154)**  
 [AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
@@ -38,7 +38,7 @@ Last updated 3 weeks ago
 
 - **[Typescript Compilation Errors](https://github.com/staart/api/issues/1319)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 4 weeks ago  
+Last updated 1 month ago  
 
 - **[Add a settings option to choose where to render the Uppload modal](https://github.com/elninotech/uppload/issues/288)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
@@ -123,14 +123,6 @@ Last updated 3 months ago
 - **[Progress Bar Suggestions](https://github.com/Karuna2020/karuna2020.org/issues/8)**  
 [Karuna2020/karuna2020.org](https://github.com/Karuna2020/karuna2020.org) · 🙌 Website for the Karuna 2020 project  
 Last updated 4 months ago  
-
-- **[Compression settings ignored when using Crop](https://github.com/elninotech/uppload/issues/113)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 3 months ago  
-
-- **[Confirm password before performing security tasks](https://github.com/staart/api/issues/1023)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 5 months ago  
 
 
 ## 👩‍💻 Development
