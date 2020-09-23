@@ -6,7 +6,7 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 - **[Maximum call stack size exceeded when using uppload on a bootstrap 3.3 modal in vue](https://github.com/elninotech/uppload/issues/331)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 4 days ago  
+Last updated 5 days ago  
 
 - **[outlook live calendar showing different dates](https://github.com/AnandChowdhary/calendar-link/issues/154)**  
 [AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
@@ -14,7 +14,7 @@ Last updated 1 week ago
 
 - **[For anyone having issues with Prisma](https://github.com/staart/api/issues/1380)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 1 week ago  
+Last updated 2 weeks ago  
 
 - **[Cannot click on other upload options after one is selected](https://github.com/elninotech/uppload/issues/249)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
@@ -42,7 +42,7 @@ Last updated 1 month ago
 
 - **[filesize problem](https://github.com/elninotech/uppload/issues/281)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 1 month ago  
+Last updated 2 months ago  
 
 - **[Multiple Uppload instances have problems](https://github.com/elninotech/uppload/issues/180)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
@@ -114,7 +114,7 @@ Last updated 4 months ago
 
 - **[Progress Bar Suggestions](https://github.com/Karuna2020/karuna2020.org/issues/8)**  
 [Karuna2020/karuna2020.org](https://github.com/Karuna2020/karuna2020.org) · 🙌 Website for the Karuna 2020 project  
-Last updated 4 months ago  
+Last updated 5 months ago  
 
 
 ## 👩‍💻 Development
