@@ -11,17 +11,6 @@
     "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
   },
   {
-    "updated_at": "2020-09-09T20:06:26Z",
-    "subject": {
-      "title": "outlook live calendar showing different dates",
-      "url": "https://github.com/AnandChowdhary/calendar-link/issues/154",
-      "latest_comment_url": "https://github.com/AnandChowdhary/calendar-link/issues/comments/689779143",
-      "type": "Issue"
-    },
-    "repository": "AnandChowdhary/calendar-link",
-    "description": "📅 Calendar link generator for popular services"
-  },
-  {
     "updated_at": "2020-09-09T05:54:29Z",
     "subject": {
       "title": "For anyone having issues with Prisma",
@@ -295,16 +284,5 @@
     },
     "repository": "staart/api",
     "description": "🏁🛠️ SaaS backend framework with users, payments, APIs, and more"
-  },
-  {
-    "updated_at": "2020-04-23T06:49:41Z",
-    "subject": {
-      "title": "Progress Bar Suggestions",
-      "url": "https://github.com/Karuna2020/karuna2020.org/issues/8",
-      "latest_comment_url": "https://github.com/Karuna2020/karuna2020.org/issues/8",
-      "type": "Issue"
-    },
-    "repository": "Karuna2020/karuna2020.org",
-    "description": "🙌 Website for the Karuna 2020 project"
   }
 ]
