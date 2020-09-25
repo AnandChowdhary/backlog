@@ -6,7 +6,7 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 - **[Maximum call stack size exceeded when using uppload on a bootstrap 3.3 modal in vue](https://github.com/elninotech/uppload/issues/331)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 6 days ago  
+Last updated 1 week ago  
 
 - **[For anyone having issues with Prisma](https://github.com/staart/api/issues/1380)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
@@ -18,7 +18,7 @@ Last updated 2 weeks ago
 
 - **[Typescript will not compile](https://github.com/staart/api/issues/1352)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 2 weeks ago  
+Last updated 3 weeks ago  
 
 - **[Add account deactivate feature](https://github.com/staart/api/issues/1350)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
