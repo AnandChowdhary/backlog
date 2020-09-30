@@ -10,7 +10,7 @@ Last updated 1 week ago
 
 - **[For anyone having issues with Prisma](https://github.com/staart/api/issues/1380)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 2 weeks ago  
+Last updated 3 weeks ago  
 
 - **[Cannot click on other upload options after one is selected](https://github.com/elninotech/uppload/issues/249)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
@@ -103,10 +103,6 @@ Last updated 4 months ago
 - **[AWS SES and ES config](https://github.com/staart/api/issues/1121)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
 Last updated 4 months ago  
-
-- **[Leaking email to Gravatar. ](https://github.com/staart/api/issues/1114)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 5 months ago  
 
 
 ## 👩‍💻 Development

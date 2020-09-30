@@ -273,16 +273,5 @@
     },
     "repository": "staart/api",
     "description": "🏁🛠️ SaaS backend framework with users, payments, APIs, and more"
-  },
-  {
-    "updated_at": "2020-04-29T17:31:53Z",
-    "subject": {
-      "title": "Leaking email to Gravatar. ",
-      "url": "https://github.com/staart/api/issues/1114",
-      "latest_comment_url": "https://github.com/staart/api/issues/comments/621355642",
-      "type": "Issue"
-    },
-    "repository": "staart/api",
-    "description": "🏁🛠️ SaaS backend framework with users, payments, APIs, and more"
   }
 ]
