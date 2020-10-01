@@ -50,7 +50,7 @@ Last updated 2 months ago
 
 - **[Update colors.json](https://github.com/AnandChowdhary/language-icons/pulls/3)**  
 [AnandChowdhary/language-icons](https://github.com/AnandChowdhary/language-icons) · 🈹 Better icons for languages, because flags just don't cut it  
-Last updated 2 months ago  
+Last updated 3 months ago  
 
 - **[Missing dependencies from package.json](https://github.com/AnandChowdhary/auto-i18n/issues/299)**  
 [AnandChowdhary/auto-i18n](https://github.com/AnandChowdhary/auto-i18n) · 🌐 Automatically translate your JSON I18N files  
@@ -102,7 +102,7 @@ Last updated 4 months ago
 
 - **[AWS SES and ES config](https://github.com/staart/api/issues/1121)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 4 months ago  
+Last updated 5 months ago  
 
 
 ## 👩‍💻 Development
