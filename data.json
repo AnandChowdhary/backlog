@@ -1,5 +1,27 @@
 [
   {
+    "updated_at": "2020-09-29T11:25:38Z",
+    "subject": {
+      "title": "Request for UMD package for easy implementation in projects without build pipeline",
+      "url": "https://github.com/AnandChowdhary/calendar-link/issues/220",
+      "latest_comment_url": "https://github.com/AnandChowdhary/calendar-link/issues/comments/700640000",
+      "type": "Issue"
+    },
+    "repository": "AnandChowdhary/calendar-link",
+    "description": "📅 Calendar link generator for popular services"
+  },
+  {
+    "updated_at": "2020-09-29T10:42:04Z",
+    "subject": {
+      "title": "spaces converted to plus sign in outlook.com",
+      "url": "https://github.com/AnandChowdhary/calendar-link/issues/219",
+      "latest_comment_url": "https://github.com/AnandChowdhary/calendar-link/issues/comments/700620349",
+      "type": "Issue"
+    },
+    "repository": "AnandChowdhary/calendar-link",
+    "description": "📅 Calendar link generator for popular services"
+  },
+  {
     "updated_at": "2020-09-17T09:14:41Z",
     "subject": {
       "title": "Maximum call stack size exceeded when using uppload on a bootstrap 3.3 modal in vue",
@@ -262,16 +284,5 @@
     },
     "repository": "staart/ui",
     "description": "🏁🌐 Frontend Vue PWA starter for SaaS startups"
-  },
-  {
-    "updated_at": "2020-05-01T10:40:25Z",
-    "subject": {
-      "title": "AWS SES and ES config",
-      "url": "https://github.com/staart/api/issues/1121",
-      "latest_comment_url": "https://github.com/staart/api/issues/comments/622331975",
-      "type": "Issue"
-    },
-    "repository": "staart/api",
-    "description": "🏁🛠️ SaaS backend framework with users, payments, APIs, and more"
   }
 ]
