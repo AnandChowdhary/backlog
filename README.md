@@ -6,11 +6,11 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 - **[Request for UMD package for easy implementation in projects without build pipeline](https://github.com/AnandChowdhary/calendar-link/issues/220)**  
 [AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
-Last updated 4 days ago  
+Last updated 5 days ago  
 
 - **[spaces converted to plus sign in outlook.com](https://github.com/AnandChowdhary/calendar-link/issues/219)**  
 [AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
-Last updated 4 days ago  
+Last updated 5 days ago  
 
 - **[Maximum call stack size exceeded when using uppload on a bootstrap 3.3 modal in vue](https://github.com/elninotech/uppload/issues/331)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
@@ -42,7 +42,7 @@ Last updated 1 month ago
 
 - **[Add a settings option to choose where to render the Uppload modal](https://github.com/elninotech/uppload/issues/288)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 1 month ago  
+Last updated 2 months ago  
 
 - **[filesize problem](https://github.com/elninotech/uppload/issues/281)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
