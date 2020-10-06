@@ -6,11 +6,11 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 - **[Request for UMD package for easy implementation in projects without build pipeline](https://github.com/AnandChowdhary/calendar-link/issues/220)**  
 [AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
-Last updated 5 days ago  
+Last updated 6 days ago  
 
 - **[spaces converted to plus sign in outlook.com](https://github.com/AnandChowdhary/calendar-link/issues/219)**  
 [AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
-Last updated 5 days ago  
+Last updated 6 days ago  
 
 - **[Maximum call stack size exceeded when using uppload on a bootstrap 3.3 modal in vue](https://github.com/elninotech/uppload/issues/331)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
@@ -22,7 +22,7 @@ Last updated 3 weeks ago
 
 - **[Cannot click on other upload options after one is selected](https://github.com/elninotech/uppload/issues/249)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 3 weeks ago  
+Last updated 4 weeks ago  
 
 - **[Typescript will not compile](https://github.com/staart/api/issues/1352)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
