@@ -22,7 +22,7 @@ Last updated 4 weeks ago
 
 - **[Cannot click on other upload options after one is selected](https://github.com/elninotech/uppload/issues/249)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 4 weeks ago  
+Last updated 1 month ago  
 
 - **[Typescript will not compile](https://github.com/staart/api/issues/1352)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
@@ -79,6 +79,34 @@ Last updated 4 months ago
 - **[Custom media library/plugin similar to those extended from SearchBaseClass](https://github.com/elninotech/uppload/issues/91)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
 Last updated 3 months ago  
+
+- **[small version](https://github.com/AnandChowdhary/hackerbadge/issues/2)**  
+[AnandChowdhary/hackerbadge](https://github.com/AnandChowdhary/hackerbadge) · 📛 Embeddable badges for Hacker News posts/launches  
+Last updated 4 months ago  
+
+- **[ETXTBSY error when an instance of prisma2 is already running ](https://github.com/prisma/prisma/issues/1209)**  
+[prisma/prisma](https://github.com/prisma/prisma) · Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite  
+Last updated 4 months ago  
+
+- **[Exif data is getting lost](https://github.com/elninotech/uppload/issues/210)**  
+[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
+Last updated 3 months ago  
+
+- **[Default .env.example inline comments causing malformed links and values.](https://github.com/staart/api/issues/1126)**  
+[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
+Last updated 4 months ago  
+
+- **[install docs: schema.sql](https://github.com/staart/api/issues/1143)**  
+[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
+Last updated 4 months ago  
+
+- **[Question...not an issue report](https://github.com/staart/api-nest/issues/2)**  
+[staart/api-nest](https://github.com/staart/api-nest) · 🏁⚠️ DEPRECATED: Working repo for NestJS Staart API  
+Last updated 4 months ago  
+
+- **[dotENV File Secret Keys question for clarification](https://github.com/staart/ui/issues/874)**  
+[staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
+Last updated 4 months ago  
 
 
 ## 👩‍💻 Development
