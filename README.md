@@ -54,7 +54,7 @@ Last updated 2 months ago
 
 - **[Record Audio and Video](https://github.com/elninotech/uppload/issues/266)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 months ago  
+Last updated 3 months ago  
 
 - **[Update colors.json](https://github.com/AnandChowdhary/language-icons/pulls/3)**  
 [AnandChowdhary/language-icons](https://github.com/AnandChowdhary/language-icons) · 🈹 Better icons for languages, because flags just don't cut it  
@@ -62,7 +62,7 @@ Last updated 3 months ago
 
 - **[Missing dependencies from package.json](https://github.com/AnandChowdhary/auto-i18n/issues/299)**  
 [AnandChowdhary/auto-i18n](https://github.com/AnandChowdhary/auto-i18n) · 🌐 Automatically translate your JSON I18N files  
-Last updated 3 months ago  
+Last updated 4 months ago  
 
 - **[Using camera feature in mobile  responsive way is not working](https://github.com/elninotech/uppload/issues/232)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
@@ -106,7 +106,7 @@ Last updated 4 months ago
 
 - **[dotENV File Secret Keys question for clarification](https://github.com/staart/ui/issues/874)**  
 [staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
-Last updated 4 months ago  
+Last updated 5 months ago  
 
 
 ## 👩‍💻 Development
