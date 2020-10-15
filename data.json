@@ -240,16 +240,5 @@
     },
     "repository": "elninotech/uppload",
     "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
-  },
-  {
-    "updated_at": "2020-05-14T08:52:46Z",
-    "subject": {
-      "title": "Default .env.example inline comments causing malformed links and values.",
-      "url": "https://github.com/staart/api/issues/1126",
-      "latest_comment_url": "https://github.com/staart/api/issues/comments/627175702",
-      "type": "Issue"
-    },
-    "repository": "staart/api",
-    "description": "🏁🛠️ SaaS backend framework with users, payments, APIs, and more"
   }
 ]
