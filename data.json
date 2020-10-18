@@ -1,16 +1,5 @@
 [
   {
-    "updated_at": "2020-09-29T11:25:38Z",
-    "subject": {
-      "title": "Request for UMD package for easy implementation in projects without build pipeline",
-      "url": "https://github.com/AnandChowdhary/calendar-link/issues/220",
-      "latest_comment_url": "https://github.com/AnandChowdhary/calendar-link/issues/comments/700640000",
-      "type": "Issue"
-    },
-    "repository": "AnandChowdhary/calendar-link",
-    "description": "📅 Calendar link generator for popular services"
-  },
-  {
     "updated_at": "2020-09-29T10:42:04Z",
     "subject": {
       "title": "spaces converted to plus sign in outlook.com",
