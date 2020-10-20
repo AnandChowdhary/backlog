@@ -46,7 +46,7 @@ Last updated 2 months ago
 
 - **[Multiple Uppload instances have problems](https://github.com/elninotech/uppload/issues/180)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 months ago  
+Last updated 3 months ago  
 
 - **[Record Audio and Video](https://github.com/elninotech/uppload/issues/266)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
