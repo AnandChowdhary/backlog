@@ -1,16 +1,5 @@
 [
   {
-    "updated_at": "2020-09-29T10:42:04Z",
-    "subject": {
-      "title": "spaces converted to plus sign in outlook.com",
-      "url": "https://github.com/AnandChowdhary/calendar-link/issues/219",
-      "latest_comment_url": "https://github.com/AnandChowdhary/calendar-link/issues/comments/700620349",
-      "type": "Issue"
-    },
-    "repository": "AnandChowdhary/calendar-link",
-    "description": "📅 Calendar link generator for popular services"
-  },
-  {
     "updated_at": "2020-09-17T09:14:41Z",
     "subject": {
       "title": "Maximum call stack size exceeded when using uppload on a bootstrap 3.3 modal in vue",

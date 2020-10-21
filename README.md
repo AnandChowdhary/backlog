@@ -4,10 +4,6 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 [![Backlog Updater](https://github.com/AnandChowdhary/backlog/workflows/Backlog%20Updater/badge.svg)](https://github.com/AnandChowdhary/backlog/actions)
 
-- **[spaces converted to plus sign in outlook.com](https://github.com/AnandChowdhary/calendar-link/issues/219)**  
-[AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
-Last updated 2 weeks ago  
-
 - **[Maximum call stack size exceeded when using uppload on a bootstrap 3.3 modal in vue](https://github.com/elninotech/uppload/issues/331)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
 Last updated 1 month ago  
@@ -34,7 +30,7 @@ Last updated 1 month ago
 
 - **[Typescript Compilation Errors](https://github.com/staart/api/issues/1319)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 1 month ago  
+Last updated 2 months ago  
 
 - **[Add a settings option to choose where to render the Uppload modal](https://github.com/elninotech/uppload/issues/288)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
