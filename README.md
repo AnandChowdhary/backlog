@@ -80,10 +80,6 @@ Last updated 4 months ago
 [prisma/prisma](https://github.com/prisma/prisma) · Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite  
 Last updated 4 months ago  
 
-- **[Exif data is getting lost](https://github.com/elninotech/uppload/issues/210)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 4 months ago  
-
 
 ## 👩‍💻 Development
 

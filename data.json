@@ -207,16 +207,5 @@
     },
     "repository": "prisma/prisma",
     "description": "Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite"
-  },
-  {
-    "updated_at": "2020-06-13T16:21:15Z",
-    "subject": {
-      "title": "Exif data is getting lost",
-      "url": "https://github.com/elninotech/uppload/issues/210",
-      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/632789576",
-      "type": "Issue"
-    },
-    "repository": "elninotech/uppload",
-    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
   }
 ]
