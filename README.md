@@ -26,7 +26,7 @@ Last updated 1 month ago
 
 - **[Question / Potential Feature Request: Does it make sense to have something like that for pm2 features?](https://github.com/denorg/dpx/issues/7)**  
 [denorg/dpx](https://github.com/denorg/dpx) · 📦 CLI to run a Deno package without installing it (like npx for Deno)  
-Last updated 1 month ago  
+Last updated 2 months ago  
 
 - **[Typescript Compilation Errors](https://github.com/staart/api/issues/1319)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
@@ -78,7 +78,7 @@ Last updated 4 months ago
 
 - **[ETXTBSY error when an instance of prisma2 is already running ](https://github.com/prisma/prisma/issues/1209)**  
 [prisma/prisma](https://github.com/prisma/prisma) · Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite  
-Last updated 4 months ago  
+Last updated 5 months ago  
 
 
 ## 👩‍💻 Development
