@@ -74,10 +74,6 @@ Last updated 4 months ago
 
 - **[small version](https://github.com/AnandChowdhary/hackerbadge/issues/2)**  
 [AnandChowdhary/hackerbadge](https://github.com/AnandChowdhary/hackerbadge) · 📛 Embeddable badges for Hacker News posts/launches  
-Last updated 4 months ago  
-
-- **[ETXTBSY error when an instance of prisma2 is already running ](https://github.com/prisma/prisma/issues/1209)**  
-[prisma/prisma](https://github.com/prisma/prisma) · Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite  
 Last updated 5 months ago  
 
 
