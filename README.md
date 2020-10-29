@@ -22,7 +22,7 @@ Last updated 1 month ago
 
 - **[Add account deactivate feature](https://github.com/staart/api/issues/1350)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 1 month ago  
+Last updated 2 months ago  
 
 - **[Question / Potential Feature Request: Does it make sense to have something like that for pm2 features?](https://github.com/denorg/dpx/issues/7)**  
 [denorg/dpx](https://github.com/denorg/dpx) · 📦 CLI to run a Deno package without installing it (like npx for Deno)  
@@ -71,10 +71,6 @@ Last updated 4 months ago
 - **[Custom media library/plugin similar to those extended from SearchBaseClass](https://github.com/elninotech/uppload/issues/91)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
 Last updated 4 months ago  
-
-- **[small version](https://github.com/AnandChowdhary/hackerbadge/issues/2)**  
-[AnandChowdhary/hackerbadge](https://github.com/AnandChowdhary/hackerbadge) · 📛 Embeddable badges for Hacker News posts/launches  
-Last updated 5 months ago  
 
 
 ## 👩‍💻 Development
