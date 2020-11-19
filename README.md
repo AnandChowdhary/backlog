@@ -4,73 +4,57 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 [![Backlog Updater](https://github.com/AnandChowdhary/backlog/workflows/Backlog%20Updater/badge.svg)](https://github.com/AnandChowdhary/backlog/actions)
 
-- **[Maximum call stack size exceeded when using uppload on a bootstrap 3.3 modal in vue](https://github.com/elninotech/uppload/issues/331)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 1 month ago  
-
-- **[For anyone having issues with Prisma](https://github.com/staart/api/issues/1380)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 1 month ago  
-
-- **[Cannot click on other upload options after one is selected](https://github.com/elninotech/uppload/issues/249)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 1 month ago  
-
-- **[Typescript will not compile](https://github.com/staart/api/issues/1352)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 1 month ago  
-
-- **[Add account deactivate feature](https://github.com/staart/api/issues/1350)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 2 months ago  
-
-- **[Question / Potential Feature Request: Does it make sense to have something like that for pm2 features?](https://github.com/denorg/dpx/issues/7)**  
-[denorg/dpx](https://github.com/denorg/dpx) · 📦 CLI to run a Deno package without installing it (like npx for Deno)  
-Last updated 2 months ago  
-
-- **[Typescript Compilation Errors](https://github.com/staart/api/issues/1319)**  
-[staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more  
-Last updated 2 months ago  
-
-- **[Add a settings option to choose where to render the Uppload modal](https://github.com/elninotech/uppload/issues/288)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 months ago  
-
-- **[filesize problem](https://github.com/elninotech/uppload/issues/281)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 3 months ago  
-
-- **[Multiple Uppload instances have problems](https://github.com/elninotech/uppload/issues/180)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 3 months ago  
-
-- **[Record Audio and Video](https://github.com/elninotech/uppload/issues/266)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 3 months ago  
-
-- **[Update colors.json](https://github.com/AnandChowdhary/language-icons/pulls/3)**  
+- **[Cannot build on clean clone](https://github.com/AnandChowdhary/language-icons/issues/7)**  
 [AnandChowdhary/language-icons](https://github.com/AnandChowdhary/language-icons) · 🈹 Better icons for languages, because flags just don't cut it  
-Last updated 3 months ago  
+Last updated 2 days ago  
 
-- **[Missing dependencies from package.json](https://github.com/AnandChowdhary/auto-i18n/issues/299)**  
-[AnandChowdhary/auto-i18n](https://github.com/AnandChowdhary/auto-i18n) · 🌐 Automatically translate your JSON I18N files  
-Last updated 4 months ago  
+- **[add colors for Czech, Hungarian, Romanian and Russian](https://github.com/AnandChowdhary/language-icons/pulls/6)**  
+[AnandChowdhary/language-icons](https://github.com/AnandChowdhary/language-icons) · 🈹 Better icons for languages, because flags just don't cut it  
+Last updated 2 days ago  
 
-- **[Using camera feature in mobile  responsive way is not working](https://github.com/elninotech/uppload/issues/232)**  
+- **[Graphs issue](https://github.com/upptime/upptime/issues/53)**  
+[upptime/upptime](https://github.com/upptime/upptime) · ⬆️ Uptime monitor and status page powered by GitHub  
+Last updated 4 days ago  
+
+- **[Failed to execute 'fetch' on 'Window'](https://github.com/elninotech/uppload/issues/31)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 4 months ago  
+Last updated 4 days ago  
 
-- **[Support for image metadata](https://github.com/elninotech/uppload/issues/233)**  
+- **[unable to generate event if the user is not loggedin to outlook account  before selecting outlook online](https://github.com/AnandChowdhary/calendar-link/issues/161)**  
+[AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
+Last updated 6 days ago  
+
+- **[Support max-age](https://github.com/sindresorhus/quick-lru/issues/18)**  
+[sindresorhus/quick-lru](https://github.com/sindresorhus/quick-lru) · Simple “Least Recently Used” (LRU) cache  
+Last updated 1 week ago  
+
+- **[Request for query caching](https://github.com/prisma/prisma/issues/3165)**  
+[prisma/prisma](https://github.com/prisma/prisma) · Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite  
+Last updated 1 week ago  
+
+- **[Multiple rate limiters within same project](https://github.com/ozkanonur/nestjs-rate-limiter/issues/31)**  
+[ozkanonur/nestjs-rate-limiter](https://github.com/ozkanonur/nestjs-rate-limiter) · Highly configurable rate limiter library built for NestJS  
+Last updated 1 week ago  
+
+- **[outlook online event is not generated in mobile devices](https://github.com/AnandChowdhary/calendar-link/issues/162)**  
+[AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
+Last updated 1 week ago  
+
+- **[Autopublishing this module to https://nest.land](https://github.com/denorg/qrcode/pulls/4)**  
+[denorg/qrcode](https://github.com/denorg/qrcode) · 📇 Generate QR code images in Deno  
+Last updated 2 weeks ago  
+
+- **[Option to force publish](https://github.com/semantic-release/semantic-release/issues/216)**  
+[semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) · :package::rocket: Fully automated version management and package publishing  
+Last updated 2 weeks ago  
+
+- **[Bump node-sass from 4.14.1 to 5.0.0](https://github.com/OswaldLabsOpenSource/agastya/pulls/626)**  
+[OswaldLabsOpenSource/agastya](https://github.com/OswaldLabsOpenSource/agastya) · ♿ Oswald Labs' web accessibility plugin  
+Last updated 2 weeks ago  
+
+- **[Make sure the camera closes properly when Uppload is closed](https://github.com/elninotech/uppload/pulls/345)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 4 months ago  
-
-- **[Fido2](https://github.com/denorg/denorg/issues/5)**  
-[denorg/denorg](https://github.com/denorg/denorg) · 🦕  Deno-focused community organization and consultancy company  
-Last updated 4 months ago  
-
-- **[Custom media library/plugin similar to those extended from SearchBaseClass](https://github.com/elninotech/uppload/issues/91)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 4 months ago  
+Last updated 3 weeks ago  
 
 
 ## 👩‍💻 Development

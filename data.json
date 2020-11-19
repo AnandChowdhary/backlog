@@ -1,187 +1,143 @@
 [
   {
-    "updated_at": "2020-09-17T09:14:41Z",
+    "updated_at": "2020-11-16T13:45:25Z",
     "subject": {
-      "title": "Maximum call stack size exceeded when using uppload on a bootstrap 3.3 modal in vue",
-      "url": "https://github.com/elninotech/uppload/issues/331",
-      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/694100928",
+      "title": "Cannot build on clean clone",
+      "url": "https://github.com/AnandChowdhary/language-icons/issues/7",
+      "latest_comment_url": "https://github.com/AnandChowdhary/language-icons/issues/comments/728040592",
       "type": "Issue"
     },
-    "repository": "elninotech/uppload",
-    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
+    "repository": "AnandChowdhary/language-icons",
+    "description": "🈹 Better icons for languages, because flags just don't cut it"
   },
   {
-    "updated_at": "2020-09-09T05:54:29Z",
+    "updated_at": "2020-11-16T08:09:02Z",
     "subject": {
-      "title": "For anyone having issues with Prisma",
-      "url": "https://github.com/staart/api/issues/1380",
-      "latest_comment_url": "https://github.com/staart/api/issues/comments/689323683",
-      "type": "Issue"
-    },
-    "repository": "staart/api",
-    "description": "🏁🛠️ SaaS backend framework with users, payments, APIs, and more"
-  },
-  {
-    "updated_at": "2020-09-07T07:42:51Z",
-    "subject": {
-      "title": "Cannot click on other upload options after one is selected",
-      "url": "https://github.com/elninotech/uppload/issues/249",
-      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/688112063",
-      "type": "Issue"
-    },
-    "repository": "elninotech/uppload",
-    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
-  },
-  {
-    "updated_at": "2020-09-03T13:14:06Z",
-    "subject": {
-      "title": "Typescript will not compile",
-      "url": "https://github.com/staart/api/issues/1352",
-      "latest_comment_url": "https://github.com/staart/api/issues/comments/686481403",
-      "type": "Issue"
-    },
-    "repository": "staart/api",
-    "description": "🏁🛠️ SaaS backend framework with users, payments, APIs, and more"
-  },
-  {
-    "updated_at": "2020-08-29T09:18:19Z",
-    "subject": {
-      "title": "Add account deactivate feature",
-      "url": "https://github.com/staart/api/issues/1350",
-      "latest_comment_url": "https://github.com/staart/api/issues/comments/683263317",
-      "type": "Issue"
-    },
-    "repository": "staart/api",
-    "description": "🏁🛠️ SaaS backend framework with users, payments, APIs, and more"
-  },
-  {
-    "updated_at": "2020-08-26T21:53:28Z",
-    "subject": {
-      "title": "Question / Potential Feature Request: Does it make sense to have something like that for pm2 features?",
-      "url": "https://github.com/denorg/dpx/issues/7",
-      "latest_comment_url": "https://github.com/denorg/dpx/issues/7",
-      "type": "Issue"
-    },
-    "repository": "denorg/dpx",
-    "description": "📦 CLI to run a Deno package without installing it (like npx for Deno)"
-  },
-  {
-    "updated_at": "2020-08-21T09:56:53Z",
-    "subject": {
-      "title": "Typescript Compilation Errors",
-      "url": "https://github.com/staart/api/issues/1319",
-      "latest_comment_url": "https://github.com/staart/api/issues/comments/678156387",
-      "type": "Issue"
-    },
-    "repository": "staart/api",
-    "description": "🏁🛠️ SaaS backend framework with users, payments, APIs, and more"
-  },
-  {
-    "updated_at": "2020-08-04T18:31:10Z",
-    "subject": {
-      "title": "Add a settings option to choose where to render the Uppload modal",
-      "url": "https://github.com/elninotech/uppload/issues/288",
-      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/668756358",
-      "type": "Issue"
-    },
-    "repository": "elninotech/uppload",
-    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
-  },
-  {
-    "updated_at": "2020-07-24T07:58:29Z",
-    "subject": {
-      "title": "filesize problem",
-      "url": "https://github.com/elninotech/uppload/issues/281",
-      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/663396753",
-      "type": "Issue"
-    },
-    "repository": "elninotech/uppload",
-    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
-  },
-  {
-    "updated_at": "2020-07-20T14:33:10Z",
-    "subject": {
-      "title": "Multiple Uppload instances have problems",
-      "url": "https://github.com/elninotech/uppload/issues/180",
-      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/661077506",
-      "type": "Issue"
-    },
-    "repository": "elninotech/uppload",
-    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
-  },
-  {
-    "updated_at": "2020-07-11T10:13:10Z",
-    "subject": {
-      "title": "Record Audio and Video",
-      "url": "https://github.com/elninotech/uppload/issues/266",
-      "latest_comment_url": "https://github.com/elninotech/uppload/issues/266",
-      "type": "Issue"
-    },
-    "repository": "elninotech/uppload",
-    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
-  },
-  {
-    "updated_at": "2020-07-01T03:31:03Z",
-    "subject": {
-      "title": "Update colors.json",
-      "url": "https://github.com/AnandChowdhary/language-icons/pulls/3",
-      "latest_comment_url": "https://github.com/AnandChowdhary/language-icons/pulls/3",
+      "title": "add colors for Czech, Hungarian, Romanian and Russian",
+      "url": "https://github.com/AnandChowdhary/language-icons/pulls/6",
+      "latest_comment_url": "https://github.com/AnandChowdhary/language-icons/pulls/6",
       "type": "PullRequest"
     },
     "repository": "AnandChowdhary/language-icons",
     "description": "🈹 Better icons for languages, because flags just don't cut it"
   },
   {
-    "updated_at": "2020-06-11T09:33:14Z",
+    "updated_at": "2020-11-14T13:26:43Z",
     "subject": {
-      "title": "Missing dependencies from package.json",
-      "url": "https://github.com/AnandChowdhary/auto-i18n/issues/299",
-      "latest_comment_url": "https://github.com/AnandChowdhary/auto-i18n/issues/comments/642532111",
+      "title": "Graphs issue",
+      "url": "https://github.com/upptime/upptime/issues/53",
+      "latest_comment_url": "https://github.com/upptime/upptime/issues/comments/727201297",
       "type": "Issue"
     },
-    "repository": "AnandChowdhary/auto-i18n",
-    "description": "🌐 Automatically translate your JSON I18N files"
+    "repository": "upptime/upptime",
+    "description": "⬆️ Uptime monitor and status page powered by GitHub"
   },
   {
-    "updated_at": "2020-06-13T16:21:16Z",
+    "updated_at": "2020-11-14T07:13:50Z",
     "subject": {
-      "title": "Using camera feature in mobile  responsive way is not working",
-      "url": "https://github.com/elninotech/uppload/issues/232",
-      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/641795095",
-      "type": "Issue"
-    },
-    "repository": "elninotech/uppload",
-    "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
-  },
-  {
-    "updated_at": "2020-06-13T16:21:16Z",
-    "subject": {
-      "title": "Support for image metadata",
-      "url": "https://github.com/elninotech/uppload/issues/233",
-      "latest_comment_url": "https://github.com/elninotech/uppload/issues/233",
+      "title": "Failed to execute 'fetch' on 'Window'",
+      "url": "https://github.com/elninotech/uppload/issues/31",
+      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/727158580",
       "type": "Issue"
     },
     "repository": "elninotech/uppload",
     "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
   },
   {
-    "updated_at": "2020-06-03T22:39:47Z",
+    "updated_at": "2020-11-12T07:37:17Z",
     "subject": {
-      "title": "Fido2",
-      "url": "https://github.com/denorg/denorg/issues/5",
-      "latest_comment_url": "https://github.com/denorg/denorg/issues/5",
+      "title": "unable to generate event if the user is not loggedin to outlook account  before selecting outlook online",
+      "url": "https://github.com/AnandChowdhary/calendar-link/issues/161",
+      "latest_comment_url": "https://github.com/AnandChowdhary/calendar-link/issues/comments/725898078",
       "type": "Issue"
     },
-    "repository": "denorg/denorg",
-    "description": "🦕  Deno-focused community organization and consultancy company"
+    "repository": "AnandChowdhary/calendar-link",
+    "description": "📅 Calendar link generator for popular services"
   },
   {
-    "updated_at": "2020-06-13T16:21:13Z",
+    "updated_at": "2020-11-08T13:49:46Z",
     "subject": {
-      "title": "Custom media library/plugin similar to those extended from SearchBaseClass",
-      "url": "https://github.com/elninotech/uppload/issues/91",
-      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/635954000",
+      "title": "Support max-age",
+      "url": "https://github.com/sindresorhus/quick-lru/issues/18",
+      "latest_comment_url": "https://github.com/sindresorhus/quick-lru/issues/comments/723579909",
       "type": "Issue"
+    },
+    "repository": "sindresorhus/quick-lru",
+    "description": "Simple “Least Recently Used” (LRU) cache"
+  },
+  {
+    "updated_at": "2020-11-08T13:49:52Z",
+    "subject": {
+      "title": "Request for query caching",
+      "url": "https://github.com/prisma/prisma/issues/3165",
+      "latest_comment_url": "https://github.com/prisma/prisma/issues/comments/723579460",
+      "type": "Issue"
+    },
+    "repository": "prisma/prisma",
+    "description": "Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite"
+  },
+  {
+    "updated_at": "2020-11-08T13:36:29Z",
+    "subject": {
+      "title": "Multiple rate limiters within same project",
+      "url": "https://github.com/ozkanonur/nestjs-rate-limiter/issues/31",
+      "latest_comment_url": "https://github.com/ozkanonur/nestjs-rate-limiter/issues/comments/723578292",
+      "type": "Issue"
+    },
+    "repository": "ozkanonur/nestjs-rate-limiter",
+    "description": "Highly configurable rate limiter library built for NestJS"
+  },
+  {
+    "updated_at": "2020-11-08T00:27:34Z",
+    "subject": {
+      "title": "outlook online event is not generated in mobile devices",
+      "url": "https://github.com/AnandChowdhary/calendar-link/issues/162",
+      "latest_comment_url": "https://github.com/AnandChowdhary/calendar-link/issues/162",
+      "type": "Issue"
+    },
+    "repository": "AnandChowdhary/calendar-link",
+    "description": "📅 Calendar link generator for popular services"
+  },
+  {
+    "updated_at": "2020-11-04T22:21:13Z",
+    "subject": {
+      "title": "Autopublishing this module to https://nest.land",
+      "url": "https://github.com/denorg/qrcode/pulls/4",
+      "latest_comment_url": "https://github.com/denorg/qrcode/pulls/4",
+      "type": "PullRequest"
+    },
+    "repository": "denorg/qrcode",
+    "description": "📇 Generate QR code images in Deno"
+  },
+  {
+    "updated_at": "2020-11-04T10:12:21Z",
+    "subject": {
+      "title": "Option to force publish",
+      "url": "https://github.com/semantic-release/semantic-release/issues/216",
+      "latest_comment_url": "https://github.com/semantic-release/semantic-release/issues/comments/721640372",
+      "type": "Issue"
+    },
+    "repository": "semantic-release/semantic-release",
+    "description": ":package::rocket: Fully automated version management and package publishing"
+  },
+  {
+    "updated_at": "2020-10-31T14:02:08Z",
+    "subject": {
+      "title": "Bump node-sass from 4.14.1 to 5.0.0",
+      "url": "https://github.com/OswaldLabsOpenSource/agastya/pulls/626",
+      "latest_comment_url": "https://github.com/OswaldLabsOpenSource/agastya/pulls/626",
+      "type": "PullRequest"
+    },
+    "repository": "OswaldLabsOpenSource/agastya",
+    "description": "♿ Oswald Labs' web accessibility plugin"
+  },
+  {
+    "updated_at": "2020-10-27T17:42:10Z",
+    "subject": {
+      "title": "Make sure the camera closes properly when Uppload is closed",
+      "url": "https://github.com/elninotech/uppload/pulls/345",
+      "latest_comment_url": "https://github.com/elninotech/uppload/issues/comments/717411098",
+      "type": "PullRequest"
     },
     "repository": "elninotech/uppload",
     "description": "📁 Uppload is a better JavaScript image uploader with 30+ plugins"
