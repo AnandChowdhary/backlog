@@ -4,33 +4,65 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 [![Backlog Updater](https://github.com/AnandChowdhary/backlog/workflows/Backlog%20Updater/badge.svg)](https://github.com/AnandChowdhary/backlog/actions)
 
+- **[⬆️ Bump semantic-release from 17.0.7 to 17.2.3](https://github.com/AnandChowdhary/docs-markdown/pulls/4)**  
+[AnandChowdhary/docs-markdown](https://github.com/AnandChowdhary/docs-markdown) · 📝 Convert a Google Docs file (API response) to Markdown  
+Last updated 2 days ago  
+
+- **[⬆️ Bump semantic-release from 17.0.4 to 17.2.3](https://github.com/AnandChowdhary/eject-dependencies/pulls/4)**  
+[AnandChowdhary/eject-dependencies](https://github.com/AnandChowdhary/eject-dependencies) · 🪂 CLI to eject your npm dependencies to your source code  
+Last updated 2 days ago  
+
+- **[could not read Username for 'https://github.com': terminal prompts disabled](https://github.com/upptime/upptime/issues/59)**  
+[upptime/upptime](https://github.com/upptime/upptime) · ⬆️ Uptime monitor and status page powered by GitHub  
+Last updated 2 days ago  
+
+- **[⬆️ Bump vsoch/pull-request-action from 1.0.11 to 1.0.12](https://github.com/stethoscope-js/action/pulls/29)**  
+[stethoscope-js/action](https://github.com/stethoscope-js/action) · 🎬 GitHub Action to track your life data using Stethoscope  
+Last updated 2 days ago  
+
+- **[⬆️ Bump @koj/config from 1.2.8 to 1.2.9](https://github.com/stethoscope-js/integrations/pulls/55)**  
+[stethoscope-js/integrations](https://github.com/stethoscope-js/integrations) · 🧬 Node.js/TypeScript packages to track your life data using Stethoscope  
+Last updated 2 days ago  
+
+- **[⬆️ Bump @koj/config from 1.2.8 to 1.2.9](https://github.com/stethoscope-js/action/pulls/28)**  
+[stethoscope-js/action](https://github.com/stethoscope-js/action) · 🎬 GitHub Action to track your life data using Stethoscope  
+Last updated 2 days ago  
+
+- **[⬆️ Bump @semantic-release/github from 7.1.2 to 7.2.0](https://github.com/stethoscope-js/integrations/pulls/54)**  
+[stethoscope-js/integrations](https://github.com/stethoscope-js/integrations) · 🧬 Node.js/TypeScript packages to track your life data using Stethoscope  
+Last updated 2 days ago  
+
+- **[⬆️ Bump vsoch/pull-request-action from 1.0.11 to 1.0.12](https://github.com/stethoscope-js/integrations/pulls/53)**  
+[stethoscope-js/integrations](https://github.com/stethoscope-js/integrations) · 🧬 Node.js/TypeScript packages to track your life data using Stethoscope  
+Last updated 2 days ago  
+
 - **[⬆️ Bump vue-jest from 5.0.0-alpha.5 to 5.0.0-alpha.6](https://github.com/staart/ui/pulls/1011)**  
 [staart/ui](https://github.com/staart/ui) · 🏁🌐 Frontend Vue PWA starter for SaaS startups  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[Outlook converts spaces to plus signs (with workaround)](https://github.com/InteractionDesignFoundation/add-event-to-calendar-docs/issues/20)**  
 [InteractionDesignFoundation/add-event-to-calendar-docs](https://github.com/InteractionDesignFoundation/add-event-to-calendar-docs) · 📅 Docs how to generate links to add events to online calendar services  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[Stripe payment module finished?](https://github.com/staart/api/issues/1498)**  
 [staart/api](https://github.com/staart/api) · 🏁🛠️ SaaS backend framework with users, payments, APIs, and more, powered by @nestjs  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[Cannot build on clean clone](https://github.com/AnandChowdhary/language-icons/issues/7)**  
 [AnandChowdhary/language-icons](https://github.com/AnandChowdhary/language-icons) · 🈹 Better icons for languages, because flags just don't cut it  
-Last updated 3 days ago  
+Last updated 4 days ago  
 
 - **[add colors for Czech, Hungarian, Romanian and Russian](https://github.com/AnandChowdhary/language-icons/pulls/6)**  
 [AnandChowdhary/language-icons](https://github.com/AnandChowdhary/language-icons) · 🈹 Better icons for languages, because flags just don't cut it  
-Last updated 3 days ago  
+Last updated 4 days ago  
 
 - **[Graphs issue](https://github.com/upptime/upptime/issues/53)**  
 [upptime/upptime](https://github.com/upptime/upptime) · ⬆️ Uptime monitor and status page powered by GitHub  
-Last updated 5 days ago  
+Last updated 6 days ago  
 
 - **[Failed to execute 'fetch' on 'Window'](https://github.com/elninotech/uppload/issues/31)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 5 days ago  
+Last updated 6 days ago  
 
 - **[unable to generate event if the user is not loggedin to outlook account  before selecting outlook online](https://github.com/AnandChowdhary/calendar-link/issues/161)**  
 [AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
@@ -62,31 +94,15 @@ Last updated 2 weeks ago
 
 - **[Help link on Camera error page is broken](https://github.com/elninotech/uppload/issues/403)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[Full description about file limitations](https://github.com/elninotech/uppload/issues/400)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[Change maxFileSize error language to human readable format](https://github.com/elninotech/uppload/issues/402)**  
 [elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 days ago  
-
-- **[Files count limit](https://github.com/elninotech/uppload/issues/399)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 2 days ago  
-
-- **[Bump node-sass from 4.14.1 to 5.0.0](https://github.com/OswaldLabsOpenSource/agastya/pulls/626)**  
-[OswaldLabsOpenSource/agastya](https://github.com/OswaldLabsOpenSource/agastya) · ♿ Oswald Labs' web accessibility plugin  
-Last updated 2 weeks ago  
-
-- **[Make sure the camera closes properly when Uppload is closed](https://github.com/elninotech/uppload/pulls/345)**  
-[elninotech/uppload](https://github.com/elninotech/uppload) · 📁 Uppload is a better JavaScript image uploader with 30+ plugins  
-Last updated 3 weeks ago  
-
-- **[Incorrect Yahoo All Day Calendar URL](https://github.com/AnandChowdhary/calendar-link/issues/190)**  
-[AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
-Last updated 4 weeks ago  
+Last updated 3 days ago  
 
 
 ## 👩‍💻 Development
