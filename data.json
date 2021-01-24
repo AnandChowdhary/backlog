@@ -1,38 +1,5 @@
 [
   {
-    "updated_at": "2021-01-21T06:46:56Z",
-    "subject": {
-      "title": "⬆️ Bump rollup from 2.37.0 to 2.37.1",
-      "url": "https://github.com/staart/ui/pulls/1049",
-      "latest_comment_url": "https://github.com/staart/ui/pulls/1049",
-      "type": "PullRequest"
-    },
-    "repository": "staart/ui",
-    "description": "🏁🌐 Frontend Svelte PWA starter for SaaS startups"
-  },
-  {
-    "updated_at": "2021-01-21T05:53:53Z",
-    "subject": {
-      "title": "⬆️ Bump semantic-release from 17.3.1 to 17.3.6",
-      "url": "https://github.com/koj-co/airtable-fill/pulls/59",
-      "latest_comment_url": "https://github.com/koj-co/airtable-fill/issues/comments/764398580",
-      "type": "PullRequest"
-    },
-    "repository": "koj-co/airtable-fill",
-    "description": "💨 Fill empty fields Airtable using Node.js and GitHub Actions"
-  },
-  {
-    "updated_at": "2021-01-20T21:56:20Z",
-    "subject": {
-      "title": "Bump gsap from 2.1.3 to 3.6.0 in /wp-content/themes/cleverclip",
-      "url": "https://github.com/Cleverclip/cleverclipstudios/pulls/8",
-      "latest_comment_url": "https://github.com/Cleverclip/cleverclipstudios/pulls/8",
-      "type": "PullRequest"
-    },
-    "repository": "Cleverclip/cleverclipstudios",
-    "description": "cleverclipstudios.com Wordpress Website"
-  },
-  {
     "updated_at": "2021-01-20T09:48:06Z",
     "subject": {
       "title": "Translations stopped working",
@@ -42,27 +9,5 @@
     },
     "repository": "OswaldLabsOpenSource/agastya",
     "description": "♿ Oswald Labs' web accessibility plugin"
-  },
-  {
-    "updated_at": "2021-01-20T06:53:26Z",
-    "subject": {
-      "title": "⬆️ Bump autoprefixer from 10.2.1 to 10.2.3",
-      "url": "https://github.com/staart/ui/pulls/1048",
-      "latest_comment_url": "https://github.com/staart/ui/pulls/1048",
-      "type": "PullRequest"
-    },
-    "repository": "staart/ui",
-    "description": "🏁🌐 Frontend Svelte PWA starter for SaaS startups"
-  },
-  {
-    "updated_at": "2021-01-20T06:52:11Z",
-    "subject": {
-      "title": "⬆️ Bump @types/node from 14.14.21 to 14.14.22",
-      "url": "https://github.com/staart/ui/pulls/1047",
-      "latest_comment_url": "https://github.com/staart/ui/pulls/1047",
-      "type": "PullRequest"
-    },
-    "repository": "staart/ui",
-    "description": "🏁🌐 Frontend Svelte PWA starter for SaaS startups"
   }
 ]
