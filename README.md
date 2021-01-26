@@ -6,7 +6,7 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 - **[Translations stopped working](https://github.com/OswaldLabsOpenSource/agastya/issues/683)**  
 [OswaldLabsOpenSource/agastya](https://github.com/OswaldLabsOpenSource/agastya) · ♿ Oswald Labs' web accessibility plugin  
-Last updated 4 days ago  
+Last updated 5 days ago  
 
 
 ## 👩‍💻 Development
