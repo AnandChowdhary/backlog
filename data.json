@@ -1,5 +1,27 @@
 [
   {
+    "updated_at": "2021-01-31T00:38:23Z",
+    "subject": {
+      "title": "spaces converted to plus sign in outlook.com",
+      "url": "https://github.com/AnandChowdhary/calendar-link/issues/219",
+      "latest_comment_url": "https://github.com/AnandChowdhary/calendar-link/issues/comments/770304424",
+      "type": "Issue"
+    },
+    "repository": "AnandChowdhary/calendar-link",
+    "description": "📅 Calendar link generator for popular services"
+  },
+  {
+    "updated_at": "2021-01-31T00:38:22Z",
+    "subject": {
+      "title": "Fix Outlook's title and description space issue",
+      "url": "https://github.com/AnandChowdhary/calendar-link/pulls/266",
+      "latest_comment_url": "https://github.com/AnandChowdhary/calendar-link/issues/comments/770304422",
+      "type": "PullRequest"
+    },
+    "repository": "AnandChowdhary/calendar-link",
+    "description": "📅 Calendar link generator for popular services"
+  },
+  {
     "updated_at": "2021-01-20T09:48:06Z",
     "subject": {
       "title": "Translations stopped working",
