@@ -6,11 +6,11 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 - **[spaces converted to plus sign in outlook.com](https://github.com/AnandChowdhary/calendar-link/issues/219)**  
 [AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[Fix Outlook's title and description space issue](https://github.com/AnandChowdhary/calendar-link/pulls/266)**  
 [AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) · 📅 Calendar link generator for popular services  
-Last updated 2 days ago  
+Last updated 3 days ago  
 
 - **[Translations stopped working](https://github.com/OswaldLabsOpenSource/agastya/issues/683)**  
 [OswaldLabsOpenSource/agastya](https://github.com/OswaldLabsOpenSource/agastya) · ♿ Oswald Labs' web accessibility plugin  
