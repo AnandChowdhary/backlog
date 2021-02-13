@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "updated_at": "2021-02-11T06:04:51Z",
+    "subject": {
+      "title": "⬆️ Bump typescript from 4.1.3 to 4.1.5",
+      "url": "https://github.com/koj-co/airtable-fill/pulls/66",
+      "latest_comment_url": "https://github.com/koj-co/airtable-fill/pulls/66",
+      "type": "PullRequest"
+    },
+    "repository": "koj-co/airtable-fill",
+    "description": "💨 Fill empty fields Airtable using Node.js and GitHub Actions"
+  }
+]
