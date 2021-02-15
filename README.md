@@ -4,9 +4,6 @@ This is a list of things I (still) have to do from my GitHub open-source project
 
 [![Backlog Updater](https://github.com/AnandChowdhary/backlog/workflows/Backlog%20Updater/badge.svg)](https://github.com/AnandChowdhary/backlog/actions)
 
-- **[⬆️ Bump typescript from 4.1.3 to 4.1.5](https://github.com/koj-co/airtable-fill/pulls/66)**  
-[koj-co/airtable-fill](https://github.com/koj-co/airtable-fill) · 💨 Fill empty fields Airtable using Node.js and GitHub Actions  
-Last updated 2 days ago  
 
 
 ## 👩‍💻 Development
